@@ -150,7 +150,7 @@ class Spider(object):
                         % (hero_name, self.hero_info[hero_name]['title'], self.hero_info[hero_name]['type'],
                             self.hero_info[hero_name]['surviveAbility'], self.hero_info[hero_name]['attackAbility'],
                             self.hero_info[hero_name]['skillAbility'], self.hero_info[hero_name]['difficulty'],
-                            self.hero_info[hero_name]['story'])
+                            self.hero_info[hero_name]['story'].replace('<', ''))
 
                     for skill in self.hero_info[hero_name]['skills']:
                         now_line += '\t\t\t<skill>\n\t\t\t\t<name>%s</name>\n\t\t\t\t<avator>%s</avator>\n\t\t\t\t<detail>%s</detail>\n\t\t\t\t<intro>%s</intro>\n\t\t\t\t<cdTime>%s</cdTime>\n\t\t\t\t<consumption>%s</consumption>\n\t\t\t</skill>\n' \
