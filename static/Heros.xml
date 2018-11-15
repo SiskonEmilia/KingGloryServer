@@ -1,7 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <heros>
 	<hero>
 	<name>"廉颇"</name>
-		<title>正义爆轰</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/105/105-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/105/105.jpg</avator>
+	<title>正义爆轰</title>
 		<position>坦克</position>
 		<surviveAbility>10</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -13,7 +16,7 @@
 		<skills>
 			<skill>
 				<name>友情守护</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/105/10500.png</avator>
 				<detail>被动：廉颇释放技能的过程中处于霸体状态，并且减少20%所受到的伤害</detail>
 				<intro>施放技能减伤，而且不会被控制</intro>
 				<cdTime>0</cdTime>
@@ -21,7 +24,7 @@
 			</skill>
 			<skill>
 				<name>豪情突进</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/105/10510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/105/10510.png</avator>
 				<detail>廉颇向指定方向发起冲锋，对敌人造成200/230/260/290/320/350（+80%物理加成）点物理伤害并将其击飞1秒</detail>
 				<intro>利用突进技能，可击飞敌人</intro>
 				<cdTime>60</cdTime>
@@ -29,7 +32,7 @@
 			</skill>
 			<skill>
 				<name>激情迸发</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/105/10520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/105/10520.png</avator>
 				<detail>廉颇短暂蓄力后爆发为自身提供抵免350/420/490/560/630/700点伤害的护盾，同时对范围内的敌人造成500/560/620/680/740/800（+155%物理加成）点物理伤害并减少其30%移动速度，持续1秒</detail>
 				<intro>12技能连招可打出小爆发伤害</intro>
 				<cdTime>70</cdTime>
@@ -37,7 +40,7 @@
 			</skill>
 			<skill>
 				<name>正义豪腕</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/105/10530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/105/10530.png</avator>
 				<detail>廉颇跳向指定区域连续锤击地面三次，第一次锤击会对范围内敌人造成200/280/360（+65%物理加成）点物理伤害，随后每次递增50%的伤害，并且第一次和第二次锤击时，范围内敌人分别会减少30%和50%移动速度，持续1秒，第三次锤击会将范围内的敌人击飞1.5秒。第二下和第三下攻击前可以短暂的移动一段时间。在技能释放期间可以使用豪情突击强制终端当前技能</detail>
 				<intro>找机会突进技能开团，尽量大招控制到更多敌人</intro>
 				<cdTime>150</cdTime>
@@ -47,7 +50,9 @@
 	</hero>
 	<hero>
 	<name>"小乔"</name>
-		<title>恋之微风</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/106/106-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/106/106.jpg</avator>
+	<title>恋之微风</title>
 		<position>法师</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -59,7 +64,7 @@
 		<skills>
 			<skill>
 				<name>治愈微笑</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/106/10600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/106/10600.png</avator>
 				<detail>被动：小乔释放技能命中敌人时，会增加25％移动速度，持续2秒</detail>
 				<intro>利用技能命中敌人，被动提供的移速加成能让小乔更好的追击敌人或撤退</intro>
 				<cdTime>0</cdTime>
@@ -67,7 +72,7 @@
 			</skill>
 			<skill>
 				<name>绽放之舞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/106/10610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/106/10610.png</avator>
 				<detail>小乔向指定方向扔出一把回旋飞行的扇子，会对第一个命中的敌人造成450/540/630/720/810/900（+80％法术加成）点法术伤害，每次命中后伤害都会衰减20％，最低衰减至初始伤害的40％</detail>
 				<intro>小乔的主要输出技能，这个技能命中直线上更多的敌人能有效打出AOE伤害，在面对敌人的追击时使用此技能命中率会更高</intro>
 				<cdTime>60</cdTime>
@@ -75,7 +80,7 @@
 			</skill>
 			<skill>
 				<name>甜蜜恋风</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/106/10620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/106/10620.png</avator>
 				<detail>小乔在指定区域召唤出一道旋风，对区域内敌人造成300/340/380/420/460/500（+50％法术加成）点法术伤害并击飞1.5秒</detail>
 				<intro>小乔的主要控制技能，利用2技能击飞敌人能极大提高1技能的命中率，打出连招爆发伤害</intro>
 				<cdTime>80</cdTime>
@@ -83,7 +88,7 @@
 			</skill>
 			<skill>
 				<name>星华缭乱</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/106/10630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/106/10630.png</avator>
 				<detail>小乔召唤流星并不断向附近的敌人坠落，召唤持续5秒，每颗流星会造成400/500/600（+100％法术加成）点法术伤害，每个敌人最多承受4次攻击，当多颗流星命中同一目标时，从第二颗流星开始将只造成50％伤害</detail>
 				<intro>团战时利用此群攻技能能打出不错的伤害，但注意走位保证生存</intro>
 				<cdTime>140</cdTime>
@@ -93,7 +98,9 @@
 	</hero>
 	<hero>
 	<name>"赵云"</name>
-		<title>苍天翔龙</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/107/107-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/107/107.jpg</avator>
+	<title>苍天翔龙</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -105,7 +112,7 @@
 		<skills>
 			<skill>
 				<name>龙鸣</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/107/10700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/107/10700.png</avator>
 				<detail>被动：赵云每损失3%最大生命值，就会获得减少1%所受到的伤害</detail>
 				<intro>赵云的生命值越低，免伤效果越强，提升了赵云的战斗生存能力，也使得他更容易形成残血反杀</intro>
 				<cdTime>0</cdTime>
@@ -113,7 +120,7 @@
 			</skill>
 			<skill>
 				<name>惊雷之龙</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/107/10710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/107/10710.png</avator>
 				<detail>赵云执枪向指定方向冲锋，对路径上的敌人造成190/214/238/262/286/310（+100%物理加成）点物理伤害；冲锋后的下一次普通攻击会造成65/74/83/92/101/110（+160%物理加成）点物理伤害并将其减少25%移动速度，持续2秒</detail>
 				<intro>突进技能，利用此技能突进敌方后排或选择撤退</intro>
 				<cdTime>40</cdTime>
@@ -121,7 +128,7 @@
 			</skill>
 			<skill>
 				<name>破云之龙</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/107/10720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/107/10720.png</avator>
 				<detail>赵云向指定方向连续3次刺出龙枪，对指定方向敌人每次造成140/158/176/194/212/230（+60%物理加成）点物理伤害；每次命中英雄后回复35/39/43/47/51/55（+14%物理加成）点生命值</detail>
 				<intro>此技能范围较近，能持续对敌人造成伤害，但很依赖走位和操作技巧</intro>
 				<cdTime>50</cdTime>
@@ -129,7 +136,7 @@
 			</skill>
 			<skill>
 				<name>天翔之龙</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/107/10730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/107/10730.png</avator>
 				<detail>赵云跃向空中，向目标区域发动雷霆一击，对范围内敌人造成350/450/550（+130%物理加成）点物理伤害并击飞1秒；同时标记敌人为感电目标；赵云的普通攻击和技能伤害对感电目标会造成额外30/45/60（+13%物理加成）点法术伤害</detail>
 				<intro>突进技能，有AOE伤害和控制效果，但是技能有一定时间的前摇，所以使用前需要预判好敌方位置</intro>
 				<cdTime>100</cdTime>
@@ -139,7 +146,9 @@
 	</hero>
 	<hero>
 	<name>"墨子"</name>
-		<title>和平守望</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/108/108-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/108/108.jpg</avator>
+	<title>和平守望</title>
 		<position>法师</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -151,7 +160,7 @@
 		<skills>
 			<skill>
 				<name>兼爱非攻</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/108/10800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/108/10800.png</avator>
 				<detail>被动：墨子连续使用普通攻击时，第四次普通攻击将变更为炮击，炮击会造成（+125%法术加成）及（+150%物理加成）的法术伤害，同时将目标击退0.75秒；当墨子施放技能时会获得抵免250（+35%法术加成）点伤害的护盾，持续3秒</detail>
 				<intro>承受敌方攻击时，释放技能形成护盾抵消部分伤害，第四次普攻有物理和法术加成已经击退效果，在血量充足的情况下尽量打出此被动技能造成伤害，击退能有小团控的效果</intro>
 				<cdTime>0</cdTime>
@@ -159,7 +168,7 @@
 			</skill>
 			<skill>
 				<name>和平漫步</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/108/10810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/108/10810.png</avator>
 				<detail>墨子驾驶机关人向指定方向突进，对路径上的敌人造成250/300/350/400/450/500（+38法术加成）点法术伤害，并将下一次普通攻击变更为炮击</detail>
 				<intro>可利用此技能突进，控制敌人，也可利用此技能进行穿墙逃跑</intro>
 				<cdTime>70</cdTime>
@@ -167,7 +176,7 @@
 			</skill>
 			<skill>
 				<name>机关重炮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/108/10820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/108/10820.png</avator>
 				<detail>墨子驾驶机关人向指定方向发射一枚炮弹，炮弹命中敌人时会发生范围爆炸造成500/560/620/680/740/800（+65%法术加成）点法术伤害并将范围内敌人眩晕1秒，炮弹爆炸后将留下弹坑持续4秒每0.5秒造成50/56/62/68/74/80（+52%法术加成）点法术伤害</detail>
 				<intro>远程范围控制技能，可用于远距离开团或撤退时控制敌人</intro>
 				<cdTime>70</cdTime>
@@ -175,7 +184,7 @@
 			</skill>
 			<skill>
 				<name>墨守成规</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/108/10830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/108/10830.png</avator>
 				<detail>墨子驾驶机关人展开高能屏障，对触碰到屏障的敌人每0.5秒造成200/250/300（+45%法术加成）点法术伤害并将其晕眩在原地，屏障最多持续3.3秒</detail>
 				<intro>拥有长达5秒的控制时间，但是这段时间内很容易被敌方技能打断控制效果.</intro>
 				<cdTime>150</cdTime>
@@ -185,7 +194,9 @@
 	</hero>
 	<hero>
 	<name>"妲己"</name>
-		<title>魅力之狐</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/109/109-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/109/109.jpg</avator>
+	<title>魅力之狐</title>
 		<position>法师</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -197,7 +208,7 @@
 		<skills>
 			<skill>
 				<name>失心</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/109/10900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/109/10900.png</avator>
 				<detail>被动：如果妲己技能命中敌人，将会减少目标30~72点法术防御，最多叠加3层，减少幅度随英雄等级成长</detail>
 				<intro>妲己能输出高额法术伤害的保证</intro>
 				<cdTime>0</cdTime>
@@ -205,7 +216,7 @@
 			</skill>
 			<skill>
 				<name>灵魂冲击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/109/10910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/109/10910.png</avator>
 				<detail>妲己向指定方向挥出灵魂冲击波，对命中的敌人造成520/585/650/715/780/845（+122%法术加成）点法术伤害</detail>
 				<intro>妲己的主要伤害与消耗技能，攻击距离较长，有强大的消耗能力.但技能出手较慢，有一定的施法延迟</intro>
 				<cdTime>80</cdTime>
@@ -213,7 +224,7 @@
 			</skill>
 			<skill>
 				<name>偶像魅力</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/109/10920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/109/10920.png</avator>
 				<detail>妲己锁定敌人并抛出魅力爱心，对命中的敌人造成285/320/355/390/425/460（+66%法术加成）点法术伤害，并将其眩晕1.5秒</detail>
 				<intro>妲己的控制技能，缺点是施法范围较小，所以务必保证敌人在施法范围内时再释放技能控制敌人</intro>
 				<cdTime>90</cdTime>
@@ -221,7 +232,7 @@
 			</skill>
 			<skill>
 				<name>女王崇拜</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/109/10930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/109/10930.png</avator>
 				<detail>妲己放出5团狐火自动攻击附近的敌人，每团狐火造成325/405/485（+75%法术加成）点法术伤害，当多团狐火命中同一个目标时，从第二团狐火开始将只造成50%伤害</detail>
 				<intro>配合控制技能可瞬间将敌人打成残血，后期在法伤足够条件下，可瞬间秒杀敌人</intro>
 				<cdTime>120</cdTime>
@@ -231,7 +242,9 @@
 	</hero>
 	<hero>
 	<name>"嬴政"</name>
-		<title>王者独尊</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/110/110-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/110/110.jpg</avator>
+	<title>王者独尊</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -243,7 +256,7 @@
 		<skills>
 			<skill>
 				<name>王者审判</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/110/11000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/110/11000.png</avator>
 				<detail>被动：嬴政的普通攻击可以击穿目标，并造成70（+100%物理加成）（+30%法术加成）点法术伤害；攻击机关时会衰减50%的伤害</detail>
 				<intro>前期在清理兵线时有较大作用而且能神不知鬼不觉的消耗对手</intro>
 				<cdTime>0</cdTime>
@@ -251,7 +264,7 @@
 			</skill>
 			<skill>
 				<name>王者惩戒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/110/11010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/110/11010.png</avator>
 				<detail>嬴政在指定目标区域召唤黄金剑阵，持续2.5秒，每0.5秒对范围内的敌人造成100/120/140/160/180/200（+27%法术加成）点法术伤害；范围内敌人会减少10%移动速度，持续1秒，最多叠加5层</detail>
 				<intro>嬴政主要输出和伤害技能，但有一定的延迟效果，所以需要准确的预判敌人走位</intro>
 				<cdTime>100</cdTime>
@@ -259,7 +272,7 @@
 			</skill>
 			<skill>
 				<name>王者守御</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/110/11020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/110/11020.png</avator>
 				<detail>嬴政开启王之护盾，持续时间内增加自身140/168/196/224/252/280法术攻击力和10/11/12/13/14/15%移动速度；被动：增加嬴政自身70/84/98/112/126/140法术攻击力和2/3/3/4/4/5%移动速度</detail>
 				<intro>在使用其他输出技能前开启，能增强其它技能输出能力，并且护盾效果也能提升一定的自保能力</intro>
 				<cdTime>40</cdTime>
@@ -267,7 +280,7 @@
 			</skill>
 			<skill>
 				<name>至尊王权</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/110/11030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/110/11030.png</avator>
 				<detail>嬴政展示王者权力，增加20%移动速度，持续5秒，期间将会号令55只飞剑持续向指定方向进行冲击，每只飞剑能造成70/90/110（+8%法术加成）点法术伤害，该技能会对小兵和野怪造成25%额外伤害</detail>
 				<intro>霸气无比的伤害技能，伤害极高，使用过程中嬴政可以移动，不断调整位置扫射敌人</intro>
 				<cdTime>150</cdTime>
@@ -277,7 +290,9 @@
 	</hero>
 	<hero>
 	<name>"孙尚香"</name>
-		<title>千金重弩</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/111/111-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/111/111.jpg</avator>
+	<title>千金重弩</title>
 		<position>射手</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -289,7 +304,7 @@
 		<skills>
 			<skill>
 				<name>活力迸发</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/111/11100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/111/11100.png</avator>
 				<detail>被动：孙尚香每次普通攻击都会减少0.5秒翻滚突袭的冷却时间</detail>
 				<intro>利用更多的普攻来减少1技能翻滚突袭的CD时间，可以让孙尚香更灵活</intro>
 				<cdTime>0</cdTime>
@@ -297,7 +312,7 @@
 			</skill>
 			<skill>
 				<name>翻滚突袭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/111/11110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/111/11110.png</avator>
 				<detail>孙尚香向指定方向翻滚，下一次普通攻击变更为强化射击，强化射击会对一条直线上的敌人造成300/330/360/390/420/450（+100%物理加成）点物理伤害，如果翻滚后附近有敌方英雄将会增加80%持续衰减的移动速度，持续2秒，使用强化射击后会重置下一次普通攻击并增加攻击距离。</detail>
 				<intro>孙尚香主要的位移技能和输出技能，用于追人和撤退使用</intro>
 				<cdTime>25</cdTime>
@@ -305,7 +320,7 @@
 			</skill>
 			<skill>
 				<name>红莲爆弹</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/111/11120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/111/11120.png</avator>
 				<detail>孙尚香向指定目标范围投掷爆弹，对范围内敌人造成200/240/280/320/360/400（+100%物理加成）点物理伤害并减少90%移动速度，持续1秒，被命中的敌人还会被标记4秒，孙尚香的普攻伤害会对标记目标造成额外75/85/95/105/115/125（+15%物理加成）点物理伤害；标记持续期间增加孙尚香物理穿透20%</detail>
 				<intro>相当于一个范围性的软控制技能，命中敌人后，能让孙尚香更好的输出敌人或选择撤退</intro>
 				<cdTime>50</cdTime>
@@ -313,7 +328,7 @@
 			</skill>
 			<skill>
 				<name>究极弩炮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/111/11130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/111/11130.png</avator>
 				<detail>孙尚香蓄力向指定方向发射一枚弩炮，弩炮在触碰敌人或者飞行到最远距离后将发生爆炸，对第一名触碰的敌人造成500/750/1000（+185%物理加成）点物理伤害，对爆破范围内的敌人造成50%伤害</detail>
 				<intro>这个技能最好在战斗初使用，尽量将敌人打残，让孙尚香尽早进入收割的节奏</intro>
 				<cdTime>100</cdTime>
@@ -323,7 +338,9 @@
 	</hero>
 	<hero>
 	<name>"鲁班七号"</name>
-		<title>机关造物</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/112/112-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/112/112.jpg</avator>
+	<title>机关造物</title>
 		<position>射手</position>
 		<surviveAbility>1</surviveAbility>
 		<attackAbility>10</attackAbility>
@@ -335,7 +352,7 @@
 		<skills>
 			<skill>
 				<name>火力压制</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/112/11200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/112/11200.png</avator>
 				<detail>被动：鲁班七号连续使用普通攻击时，第五次普通攻击会掏出机关枪进行扫射，扫射会造成3次伤害，对敌人英雄每次造成其最大生命5%物理伤害（每80点额外物理攻击提升1%），对小兵野怪防御塔造成120（+50%物理加成）点物理伤害</detail>
 				<intro>有被动的鲁班是相当强势的，对线时尽量叠被动那一下去消耗敌方远程英雄</intro>
 				<cdTime>0</cdTime>
@@ -343,7 +360,7 @@
 			</skill>
 			<skill>
 				<name>河豚手雷</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/112/11210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/112/11210.png</avator>
 				<detail>鲁班向指定位置投掷一枚河豚手雷，对范围内的敌人造成300/350/400/450/500/550（+100%物理加成）点物理伤害并减少其25%移动速度，持续2秒;使用手雷后鲁班七号下一次普通攻击更变为扫射</detail>
 				<intro>能造成短时间减速和眩晕效果，团战时尽可能命中更多敌人，利用普攻配合技能持续输出</intro>
 				<cdTime>50</cdTime>
@@ -351,7 +368,7 @@
 			</skill>
 			<skill>
 				<name>无敌鲨嘴炮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/112/11220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/112/11220.png</avator>
 				<detail>鲁班向指定方向发射火箭炮击退身前敌人，命中英雄后造成260/295/330/365/400/435（+100%物理加成）点物理伤害，并附带目标已损生命5/6/7/8/9/10%法术伤害，发射火箭炮后鲁班七号下一次普通攻击变更为扫射</detail>
 				<intro>全屏技能，伤害不高，可以在对线时进行消耗，可以在将敌人致残后进行远程收割</intro>
 				<cdTime>70</cdTime>
@@ -359,7 +376,7 @@
 			</skill>
 			<skill>
 				<name>空中支援</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/112/11230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/112/11230.png</avator>
 				<detail>鲁班召唤河豚飞艇向指定方向进行空中支援，支援持续14秒，河豚飞艇可照亮视野且每秒对范围内随机一个敌人投掷炸弹，炸弹会在0.75秒落下，对于目标范围内的敌人造成320/400/480（+123%物理加成）点物理伤害；召唤飞艇后鲁班七号下一次普通攻击变更为扫射</detail>
 				<intro>技能速度很慢，范围极大，能起到一定的威慑作用，团战可打出可观的AOE伤害</intro>
 				<cdTime>100</cdTime>
@@ -369,7 +386,9 @@
 	</hero>
 	<hero>
 	<name>"庄周"</name>
-		<title>逍遥幻梦</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/113/113-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/113/113.jpg</avator>
+	<title>逍遥幻梦</title>
 		<position>辅助</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>2</attackAbility>
@@ -381,7 +400,7 @@
 		<skills>
 			<skill>
 				<name>自然意志</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/113/11300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/113/11300.png</avator>
 				<detail>被动：庄周每隔6秒进入自然梦境，会解除自身所有控制效果，并且减少15%所受到的伤害，增加15%移动速度，持续2秒</detail>
 				<intro>被动效果无疑提升了庄周的生存能力</intro>
 				<cdTime>0</cdTime>
@@ -389,7 +408,7 @@
 			</skill>
 			<skill>
 				<name>化蝶</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/113/11310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/113/11310.png</avator>
 				<detail>庄周幻化出蝴蝶解除自身控制，蝴蝶飞向指定方向，对路径上的敌人造成400/480/560/640/720/800（+72%法术加成）点法术伤害，并减少其50%移动速度，持续2秒</detail>
 				<intro>此技能配合被动效果能在追击敌人时留人，能在面对追击时减速多个敌人安全撤退</intro>
 				<cdTime>80</cdTime>
@@ -397,7 +416,7 @@
 			</skill>
 			<skill>
 				<name>蝴蝶效应</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/113/11320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/113/11320.png</avator>
 				<detail>庄周梦中蝴蝶扇起翅膀，对身边的敌人造成250/320/390/460/530/600（+30%法术加成）的法术伤害，并增加范围内友军3%移动速度，持续5秒，技能连续命中会叠加效果，伤害每层叠加125/160/195/230/265/300（+15%法术加成）的法术伤害，移动速度每层叠加3%，最多叠加4层；被动：庄周每隔6秒会自动释放一次蝴蝶效应</detail>
 				<intro>该技能CD较短，可多次使用，不管是追击还是撤退都是好的选择</intro>
 				<cdTime>40</cdTime>
@@ -405,7 +424,7 @@
 			</skill>
 			<skill>
 				<name>天人合一</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/113/11330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/113/11330.png</avator>
 				<detail>庄周幻化梦域保护附近友军，使得他们免疫控制效果并且减少10%所受到的伤害，持续2秒</detail>
 				<intro>一个非常强大的保护技能，此技能效果为友军减伤并提高伤害，配合装备军团荣耀效果极佳</intro>
 				<cdTime>150</cdTime>
@@ -415,7 +434,9 @@
 	</hero>
 	<hero>
 	<name>"刘禅"</name>
-		<title>暴走机关</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/114/114-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/114/114.jpg</avator>
+	<title>暴走机关</title>
 		<position>坦克</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -427,7 +448,7 @@
 		<skills>
 			<skill>
 				<name>磁力屏障</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/114/11400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/114/11400.png</avator>
 				<detail>被动：刘禅可对机关释放技能造成等量的伤害，并且刘禅的控制技能可对机关造成干扰效果，持续1秒；当刘禅技能对机关造成还伤害时会掠夺零件为自身回复200~396点生命值，回复效果随英雄等级成长</detail>
 				<intro>被动让刘禅能更快的摧毁敌方的防御塔和水晶</intro>
 				<cdTime>0</cdTime>
@@ -435,7 +456,7 @@
 			</skill>
 			<skill>
 				<name>小霸王护盾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/114/11410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/114/11410.png</avator>
 				<detail>刘禅立即重置普攻并开启护盾向前发起冲锋，吸收600/840/1080/1320/1560/1800点伤害同时提升自身25%移动速度持续3秒，并强化下一次普通攻击，造成350/400/450/500/550/600（+122%物理加成）点物理伤害并击飞敌人1秒</detail>
 				<intro>几乎每次开团都是由刘禅的1技能开启的，开启护盾冲锋将敌人击飞，留住敌人，辅助队友将其击杀，当然这个技能在面对敌方gank或追击时也可用来逃跑</intro>
 				<cdTime>70</cdTime>
@@ -443,7 +464,7 @@
 			</skill>
 			<skill>
 				<name>机关魔爪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/114/11420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/114/11420.png</avator>
 				<detail>刘禅操纵机关熊猫向指定方向伸出魔爪进行攻击，对范围内的敌人造成400/480/560/640/720/800（+100%物理加成）点物理伤害并且会将范围内敌人眩晕1秒</detail>
 				<intro>2技能控制指定方向范围上的敌人，为队友创造输出条件</intro>
 				<cdTime>65</cdTime>
@@ -451,7 +472,7 @@
 			</skill>
 			<skill>
 				<name>暴走熊猫</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/114/11430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/114/11430.png</avator>
 				<detail>刘禅操纵机关熊猫展开双臂持续旋转攻击附近敌人，持续3秒，对方范围内的敌人每0.5秒造成240/320/400（+75%物理加成）点物理伤害。</detail>
 				<intro>大招是AOE伤害，范围较大，输出不高但威慑力十足.</intro>
 				<cdTime>140</cdTime>
@@ -461,7 +482,9 @@
 	</hero>
 	<hero>
 	<name>"高渐离"</name>
-		<title>叛逆吟游</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/115/115-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/115/115.jpg</avator>
+	<title>叛逆吟游</title>
 		<position>法师</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -473,7 +496,7 @@
 		<skills>
 			<skill>
 				<name>哀歌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/115/11500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/115/11500.png</avator>
 				<detail>被动：高渐离的普通攻击或释放技能可视作一次演奏，每四次演奏后的下一次普通攻击将会向目标弹奏出带有击穿效果的能量和弦，造成300（+100%法术加成）的法术伤害</detail>
 				<intro>能量和弦具有穿透效果，同时拥有物理与法术加成.这个效果不管在前后期都是不错的消耗方式</intro>
 				<cdTime>0</cdTime>
@@ -481,7 +504,7 @@
 			</skill>
 			<skill>
 				<name>狂歌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/115/11510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/115/11510.png</avator>
 				<detail>高渐离弹奏出音符，锁定附近至多2名敌人造成350/410/470/530/590/650（+47%法术加成）点法术伤害；音符命中敌人后，会向附近的敌人进行弹射，音符至多弹射2次；当多个音符命中同一目标时，从第二个音符开始将只造成30%伤害</detail>
 				<intro>技能可同时攻击两个敌方单位，并且施法范围较大，对线或团战前都可以用来消耗敌人，前期伤害也是较为可观的.</intro>
 				<cdTime>80</cdTime>
@@ -489,7 +512,7 @@
 			</skill>
 			<skill>
 				<name>离歌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/115/11520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/115/11520.png</avator>
 				<detail>高渐离震慑琴弦，对附近敌人造成500/560/620/680/740/800（+65%法术加成）点法术伤害并减少其35%/40%/45%/50%/55%/60%移动速度，持续2秒</detail>
 				<intro>AOE技能，造成伤害并减速，能留住敌人，配合大招使用效果更佳.但需注意，此技能范围较小，注意与敌军距离，靠近后再释放</intro>
 				<cdTime>70</cdTime>
@@ -497,7 +520,7 @@
 			</skill>
 			<skill>
 				<name>魔音贯耳</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/115/11530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/115/11530.png</avator>
 				<detail>高渐离释放激情，每0.5秒进行一次演奏，对附近敌人造成200/250/300（+15%法术加成）点法术伤害，持续5秒；演奏持续时自身会减少15%所受到的伤害，并且附近每个敌方英雄还将减少高渐离5%所收到的伤害；并且在演奏开始时自身会增加70%持续衰减的移动速度，持续3秒</detail>
 				<intro>持续性的AOE输出加上免伤效果和移动速度加成，这个技能在后期有着高额的法术伤害和极强的机动性，是非常棒的团战切后排的技能.</intro>
 				<cdTime>140</cdTime>
@@ -507,7 +530,9 @@
 	</hero>
 	<hero>
 	<name>"阿轲"</name>
-		<title>信念之刃</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/116/116-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/116/116.jpg</avator>
+	<title>信念之刃</title>
 		<position>刺客</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>10</attackAbility>
@@ -519,7 +544,7 @@
 		<skills>
 			<skill>
 				<name>死吻</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/116/11600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/116/11600.png</avator>
 				<detail>被动：阿轲在敌人身后发起的攻击，必定暴击，在敌人正面发起的所有攻击，必定不暴击；阿轲的初始暴击伤害为125%，每1%暴击几率将额外的增加0.5%暴击伤害；阿轲对非英雄目标最多造成1500伤害</detail>
 				<intro>被动技能导致阿轲在敌人正面和背后的输出完全不在一个档次上，在敌人背后进行输出能造成巨大的伤害</intro>
 				<cdTime>0</cdTime>
@@ -527,7 +552,7 @@
 			</skill>
 			<skill>
 				<name>弧光</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/116/11610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/116/11610.png</avator>
 				<detail>阿轲立即向指定方向挥动双刺发动2次攻击，每次造成150/170/190/210/230/250（+65%额外物理加成）点物理伤害</detail>
 				<intro>普攻间隙使用，瞬间造成大量输出，注意施法时继续移动缠住对手</intro>
 				<cdTime>0</cdTime>
@@ -535,7 +560,7 @@
 			</skill>
 			<skill>
 				<name>瞬华</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/116/11620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/116/11620.png</avator>
 				<detail>阿轲朝指定方向快速位移，在抵达终点后，立即对附近的一名敌人发起攻击，提升自己40%攻速持续3秒，造成300/340/380/420/460/500（+100%额外物理加成）点物理伤害并标记目标，持续10秒；阿轲每次攻击标记目标时会将其减少50%移动速度，持续1秒，并缩短瞬华1秒冷却时间；阿轲被标记目标攻击时会减少30%所受到的伤害；阿轲同一时间只能标记一个敌人。</detail>
 				<intro>2技能先手标记敌人后再进行输出，并且2技能的位移能帮助阿轲瞬间到达敌方背后</intro>
 				<cdTime>0</cdTime>
@@ -543,7 +568,7 @@
 			</skill>
 			<skill>
 				<name>幻舞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/116/11630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/116/11630.png</avator>
 				<detail>阿轲短暂准备后进入隐身状态，处于隐身状态时，每0.5秒回复100/150/200（+25%额外物理加成）点生命值并增加40%移动速度，持续3秒；当阿轲发起攻击时会解除隐身状态，并在3秒内增加自身150/175/200点攻击力，同时每当对敌人造成伤害时会增加30%移动速度，持续1秒。被动：击败英雄或者助攻时刷新所有技能冷却时间。</detail>
 				<intro>利用大招的隐身和加速效果切入战场并利用2技能迅速靠近敌方后排进行输出，击杀/助攻后再利用大招逃生或伺机而动</intro>
 				<cdTime>0</cdTime>
@@ -553,7 +578,9 @@
 	</hero>
 	<hero>
 	<name>"钟无艳"</name>
-		<title>野蛮之锤</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/117/117-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/117/117.jpg</avator>
+	<title>野蛮之锤</title>
 		<position>战士</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -565,7 +592,7 @@
 		<skills>
 			<skill>
 				<name>石之炼金</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/117/11700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/117/11700.png</avator>
 				<detail>被动：钟无艳造成伤害时，会有50%几率将敌方英雄石化0.75秒，每个敌方英雄在8秒内只会受到一次石化效果</detail>
 				<intro>被动的石化效果无疑增强了钟无艳的控制效果，也变相的增加了他的生存能力</intro>
 				<cdTime>0</cdTime>
@@ -573,7 +600,7 @@
 			</skill>
 			<skill>
 				<name>狂飙突进</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/117/11710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/117/11710.png</avator>
 				<detail>钟无艳向指定方向突进，并将下一次普通攻击替换为重击，重击将造成225/270/315/360/405/450（+120%物理加成）点物理伤害，并且会减少50%移动速度，持续2秒</detail>
 				<intro>钟无艳在追击敌人或逃跑时都能利用此技能进行位移，重击也有可观的输出伤害</intro>
 				<cdTime>50</cdTime>
@@ -581,7 +608,7 @@
 			</skill>
 			<skill>
 				<name>震慑打击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/117/11720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/117/11720.png</avator>
 				<detail>钟无艳蓄力后用大锤猛击地面，对范围内的敌人造成350/420/490/560/630/700（+150%物理加成）点物理伤害，对范围中心的敌人造成双倍伤害</detail>
 				<intro>非常强大的范围控制技能，将范围内的敌人击飞，对敌人造成高额的伤害，配合被动的石化效果能形成非常强力的控制</intro>
 				<cdTime>70</cdTime>
@@ -589,7 +616,7 @@
 			</skill>
 			<skill>
 				<name>飓风之锤</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/117/11730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/117/11730.png</avator>
 				<detail>钟无艳抡起大锤持续旋转攻击附近敌人，持续3.2秒，每0.4秒造成150/200/250（+80%物理加成）点物理伤害，并且当敌人处于外圈时将额外造成40%伤害；被动：钟无艳召唤大地之力，每3秒生成一个持续存在的岩土护盾，岩土护盾可抵免120/180/240(+45%物理加成)点伤害</detail>
 				<intro>钟无艳的主要输出技能，持续性的AOE伤害输出配合被动的石化效果会非常恐怖</intro>
 				<cdTime>100</cdTime>
@@ -599,7 +626,9 @@
 	</hero>
 	<hero>
 	<name>"孙膑"</name>
-		<title>逆流之时</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/118/118-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/118/118.jpg</avator>
+	<title>逆流之时</title>
 		<position>辅助</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -611,7 +640,7 @@
 		<skills>
 			<skill>
 				<name>时间沙漏</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/118/11800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/118/11800.png</avator>
 				<detail>被动：孙膑释放技能会增加20%移动速度，持续1秒</detail>
 				<intro>施放技能会短暂提升移动速度，这无疑提升了孙膑的生存能力，一定程度影响敌人的攻击节奏</intro>
 				<cdTime>0</cdTime>
@@ -619,7 +648,7 @@
 			</skill>
 			<skill>
 				<name>时空爆弹</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/118/11810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/118/11810.png</avator>
 				<detail>孙膑向指定方向投掷一枚炸弹，并附带着在目标身上，持续3秒后爆炸，附着目标时造成180/225/270/315/360/405（+18%法术加成）点法术伤害，爆炸对范围内敌人造成540/675/810/945/1080/1215（+54%法术加成）点法术伤害并减少其40%移动速度，持续2秒。</detail>
 				<intro>这是孙膑一个重要的团控技能，技能范围较远，可以用来很好的留人或撤退.该技能还能降低敌方魔抗，对于我方法师来说，放大了他们的输出能力</intro>
 				<cdTime>60</cdTime>
@@ -627,7 +656,7 @@
 			</skill>
 			<skill>
 				<name>时之波动</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/118/11820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/118/11820.png</avator>
 				<detail>孙膑引导时空之力，使得范围内友军增加30%/36%/42%/48%/54%/60%移动速度和20%冷却缩短，持续2秒，持续时间结束后会时光倒流，并返还期间所受到40%的伤害</detail>
 				<intro>为附近友军补充承受伤害的护盾，并提高移动速度，提升友军的输出能力，这个技能无论是追击或者掩护队友撤退都很强，这是孙膑作为法师辅助最有特点的技能之一</intro>
 				<cdTime>60</cdTime>
@@ -635,7 +664,7 @@
 			</skill>
 			<skill>
 				<name>时光流逝</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/118/11830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/118/11830.png</avator>
 				<detail>孙膑向指定方向投掷一枚强化炸弹，附着敌人或飞行到最大距离后展开力场，展开时会对范围内敌人造成500/625/750（+45%法术加成）点法术伤害并减少其50%移动速度，同时敌人还会被沉默1秒；力场将持续5秒，处于力场中的敌人会减少25%冷却的恢复速度，5秒后会再次对范围内敌人造成1500/1875/2250（+135%法术加成）点法术伤害。</detail>
 				<intro>这个技能范围较大，团战时如果命中多个敌人，能沉默并减速敌方对手，变相降低了敌人的输出，为我方英雄创造非常好的输出条件.</intro>
 				<cdTime>100</cdTime>
@@ -645,7 +674,9 @@
 	</hero>
 	<hero>
 	<name>"扁鹊"</name>
-		<title>善恶怪医</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/119/119-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/119/119.jpg</avator>
+	<title>善恶怪医</title>
 		<position>法师</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -657,7 +688,7 @@
 		<skills>
 			<skill>
 				<name>恶德医疗</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/119/11900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/119/11900.png</avator>
 				<detail>被动：扁鹊的普通攻击和技能都会附带剧毒，每秒造成25（+5%法术加成）点法术伤害，并叠加1层毒药印记，当友方英雄受到善恶诊断的治疗时，每秒回复5（+2%法术加成）点生命值，并叠加1层回复印记；毒药印记和恢复印记最多可叠加至多5层，持续7秒</detail>
 				<intro>该技能可以在技能或普攻后有持续伤害，所以线上消耗和换血都是一个不错的选择，在与其对拼时，不要等到残血再撤退，否则有可能被持续伤害的效果击杀</intro>
 				<cdTime>0</cdTime>
@@ -665,7 +696,7 @@
 			</skill>
 			<skill>
 				<name>致命灵药</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/119/11910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/119/11910.png</avator>
 				<detail>扁鹊朝指定目标范围扔出致命毒药瓶，毒药瓶触地后破碎，毒液会残留原地，持续4秒，毒液每秒会对范围内的敌人造成70/76/82/88/94/100（+12%法术加成）点法术伤害并减少其30%移动速度，持续2秒；扁鹊每15/14.4/13.8/13.2/12.6/12秒可制作1瓶毒药，最多存放3瓶</detail>
 				<intro>伤害不太高，主要的作用还是在于减速，相当于一个软性控制技能，限制敌方的走位</intro>
 				<cdTime>40</cdTime>
@@ -673,7 +704,7 @@
 			</skill>
 			<skill>
 				<name>善恶诊断</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/119/11920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/119/11920.png</avator>
 				<detail>扁鹊朝指定方向释放药剂，对路径上的敌人造成100/120/140/160/180/200（+30%法术加成）点法术伤害，并且对触碰的友军英雄施加恢复印记并回复50/60/70/80/90/100（+15%法术加成）点生命值</detail>
 				<intro>该技能可以对友军和自己进行治疗，在蓝量健康的情况下，可以施放技能来回血，团战中，能给队友形成不错的治疗效果</intro>
 				<cdTime>60</cdTime>
@@ -681,7 +712,7 @@
 			</skill>
 			<skill>
 				<name>生命主宰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/119/11930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/119/11930.png</avator>
 				<detail>扁鹊引爆附近所有印记，对敌人造成200/250/300（+40%法术加成）点法术伤害，对友军英雄治疗80/100/120（+20%法术加成）点生命值.每层印记额外增加50%的额外伤害与治疗效果。</detail>
 				<intro>大范围的伤害和回复技能，在被动印记层数较高时，能对敌方造成强力的法术伤害，对友军有很强的治疗效果</intro>
 				<cdTime>130</cdTime>
@@ -691,7 +722,9 @@
 	</hero>
 	<hero>
 	<name>"白起"</name>
-		<title>最终兵器</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/120/120-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/120/120.jpg</avator>
+	<title>最终兵器</title>
 		<position>坦克</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -703,7 +736,7 @@
 		<skills>
 			<skill>
 				<name>反击之镰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/120/12000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/120/12000.png</avator>
 				<detail>被动：白起的普通攻击和技能将会减少目标对白起造成5％~12％的伤害，持续3秒，减少幅度随英雄等级成长</detail>
 				<intro>白起通过堆肉装能更有效的利用被技能，让白起在团战中更加坚挺，一战到底.</intro>
 				<cdTime>0</cdTime>
@@ -711,7 +744,7 @@
 			</skill>
 			<skill>
 				<name>血之回响</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/120/12010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/120/12010.png</avator>
 				<detail>白起回旋大镰血洗四方，对范围内的敌人造成150/200/250/300/350/400（+40％物理加成）（+3％最大生命值）点物理伤害，并回复2％已损失生命值，命中敌方英雄时会额外回复2％已损生命；被动：白起受伤时有20％几率释放血之回响</detail>
 				<intro>白起唯一的输出技能，伤害不高，但CD较短，可以反复使用此技能进行消耗</intro>
 				<cdTime>40</cdTime>
@@ -719,7 +752,7 @@
 			</skill>
 			<skill>
 				<name>死神之镰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/120/12020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/120/12020.png</avator>
 				<detail>白起在指定位置召唤镰刀，镰刀在一定延迟后收回，对范围内的敌人造成200/230/260/290/320/350（+100％物理加成）点法术伤害并将其拉回；同时敌人会减少50％移动速度，持续2.5秒；被动：白起对生命值低于30％的目标会额外造成30％伤害</detail>
 				<intro>群体控制技能，但缺点是距离短，出手时间长，先手很容易被躲开，但作为后手时，会较容易控制到敌方多人</intro>
 				<cdTime>60</cdTime>
@@ -727,7 +760,7 @@
 			</skill>
 			<skill>
 				<name>傲慢嘲讽</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/120/12030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/120/12030.png</avator>
 				<detail>白起向指定位置跳跃，造成300/380/460（+100％物理加成）点法术伤害并嘲讽敌人，持续1/1.3/1.5秒（随技能等级成长）；嘲讽时间会随着白起的额外生命值增加，每1000点额外生命值额外提供0.2秒嘲讽时长，最多持续2.5秒；期间受到生命回复效果提升100％；被动：白起受到攻击时会获得庇佑，增加10点移动速度与30/60/90点物理防御，持续3秒，最多叠加3层</detail>
 				<intro>控制技能，团战时冲到人群尽量嘲讽更多敌人形成控制效果，为友军创造输出条件</intro>
 				<cdTime>100</cdTime>
@@ -737,7 +770,9 @@
 	</hero>
 	<hero>
 	<name>"芈月"</name>
-		<title>永恒之月</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/121/121-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/121/121.jpg</avator>
+	<title>永恒之月</title>
 		<position>法师</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -749,7 +784,7 @@
 		<skills>
 			<skill>
 				<name>永生之血</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/121/12100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/121/12100.png</avator>
 				<detail>被动：芈月释放技能会召唤暗影仆从并对附近的敌人进行攻击，每次攻击会造成40（+7%法术加成）点法术伤害，对小兵额外造成120（+21%法术加成）点法术伤害，并回复芈月20（+3%法术加成）点生命值；召唤暗影仆从时芈月获得30点暗影之力，暗影之力消失时暗影仆从也会立即消失；暗影仆从最多存在6个</detail>
 				<intro>芈月施放技能召唤暗影仆从，合理的召唤并使用仆从可以大大增强自己吸收伤害能力</intro>
 				<cdTime>0</cdTime>
@@ -757,7 +792,7 @@
 			</skill>
 			<skill>
 				<name>痛苦冲击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/121/12110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/121/12110.png</avator>
 				<detail>芈月向指定方向释放暗影能量，对路径上的敌人造成200/220/240/260/280/300（+24%法术加成）点法术伤害；在暗影能量飞行的过程中，芈月能够再次使用技能降临在暗影能量的位置，并对范围内敌人造成200/220/240/260/280/300（+24%法术加成）法术伤害；第二段技能命中敌人会为芈月召唤一个暗影仆从</detail>
 				<intro>芈月可以使用这个技能来进行位移和造成伤害，并且在第二段施放前，芈月可以随意走位迷惑对手进行位移</intro>
 				<cdTime>0</cdTime>
@@ -765,7 +800,7 @@
 			</skill>
 			<skill>
 				<name>幻翼仆从</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/121/12120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/121/12120.png</avator>
 				<detail>芈月向指定方向释放暗影锁链，锁链将会和第一个命中的敌人连接，最多持续4秒；连接后每0.5秒将抽取目标的15（+2%法术加成）点生命值、10点物理攻击力与30点法术攻击力，并造成50/60/70/80/90/100（+7%法术加成）点法术伤害；如果连接持续4秒，会为芈月召唤一个暗影仆从；双方超过一定距离会挣脱连接。被动：芈月普通攻击得到强化，造成40（+100%物理加成）（+20%法术加成）点法术伤害并减少其10%移动速度，同时增加自身10点暗影之力</detail>
 				<intro>芈月利用此技能降低敌方的输出，所以敌方后排英雄要注意通过走位躲避其技能，不然无法输出更多伤害</intro>
 				<cdTime>0</cdTime>
@@ -773,7 +808,7 @@
 			</skill>
 			<skill>
 				<name>暗影之月</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/121/12130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/121/12130.png</avator>
 				<detail>芈月遁入暗影，增加30%移动速度并免疫所有效果，持续2秒；技能开启及结束时都将对范围内的敌人造成400/500/600（+50%法术加成）点法术伤害；如果第二段伤害命中敌人，会为芈月召唤一个暗影仆从；</detail>
 				<intro>这是芈月高自保能力的保障，增加移速和免疫效果。被动使得芈月普攻得到强化，造成法术伤害和控制效果</intro>
 				<cdTime>0</cdTime>
@@ -783,7 +818,9 @@
 	</hero>
 	<hero>
 	<name>"吕布"</name>
-		<title>无双之魔</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/123/123-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/123/123.jpg</avator>
+	<title>无双之魔</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -795,7 +832,7 @@
 		<skills>
 			<skill>
 				<name>饕餮血统</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/123/12300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/123/12300.png</avator>
 				<detail>被动：吕布拥有比其他近战更远的攻击距离；方天画戟附魔状态下，普通攻击会造成100%物理加成的真实伤害并且回复自身已损生命值1%（+25%额外物理加成）点生命值；如果下一次方天画斩未命中英雄，会立刻失去附魔效果</detail>
 				<intro>吕布拥有比普通战士更远的普攻距离，附魔状态下，有更高的伤害和血量回复，保证了吕布的续航能力，也能更好的进行发育</intro>
 				<cdTime>0</cdTime>
@@ -803,7 +840,7 @@
 			</skill>
 			<skill>
 				<name>方天画斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/123/12310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/123/12310.png</avator>
 				<detail>吕布向指定方向挥动方天画戟，造成600/720/840/960/1080/1200（+225%额外物理加成）点物理伤害，如果命中英雄，将会附魔自身武器，武器附魔状态下，方天画斩会造成600/720/840/960/1080/1200（+225%额外物理加成）点真实伤害，并且每命中一位敌方英雄会回复自身已损生命4%（+50%额外物理加成）点生命值</detail>
 				<intro>在命中敌方英雄后，普攻能造成真实伤害和血量回复，是吕布在团战中持续输出的重要保证</intro>
 				<cdTime>0</cdTime>
@@ -811,7 +848,7 @@
 			</skill>
 			<skill>
 				<name>贪狼之握</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/123/12320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/123/12320.png</avator>
 				<detail>吕布夺取指定方向范围内敌人的魂灵，对其造成80（+35%额外物理加成）点物理伤害并减少其30%移动速度，持续3秒，每夺取一个魂灵都会为自身增加可抵免400/550/700/850/1000/1150点伤害的护盾，最多叠加3层。吕布的护盾会随时间转化为血量，每秒转化当前护盾的25%，每2点护盾转化为1点血量。</detail>
 				<intro>在命中更多敌方单位后护盾效果更强，也能进行轻微的减速留人</intro>
 				<cdTime>0</cdTime>
@@ -819,7 +856,7 @@
 			</skill>
 			<skill>
 				<name>魔神降世</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/123/12330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/123/12330.png</avator>
 				<detail>吕布在指定位置从天而降展开杀戮，落地时会标记范围并将范围内敌人击飞1秒，如果命中英雄，将会附魔自身武器，未命中英雄不会丢失原有的附魔状态；在标记范围内施展方天画斩会造成400/650/900（+250%额外物理加成）点物理伤害，并且方天画斩攻击范围会增加；触碰范围边缘的敌人会受到150（+87%额外物理加成）点物理伤害并减少其50%移动速度，持续2秒；当敌方英雄触碰时还会额外回复吕布自身已损生命4%（+50%额外物理加成）点生命值</detail>
 				<intro>非常强大的控制技能，范围非常大，能够击飞范围内所有敌人，非常适合开团使用.当然，在面对敌方gank时，也可以用来当作位移技能逃跑</intro>
 				<cdTime>0</cdTime>
@@ -829,7 +866,9 @@
 	</hero>
 	<hero>
 	<name>"周瑜"</name>
-		<title>铁血都督</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/124/124-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/124/124.jpg</avator>
+	<title>铁血都督</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -841,7 +880,7 @@
 		<skills>
 			<skill>
 				<name>引燃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/124/12400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/124/12400.png</avator>
 				<detail>被动：周瑜普通攻击和技能的火焰会对敌人和敌方建筑叠加引燃印记，持续4秒；叠加满4层后目标将被引燃，在4秒内每秒承受125（+17%法术加成）点法术伤害并减少其30%移动速度，持续1秒；引燃期间目标不会再被叠加印记</detail>
 				<intro>周瑜通过被动可以快速推线拿塔，并且让处于火区的敌人停留更长的时间</intro>
 				<cdTime>0</cdTime>
@@ -849,7 +888,7 @@
 			</skill>
 			<skill>
 				<name>东风浩荡</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/124/12410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/124/12410.png</avator>
 				<detail>周瑜向指定方向召唤狂风形成一个单向风区，风区内己方英雄移速提升10%，敌方英雄移速降低20%，持续3秒，狂风吹起瞬间，还会将附近的敌人朝风向方向击退并造成200/240/280/320/360/400（+30%法术加成）点法术伤害，火区若被风区持续覆盖1秒，会朝风向方向蔓延出新的火区，火区每0.5秒对敌人造成一次125/150/175/200/225/250（+17%法术加成）点法术伤害</detail>
 				<intro>风向决定了火区扩散的方向，需要准确的判断战场的位置以及随后的发展趋势</intro>
 				<cdTime>60</cdTime>
@@ -857,7 +896,7 @@
 			</skill>
 			<skill>
 				<name>流火之矢</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/124/12420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/124/12420.png</avator>
 				<detail>周瑜下令发射火矢轰击指定目标区域，火矢轰击会造成250/300/350/400/450/500（+34%法术加成）点法术伤害并留下一块火区，持续5秒，每0.5秒对火区内敌人造成一次125/150/175/200/225/250（+17%法术加成）点法术伤害。火区的数量若超过5个将清除较早生成的火区。火矢每8.5秒可储备1次，最多储备3次</detail>
 				<intro>火区重叠的部分持续伤害不会叠加，所以需要让火区合理的分散分布于战场</intro>
 				<cdTime>50</cdTime>
@@ -865,7 +904,7 @@
 			</skill>
 			<skill>
 				<name>烽火赤壁</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/124/12430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/124/12430.png</avator>
 				<detail>周瑜向指定范围方向召唤一片火焰，造成200/300/400（+40%法术加成）点法术伤害，火焰掠过火区会激起一道火风，火风会造成额外200/300/400（+40%法术加成）点法术伤害并将敌人晕眩1秒</detail>
 				<intro>通过扩散开的火区可以发起大范围的控制和制造大量伤害，并且让处于控制中的敌人停留于火区受到更多的持续伤害</intro>
 				<cdTime>100</cdTime>
@@ -875,7 +914,9 @@
 	</hero>
 	<hero>
 	<name>"夏侯惇"</name>
-		<title>不羁之风</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/126/126-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/126/126.jpg</avator>
+	<title>不羁之风</title>
 		<position>坦克</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -887,7 +928,7 @@
 		<skills>
 			<skill>
 				<name>噬目</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/126/12600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/126/12600.png</avator>
 				<detail>被动：夏侯惇生命值低于50％时，每一次技能或普通攻击命中目标都会回复3％的最大生命值，持续8秒；每30秒最多触发一次</detail>
 				<intro>在夏侯惇生命值低于50%时，面对追击时不要一味的逃跑，可以适当的施放技能或普攻进行回血，在追击敌人时更加要利用这个回血效果，将技能的收益达到最大化</intro>
 				<cdTime>0</cdTime>
@@ -895,7 +936,7 @@
 			</skill>
 			<skill>
 				<name>豪气斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/126/12610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/126/12610.png</avator>
 				<detail>夏侯惇挥动大刀，向指定方向斩一道刃风，对路径上的敌人造成240/290/340/390/440/490（+100％物理加成）点物理伤害并减少其50％移动速度，持续2秒；刃风命中英雄后可再次挥动大刀向指定范围方向释放豪气斩，豪气斩会造成240/290/340/390/440/490（+100％物理加成）点物理伤害并将范围内敌人击飞1秒</detail>
 				<intro>这个技能只有在第一段命中敌方英雄后才能接上第二段豪气斩击飞敌人，形成范围控制效果，第一段如果对小兵或者野怪施放时，是无法触发第二段技能的哦！</intro>
 				<cdTime>50</cdTime>
@@ -903,7 +944,7 @@
 			</skill>
 			<skill>
 				<name>龙卷闪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/126/12620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/126/12620.png</avator>
 				<detail>夏侯惇对周围敌人造成200/225/250/275/300/325（+70％物理加成）点法术伤害；同时获得一个可抵免等同于自身额外最大生命值15％的护盾，持续5秒；并且夏侯惇的下三次普通攻击将附加100点真实伤害，持续8秒；每次强化普攻命中敌人时减少1秒不羁之刃的冷却时间</detail>
 				<intro>由于是生命值加成，所以夏侯惇需要一定的血量装备，在护盾开启短时间内对敌人进行的普攻输出为真实伤害，不仅如此，每次普攻可以减少大招的冷却时间，所以可以通过此技巧对小兵或野怪进行普攻，尽快刷新大招.</intro>
 				<cdTime>60</cdTime>
@@ -911,7 +952,7 @@
 			</skill>
 			<skill>
 				<name>不羁之刃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/126/12630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/126/12630.png</avator>
 				<detail>夏侯惇向指定目标方向扔出链刃，链刃飞向指定位置或击中敌人后会对范围内敌人造成300/425/550(+118％物理加成）点物理伤害并将自己拉向链刃位置，期间免受伤害并且击中的首个敌人会眩晕1秒；夏侯惇飞抵目标区域后还将追加300/425/550（+118％物理加成）点物理伤害</detail>
 				<intro>这个技能是夏侯惇超强的留人技能，需要预判对手走位，利用大招进行追人或gank都能发挥非常好的效果，并且逃命时也可以通过对小兵、野怪甚至场景建筑施放进行位移撤退.</intro>
 				<cdTime>80</cdTime>
@@ -921,7 +962,9 @@
 	</hero>
 	<hero>
 	<name>"甄姬"</name>
-		<title>洛神降临</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/127/127-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/127/127.jpg</avator>
+	<title>洛神降临</title>
 		<position>法师</position>
 		<surviveAbility>1</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -933,7 +976,7 @@
 		<skills>
 			<skill>
 				<name>凝泪成冰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/127/12700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/127/12700.png</avator>
 				<detail>被动：甄姬的每次技能伤害都会为目标叠加冰冻印记，持续7秒，叠加满3层后目标将被冰冻1秒，造成350（+52％法术加成）点法术伤害</detail>
 				<intro>甄姬通过被动技能的存在来打出控制效果和更多的伤害</intro>
 				<cdTime>0</cdTime>
@@ -941,7 +984,7 @@
 			</skill>
 			<skill>
 				<name>泪如泉涌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/127/12710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/127/12710.png</avator>
 				<detail>甄姬在指定位置召唤水柱冲出地面，对范围内敌人造成500/590/680/770/860/950（+70％法术加成）点法术伤害并击飞1秒</detail>
 				<intro>甄姬的控制技能，技能有一定的延迟时间，作为先手效果很差，不容易控制对手，需要预判对手的走位施放</intro>
 				<cdTime>70</cdTime>
@@ -949,7 +992,7 @@
 			</skill>
 			<skill>
 				<name>叹息水流</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/127/12720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/127/12720.png</avator>
 				<detail>甄姬引导指定方向的水流，水流会锁定敌人并在敌人间弹射，最多弹射3次，每次弹射会对敌人造成300/350/400/450/500/550（+45％法术加成）点法术伤害</detail>
 				<intro>这是一个不错的AOE技能，伤害也很高，而且是选中单体目标，非常稳定，团战中能造成非常可观的输出，CD也比较短，前期主要用作清线和消耗使用</intro>
 				<cdTime>60</cdTime>
@@ -957,7 +1000,7 @@
 			</skill>
 			<skill>
 				<name>洛神降临</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/127/12730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/127/12730.png</avator>
 				<detail>甄姬朝指定方向释放水之精魄不断向前推进并击退非英雄单位，当水之精魄命中敌方英雄或者达到最远距离时将形成水域，第一个直接被命中的英雄受到400/500/600（+65％法术加成）点法术伤害并减少90%移速持续1秒；水之精魄形成的水域持续5秒，每秒对触碰的敌人造成200/250/300（+32％法术加成）点法术伤害并减少其50％移动速度，持续2秒</detail>
 				<intro>五杀神技！在范围内持续造成高额伤害，而且可以配合被动形成AOE控制技能</intro>
 				<cdTime>100</cdTime>
@@ -967,7 +1010,9 @@
 	</hero>
 	<hero>
 	<name>"曹操"</name>
-		<title>鲜血枭雄</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/128/128-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/128/128.jpg</avator>
+	<title>鲜血枭雄</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -979,7 +1024,7 @@
 		<skills>
 			<skill>
 				<name>争霸</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/128/12800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/128/12800.png</avator>
 				<detail>被动：曹操每次施放技能会增加10%攻击速度，最多叠加5层，持续5秒</detail>
 				<intro>这是曹操能够在战斗中打出爆发输出的基础，在被动技能支持下，曹操只需要再拥有足够的冷却缩减，就可以不断的施放纵横天下，从而对敌方造成更高的伤害</intro>
 				<cdTime>0</cdTime>
@@ -987,7 +1032,7 @@
 			</skill>
 			<skill>
 				<name>霸道之刃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/128/12810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/128/12810.png</avator>
 				<detail>曹操向指定方向发起斩击突袭，对路径上的敌人造成160/185/210/235/260/285（+84%物理加成）点物理伤害；最多可以发动3次，每次斩击间隔不能超过8秒，并且第三次斩击会将敌人击飞0.5秒</detail>
 				<intro>这个技能使得曹操非常灵活，连续释放三次可有以产生很远的位移和伤害.不论在追人或逃跑时都非常实用</intro>
 				<cdTime>0</cdTime>
@@ -995,7 +1040,7 @@
 			</skill>
 			<skill>
 				<name>纵横天下</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/128/12820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/128/12820.png</avator>
 				<detail>曹操剑指天下，向指定方向挥出强大剑气，对路径上的敌人造成240/300/360/420/480/540（+90%物理加成）点物理伤害并减少其50%移动速度，持续2秒；被动：普通攻击命中敌人时减少1秒纵横天下的冷却时间</detail>
 				<intro>对直线上敌人造成物理伤害，并减速，配合被动技能可以频繁使用</intro>
 				<cdTime>0</cdTime>
@@ -1003,7 +1048,7 @@
 			</skill>
 			<skill>
 				<name>浴血枭雄</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/128/12830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/128/12830.png</avator>
 				<detail>曹操以鲜血意志强化大剑立即解除自身控制效果，持续8秒，施放时对附近敌人造成300/375/450（+100%物理加成）点物理伤害，强化的大剑会增加100/150/200物理攻击力和20%韧性；并且每次普通攻击或技能命中敌方将回复120/180/240（+40%物理加成）点生命值</detail>
 				<intro>这个技能在提升曹操伤害的同时，也增强了曹操在团战中的生存能力</intro>
 				<cdTime>0</cdTime>
@@ -1013,7 +1058,9 @@
 	</hero>
 	<hero>
 	<name>"典韦"</name>
-		<title>狂战士</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/129/129-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/129/129.jpg</avator>
+	<title>狂战士</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -1025,7 +1072,7 @@
 		<skills>
 			<skill>
 				<name>激怒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/129/12900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/129/12900.png</avator>
 				<detail>被动：典韦每一次击败英雄或者助攻会增加1层激怒效果，每层激怒效果会增加典韦12点物理攻击力，最多叠加20层</detail>
 				<intro>在前中期，典韦需要尽量的蹭队友助攻或击杀更多敌人，可以保证优势的建立</intro>
 				<cdTime>0</cdTime>
@@ -1033,7 +1080,7 @@
 			</skill>
 			<skill>
 				<name>红眼</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/129/12910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/129/12910.png</avator>
 				<detail>典韦做好冲锋陷阵的准备，移除自身控制效果，并且增加60%移动速度，持续3秒，下一次普通攻击变更为挥砍，挥砍会对附近敌人造成额外300/350/400/450/500/550（+100%物理加成）点物理伤害</detail>
 				<intro>较高的攻速与移速加成，可以利用此技能开团，也可灵活选择撤退</intro>
 				<cdTime>55</cdTime>
@@ -1041,7 +1088,7 @@
 			</skill>
 			<skill>
 				<name>狂暴</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/129/12920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/129/12920.png</avator>
 				<detail>暴怒的典韦践踏大地，对范围内敌人造成250/280/310/340/370/400（+100%物理加成）点物理伤害并减少其50%的移动速度，持续2秒，如果命中敌人将会突破自身极限，增加200%攻击速度和25/30/35/40/45/50%吸血效果，持续3秒</detail>
 				<intro>典韦的群体控制技能，范围减速，配合队友的控制能创造完美的输出环境</intro>
 				<cdTime>65</cdTime>
@@ -1049,7 +1096,7 @@
 			</skill>
 			<skill>
 				<name>嗜血</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/129/12930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/129/12930.png</avator>
 				<detail>典韦对锁定目标发起跳斩，造成300/375/450（+120%物理加成）点真实伤害并减少其50%的移动速度，持续3秒，同时会强化自身，对敌人造成的所有伤害附带目标最大生命3%的真实伤害，持续5秒。</detail>
 				<intro>典韦最强的输出技能，自身附带真实伤害，不论对前后排英雄都能轻松击杀</intro>
 				<cdTime>130</cdTime>
@@ -1059,7 +1106,9 @@
 	</hero>
 	<hero>
 	<name>"宫本武藏"</name>
-		<title>剑圣</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/130/130-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/130/130.jpg</avator>
+	<title>剑圣</title>
 		<position>战士</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -1071,7 +1120,7 @@
 		<skills>
 			<skill>
 				<name>狩魔</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/130/13000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/130/13000.png</avator>
 				<detail>被动：宫本武藏施放技能后，下一次普通攻击变更为蓄力攻击，蓄力攻击会额外造成30（+60%物理加成）点物理伤害并减少1秒所有技能的冷却时间</detail>
 				<intro>被动使得宫本对技能和普攻的衔接使用更起作用了，能提升输出伤害并减少技能CD</intro>
 				<cdTime>0</cdTime>
@@ -1079,7 +1128,7 @@
 			</skill>
 			<skill>
 				<name>空明斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/130/13010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/130/13010.png</avator>
 				<detail>宫本武藏向指定方向斩出一道剑气，对路径上的敌人造成340/440/540/640/740/840（+125%物理加成）点物理伤害并减少其50%移动速度，持续2秒；剑气会击落路径上的敌方飞行物；施放空明斩时宫本武藏处于霸体状态；被动：宫本武藏对敌方英雄造成伤害后会回复30/48/66/84/102/120（+21%物理加成）点生命值，回复将会持续3秒，回复效果不会叠加</detail>
 				<intro>施放这个技能需要预判对手的走位，期间宫本为霸体状态不受控制，在对敌方造成伤害后能短时间内回复生命值</intro>
 				<cdTime>0</cdTime>
@@ -1087,7 +1136,7 @@
 			</skill>
 			<skill>
 				<name>神速</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/130/13020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/130/13020.png</avator>
 				<detail>宫本武藏向前冲刺，对路径上的敌人造成100/130/160/190/220/250（+60%物理加成）点物理伤害；如果穿过敌人将获得抵免100/160/220/280/340/400（+60%物理加成）点伤害的护盾并减少50%神速的冷却时间，护盾每4秒只能获得一次</detail>
 				<intro>利用此技能效果，宫本无论在打野或对拼时都可以用来很好的抵消一部分伤害，注意作为位移逃跑时，就没有护盾效果了哦</intro>
 				<cdTime>0</cdTime>
@@ -1095,7 +1144,7 @@
 			</skill>
 			<skill>
 				<name>二天一流</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/130/13030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/130/13030.png</avator>
 				<detail>宫本武藏在指定方向范围内选择并锁定目标后跃向空中，在短暂迟延后拔出鸣雷斩落，对目标范围内的敌人造成400/550/700（+100%物理加成）点物理伤害，同时将锁定目标击飞0.75秒并减少其50%移动速度，持续2秒；在接下来的12秒内宫本武藏进入二刀流状态，所有普通攻击和技能都会附带35（+15%物理加成）点法术伤害；狩魔范围提升；神速将获得额外的突进距离</detail>
 				<intro>宫本的大招能够形成非常好的控制效果，并且在开启大招后一段时间内，他的所有技能都有一定的提升，所以在一些情况下，大招先手后进行输出能造成能多的伤害</intro>
 				<cdTime>0</cdTime>
@@ -1105,7 +1154,9 @@
 	</hero>
 	<hero>
 	<name>"李白"</name>
-		<title>青莲剑仙</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/131/131-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/131/131.jpg</avator>
+	<title>青莲剑仙</title>
 		<position>刺客</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -1117,7 +1168,7 @@
 		<skills>
 			<skill>
 				<name>侠客行</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/131/13100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/131/13100.png</avator>
 				<detail>被动：李白使用普通攻击攻击敌人时，会积累1道剑气，持续3秒；积累4道剑气后进入侠客行状态，增加30点物理攻击力并解除青莲剑歌的封印，持续5秒；攻击建筑不会积累剑气</detail>
 				<intro>李白的大招能否施放的关键，普攻出第四下后触发侠客行，还能提升攻击力</intro>
 				<cdTime>0</cdTime>
@@ -1125,7 +1176,7 @@
 			</skill>
 			<skill>
 				<name>将进酒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/131/13110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/131/13110.png</avator>
 				<detail>李白可用醉剑式向指定方向连续突进2次，对路径上的敌人造成300/350/400/450/500/550（+110%物理加成）点物理伤害并且造成晕眩0.5秒；第三次释放会回到原地；每次释放间隔不能超过5秒</detail>
 				<intro>一定要控制好CD时间，这是李白对敌方进行消耗的主要技能，起到杀人红尘中，脱身白刃里的效果.当然该技能可突进可逃跑，注意灵活使用</intro>
 				<cdTime>80</cdTime>
@@ -1133,7 +1184,7 @@
 			</skill>
 			<skill>
 				<name>神来之笔</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/131/13120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/131/13120.png</avator>
 				<detail>李白以自身为中心化剑为青莲剑阵，对范围内敌人造成210/246/282/318/354/390（+75%物理加成）点物理伤害；对触碰到剑圈的敌人造成350（+125%物理加成）点物理伤害并且减少90%移动速度，持续1秒；同时敌人会减少100/175/250/325/400/475点物理防御，持续3秒；李白释放技能期间不可被选中</detail>
 				<intro>该技能用于造成伤害和减速敌人，敌人触碰剑圈还能减少敌人护甲，这是李白造成高额输出的前提</intro>
 				<cdTime>60</cdTime>
@@ -1141,7 +1192,7 @@
 			</skill>
 			<skill>
 				<name>青莲剑歌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/131/13130.png</avator>
 				<detail>李白化身为剑气，对指定方向范围内的所有敌人飞速穿梭斩击5次，每次斩击造成250/325/400（+90%物理加成）点物理伤害；当同时攻击多个敌方英雄时，每增加一位敌方英雄将衰减15%的伤害，最低衰减至初始伤害的70%；青莲剑歌需要由侠客行解除限制后方可释放，使用后立即进入限制状态；李白释放技能期间不可被选中和攻击</detail>
 				<intro>这是李白团战造成超高AOE伤害的关键，同时也可以用来躲避敌方技能，防止被秒</intro>
 				<cdTime>120</cdTime>
@@ -1151,7 +1202,9 @@
 	</hero>
 	<hero>
 	<name>"马可波罗"</name>
-		<title>远游之枪</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/132/132-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/132/132.jpg</avator>
+	<title>远游之枪</title>
 		<position>射手</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -1163,7 +1216,7 @@
 		<skills>
 			<skill>
 				<name>连锁反应</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/132/13200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/132/13200.png</avator>
 				<detail>被动：马可波罗的普攻与技能伤害能够破坏目标的防御并回复50点能量，连续10次受到伤害后，目标每次受到马可波罗的伤害都会额外受到45（+15%物理加成）点真实伤害(该伤害可以暴击)，持续5秒</detail>
 				<intro>马可波罗可以预留技能在触发真实伤害后打出爆发伤害</intro>
 				<cdTime>0</cdTime>
@@ -1171,7 +1224,7 @@
 			</skill>
 			<skill>
 				<name>华丽左轮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/132/13210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/132/13210.png</avator>
 				<detail>马可波罗向指定方向连续射击过程期间获得10%移速提升，每一枪造成150/165/180/195/210/225（+13%物理加成）点物理伤害都能触发普攻的法球效果，命中回复10点能量，额外攻击速度会影响技能射出的子弹数目，在攻速达到0/75%/150%时射出子弹数5/7/9</detail>
 				<intro>射击时获得的移速提升会让马可波罗轻松游走在敌人的攻击边缘，从而掌握主动</intro>
 				<cdTime>70</cdTime>
@@ -1179,7 +1232,7 @@
 			</skill>
 			<skill>
 				<name>漫游之枪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/132/13220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/132/13220.png</avator>
 				<detail>马可波罗向指定方向闪烁，立即出现在目标位置；被动：马可波罗身边500范围内存在敌方英雄时，提升12%/14%/16%/18%/20%/22%的伤害和15%/18%/21%/24%/27%/30%移动速度</detail>
 				<intro>仔细分析敌人技能状态后，熟练的马可波罗会主动靠近对手获得额外的伤害移速加成</intro>
 				<cdTime>70</cdTime>
@@ -1187,7 +1240,7 @@
 			</skill>
 			<skill>
 				<name>狂热弹幕</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/132/13230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/132/13230.png</avator>
 				<detail>马可波罗向指定方向闪烁，立即出现在指定位置并向周围发射弹幕触发普攻的法球效果，造成120/180/240（+15%物理加成）点物理伤害，额外攻击速度会影响技能射出的弹幕波数，在攻速达到0/75%/150%时射出弹幕数10/13/16；</detail>
 				<intro>大招可以造成大量范围伤害，但需要注意的是释放大招时马可波罗进行移动会立即打断大招释放</intro>
 				<cdTime>70</cdTime>
@@ -1197,7 +1250,9 @@
 	</hero>
 	<hero>
 	<name>"狄仁杰"</name>
-		<title>断案大师</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/133/133-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/133/133.jpg</avator>
+	<title>断案大师</title>
 		<position>射手</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>9</attackAbility>
@@ -1209,7 +1264,7 @@
 		<skills>
 			<skill>
 				<name>迅捷</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/133/13300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/133/13300.png</avator>
 				<detail>被动：狄仁杰的普通攻击能够获得1层迅捷效果，每层迅捷效果会增加6％攻击速度和5％移动速度，最多叠加5层</detail>
 				<intro>这个技能能让狄仁杰的持续输出能力得到显著额提升</intro>
 				<cdTime>0</cdTime>
@@ -1217,7 +1272,7 @@
 			</skill>
 			<skill>
 				<name>六令追凶</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/133/13310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/133/13310.png</avator>
 				<detail>狄仁杰向指定方向甩出六道令牌，对命中的目标造成65％物理加成点物理伤害和80/88/96/104/112/120（+20％法术加成）（+40％额外物理加成）点法术伤害，其中蓝牌只能造成50％的伤害，但蓝牌会减少目标90％移动速度，持续0.5秒，当同一目标受到多道令牌伤害，从第二道令牌开始伤害会衰减至初始伤害的70％，令牌可以触发普通攻击的法球效果；被动：狄仁杰持续使用普通攻击时，每两次普通攻击后下一次普通攻击将会随机强化为一张蓝牌或红牌</detail>
 				<intro>这个技能是狄仁杰主要输出技能，有很强的推线能力，攻击敌人时能造成很好的AOE伤害效果</intro>
 				<cdTime>60</cdTime>
@@ -1225,7 +1280,7 @@
 			</skill>
 			<skill>
 				<name>逃脱</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/133/13320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/133/13320.png</avator>
 				<detail>狄仁杰向周围掷出八道令牌，清除自身负面效果，增加25％移动速度，持续1秒，令牌的伤害和效果与六令追凶相同</detail>
 				<intro>这个技能能提升狄仁杰的自保能力，被控制后开启得到移速提升，可以在追人或逃跑时使用</intro>
 				<cdTime>70</cdTime>
@@ -1233,7 +1288,7 @@
 			</skill>
 			<skill>
 				<name>王朝密令</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/133/13330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/133/13330.png</avator>
 				<detail>狄仁杰向指定方向掷出一道金色密令，对命中的第一个敌方英雄造成300/375/450(+60％法术加成）（+120％额外物理加成）点物理伤害和300/375/450(60％法术加成）（+120％额外物理加成）点法术伤害，并将其晕眩1秒，同时会减少目标50％物理防御和法术防御，命中后会获得目标视野，持续5秒；期间友军向该目标移动时会增加10％移动速度；</detail>
 				<intro>这个技能是狄仁杰主要的控制技能，在攻击前排时使用，降低其护甲魔抗，打前排能力大大增强</intro>
 				<cdTime>100</cdTime>
@@ -1243,7 +1298,9 @@
 	</hero>
 	<hero>
 	<name>"达摩"</name>
-		<title>拳僧</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/134/134-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/134/134.jpg</avator>
+	<title>拳僧</title>
 		<position>战士</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -1255,7 +1312,7 @@
 		<skills>
 			<skill>
 				<name>真言·心经</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/134/13400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/134/13400.png</avator>
 				<detail>被动：达摩每次释放技能将会获得真言护体，每层真言增加80点物理防御，最多叠加3层；如果技能命中目标，下两次普通攻击将增加100%攻击速度，并会造成额外的（+30%物理加成）的物理伤害并回复60点生命值</detail>
 				<intro>被动技能使得达摩抗性增强，可以承受更多的伤害，技能结合普攻可以造成更高的输出</intro>
 				<cdTime>0</cdTime>
@@ -1263,7 +1320,7 @@
 			</skill>
 			<skill>
 				<name>真言·无相</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/134/13410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/134/13410.png</avator>
 				<detail>达摩往前冲刺挥出强力冲拳，对路径上的敌人造成200/240/280/320/360/400（+100%物理加成）点物理伤害并击飞目标0.5秒</detail>
 				<intro>这是达摩重要的位移技能，可以用来追击和逃跑，并且能造成控制效果，留住敌人</intro>
 				<cdTime>45</cdTime>
@@ -1271,7 +1328,7 @@
 			</skill>
 			<skill>
 				<name>真言·明王</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/134/13420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/134/13420.png</avator>
 				<detail>达摩快速朝指定方向连续打出五拳，每一拳造成75/90/105/120/135/150（+33%物理加成）点物理伤害并减少目标20/28/36/44/52/60点物理防御，最多叠加5层，持续5秒</detail>
 				<intro>这是达摩的主要输出技能，在控制敌人后使用更能将伤害打足</intro>
 				<cdTime>60</cdTime>
@@ -1279,7 +1336,7 @@
 			</skill>
 			<skill>
 				<name>真言·普渡</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/134/13430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/134/13430.png</avator>
 				<detail>达摩向指定方向挥出超强一拳，对附近的敌人造成150/225/300（+60%物理加成）点物理伤害并将敌人向该方向击退；被击退的敌人如果在飞行过程中触碰了地形边缘将会再次受到150/225/300（+60%物理加成）点物理伤害并晕眩1.5秒；成功将敌方击退至地形边缘可再次释放真言·普渡，再次释放时达摩会向指定方向飞踢，对路径上的敌人造成150/225/300（+60%物理加成）点物理伤害并附带目标已损生命值12%的额外伤害</detail>
 				<intro>尽量将敌方击飞到地形边缘，可以眩晕敌人并解锁大招2段释放，造成斩杀伤害</intro>
 				<cdTime>100</cdTime>
@@ -1289,7 +1346,9 @@
 	</hero>
 	<hero>
 	<name>"项羽"</name>
-		<title>霸王</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/135/135-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/135/135.jpg</avator>
+	<title>霸王</title>
 		<position>坦克</position>
 		<surviveAbility>9</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -1301,7 +1360,7 @@
 		<skills>
 			<skill>
 				<name>陷阵之志</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/135/13500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/135/13500.png</avator>
 				<detail>被动：项羽生命低于30%时，自身减少40%所受到的伤害，持续6秒，每90秒最多触发一次；项羽的普通攻击会对目标额外造成其6%最大生命值比例的物理伤害（对小兵/野怪造成300点物理伤害），每个目标每6秒只能触发一次</detail>
 				<intro>项羽的生命值低于30%时，会持续回复生命值，最大生命值越高，回复血量越多</intro>
 				<cdTime>0</cdTime>
@@ -1309,7 +1368,7 @@
 			</skill>
 			<skill>
 				<name>无畏冲锋</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/135/13510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/135/13510.png</avator>
 				<detail>项羽向指定方向冲撞，冲撞时触碰到的所有敌人会被一起击退，冲撞结束时项羽还会向前方发动一次挑斩，挑斩会将敌人击飞0.5秒，冲撞和挑斩都会对敌人造成120/144/168/192/216/240（+48%物理加成）点物理伤害，技能命中敌方会减少30%无畏冲锋的冷却时间</detail>
 				<intro>项羽的突进和控制技能，敌方多个英雄站在路径上可以控制一群人，这个技能也能在敌方刺客切入后将其推开保护队友，同时它也可以当作一个位移技能来使用</intro>
 				<cdTime>50</cdTime>
@@ -1317,7 +1376,7 @@
 			</skill>
 			<skill>
 				<name>破釜沉舟</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/135/13520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/135/13520.png</avator>
 				<detail>项羽发出怒吼，对附近范围内的敌人造成130/154/178/202/226/250（+80%物理加成）点法术伤害，并且会减少30%的移动速度和25/28/31/34/37/40%的伤害输出，持续2秒； 被动：项羽的每1点物理防御会额外增加1.5-2.5点最大生命值（随技能等级成长）</detail>
 				<intro>群体控制技能，控制范围内的敌人，可以配合1技能打出2段控制效果</intro>
 				<cdTime>40</cdTime>
@@ -1325,7 +1384,7 @@
 			</skill>
 			<skill>
 				<name>霸王斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/135/13530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/135/13530.png</avator>
 				<detail>项羽朝指定方向蓄力后斩出一道刀气，对路径上的敌人造成500/750/1000（+100%物理加成）点物理伤害，对被枪刃命中的敌人会造成额外66%伤害并将其眩晕1秒；被动：项羽会对等级低于或等于自身的目标造成额外15%的伤害</detail>
 				<intro>这是个附带真实伤害的AOE技能，但有一定的延迟时间，技能范围较大，尽量打到更多的人</intro>
 				<cdTime>100</cdTime>
@@ -1335,7 +1394,9 @@
 	</hero>
 	<hero>
 	<name>"武则天"</name>
-		<title>女帝</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/136/136-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/136/136.jpg</avator>
+	<title>女帝</title>
 		<position>法师</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -1347,7 +1408,7 @@
 		<skills>
 			<skill>
 				<name>天命之女</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/136/13600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/136/13600.png</avator>
 				<detail>被动：武则天脱离战斗后会增加50点移动速度，同时每秒会回复1％最大法力值</detail>
 				<intro>施放任意两个技能可以强化下一次1技能，并刷新冷却时间，需要注意武则天技能的施放连招</intro>
 				<cdTime>0</cdTime>
@@ -1355,7 +1416,7 @@
 			</skill>
 			<skill>
 				<name>女帝辉光</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/136/13610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/136/13610.png</avator>
 				<detail>武则天向指定方向释放能量法球，命中敌人后爆开，对范围内的敌人造成350/400/450/500/550/600（+45％法术加成）点法术伤害；由被动强化的女帝辉光将造成双倍伤害并将目标击飞0.75秒；被动：武则天释放任意两个技能后，女帝辉光会立即冷却并得到强化，持续3秒</detail>
 				<intro>这个技能命中敌人后能减速敌人，CD比较短，配合被动技能可在短时间打出多次技能</intro>
 				<cdTime>60</cdTime>
@@ -1363,7 +1424,7 @@
 			</skill>
 			<skill>
 				<name>女帝威严</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/136/13620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/136/13620.png</avator>
 				<detail>武则天的威严不可侵犯，击退附近的敌人并对他们造成250/280/310/340/370/400（+30％法术加成）点法术伤害；如果技能命中敌人，自身会增加30/34/38/42/46/50％移动速度，持续1秒，命中的敌人会减少30/34/38/42/46/50％的移动速度，持续2秒</detail>
 				<intro>逃命技能，面对敌人突进时，将敌人推开.这个技能也可以在队友被追时推开敌人救下队友</intro>
 				<cdTime>90</cdTime>
@@ -1371,7 +1432,7 @@
 			</skill>
 			<skill>
 				<name>生杀予夺</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/136/13630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/136/13630.png</avator>
 				<detail>武则天以女帝权威施行制裁，在所有敌方英雄脚下召唤法阵并引爆，对范围内敌人造成750/925/1100（+75％法术加成）点法术伤害并晕眩1秒，同时获取敌方视野，持续3秒</detail>
 				<intro>这个技能在前期多用于，帮助队友控制抓人时释放，后期主要在团战中敌方站位靠近时施放能打出更多的伤害和控制</intro>
 				<cdTime>150</cdTime>
@@ -1381,7 +1442,9 @@
 	</hero>
 	<hero>
 	<name>"老夫子"</name>
-		<title>万古长明</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/139/139-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/139/139.jpg</avator>
+	<title>万古长明</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -1393,7 +1456,7 @@
 		<skills>
 			<skill>
 				<name>师道尊严</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/139/13900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/139/13900.png</avator>
 				<detail>被动：老夫子普通攻击命中会增加1点训诫值，最多叠加5点，叠满后会获得强化自身，持续5秒；强化时老夫子会增加60点移动速度和25%攻击速度，同时普通攻击将会附带60点真实伤害，每次攻击能够减少1秒圣人训诫和举一反三的冷却时间</detail>
 				<intro>可以通过普攻小兵或野怪积攒被动强化效果，攒满后对敌方英雄进行攻击，此状态下老夫子战斗力爆表</intro>
 				<cdTime>0</cdTime>
@@ -1401,7 +1464,7 @@
 			</skill>
 			<skill>
 				<name>圣人训诫</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/139/13910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/139/13910.png</avator>
 				<detail>老夫子向指定方向挥动戒尺，将范围内的敌人抽到自己身前，造成200/240/280/320/360/400（+80%物理加成）点物理伤害并减少其25%移动速度，持续1秒</detail>
 				<intro>这是老夫子主要控制留人技能，施法时要注意与敌人的距离和施法方向</intro>
 				<cdTime>0</cdTime>
@@ -1409,7 +1472,7 @@
 			</skill>
 			<skill>
 				<name>举一反三</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/139/13920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/139/13920.png</avator>
 				<detail>老夫子爆发气场，增加25/28/31/34/37/40%移动速度并且减少50/54/58/62/66/70%受到的伤害，持续2秒，同时会反弹英雄的普通攻击，对攻击者造成等量的物理伤害并减少其50%移动速度，持续2秒；反弹会附带普通攻击的法球效果，每个敌人最多被反弹一次；被动：每次普通攻击有25%几率发动两次普通攻击，第二次普通攻击只会造成50%伤害</detail>
 				<intro>这是老夫子在刚正面时非常重要的一个技能，在和敌人对拼时适当的时机施放会是的老夫子的战斗力更强</intro>
 				<cdTime>0</cdTime>
@@ -1417,7 +1480,7 @@
 			</skill>
 			<skill>
 				<name>圣人之威</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/139/13930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/139/13930.png</avator>
 				<detail>老夫子向指定方向冲锋造成400/500/600（+120%物理加成）点物理伤害，并且会将第一个撞到的敌方英雄捆在明灯上，令其无法离开明灯的范围，持续5秒，期间将减少20%该英雄造成的伤害</detail>
 				<intro>对于被老夫子抓住的敌人来说，这个技能简直是脆皮英雄的噩梦，超强的控制效果能够帮助他和队友更好的击杀敌人，这个技能由于是非指向性的，所以施放时需要准确预判敌人走位</intro>
 				<cdTime>0</cdTime>
@@ -1427,7 +1490,9 @@
 	</hero>
 	<hero>
 	<name>"关羽"</name>
-		<title>一骑当千</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/140/140-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg</avator>
+	<title>一骑当千</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -1439,7 +1504,7 @@
 		<skills>
 			<skill>
 				<name>一骑当千</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/140/14000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/140/14000.png</avator>
 				<detail>被动：关羽每主动移动100距离将增加2％移动速度；持续移动达到2000距离时会进入冲锋姿态；当关羽的移动速度被减少至375点以下或受到控制效果时将退出冲锋姿态；关羽面朝敌方移动时将增加20％移动速度；冲锋姿态：关羽的普通攻击会击退敌人并附带10％最大生命值的物理伤害</detail>
 				<intro>关羽需要尽量通过一直移动来触发被动的冲锋状态，这样才能增加自己的普攻输出和造成击退效果，由于是最大生命值的百分比伤害，所以关羽在装备选择上尽量选择肉装和移速装</intro>
 				<cdTime>0</cdTime>
@@ -1447,7 +1512,7 @@
 			</skill>
 			<skill>
 				<name>单刀赴会</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/140/14010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/140/14010.png</avator>
 				<detail>关羽旋转大刀队附近的敌人造成215/430/645/860/1075/1290（+127％物理加成）点物理伤害；冲锋姿态：关羽向前发起冲锋造成（100％物理加成）（10％最大生命值）点物理伤害，并在结束时向前劈砍，造成250/500/750/1000/1250/1500（+150％物理加成）点物理伤害</detail>
 				<intro>非冲锋状态下是AOE范围伤害，团战中关羽尽量在混战中心多次使用此技能，打到更多的人，才能发挥更大的价值；冲锋状态下配合普攻有一个不错的突进效果和小爆发伤害</intro>
 				<cdTime>0</cdTime>
@@ -1455,7 +1520,7 @@
 			</skill>
 			<skill>
 				<name>青龙偃月</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/140/14020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/140/14020.png</avator>
 				<detail>关羽清啸一声，解除自身控制效果并增加30％移动速度，持续2秒；冲锋姿态：关羽清啸一声，解除自身控制效果并向前跃击敌人将其击退，造成335/470/605/740/875/1010(+112％物理加成）点物理伤害</detail>
 				<intro>移速加成效果无疑使得关羽更加灵活，由于可以解除控制效果，这就成为了关羽绝佳的逃跑技能，所以需要注意要在敌方交了控制技能后再使用此技能，在安全的情况下，可以利用此技能进行突进留人</intro>
 				<cdTime>0</cdTime>
@@ -1463,7 +1528,7 @@
 			</skill>
 			<skill>
 				<name>刀锋铁骑</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/140/14030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/140/14030.png</avator>
 				<detail>关羽激发潜能，将减少50％的冲锋准备距离，持续10秒；冲锋姿态：关羽将召唤铁骑向前方突击撞退敌人，并造成（+100％物理加成）（+10％最大生命值）点物理伤害</detail>
 				<intro>关羽能快速进入冲锋状态，冲锋状态下能击退大范围的敌人，对于保护队友和突进先手都是非常实用的</intro>
 				<cdTime>0</cdTime>
@@ -1473,7 +1538,9 @@
 	</hero>
 	<hero>
 	<name>"貂蝉"</name>
-		<title>绝世舞姬</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/141/141-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/141/141.jpg</avator>
+	<title>绝世舞姬</title>
 		<position>法师</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>2</attackAbility>
@@ -1485,7 +1552,7 @@
 		<skills>
 			<skill>
 				<name>语·花印</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/141/14100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/141/14100.png</avator>
 				<detail>被动：貂蝉的技能命中会为敌人叠加花之印记，持续8秒，叠加满4层后印记触发，回复自身100点生命，同时会对周围敌人造成160（+64％法术加成）点真实伤害并减少其90％移动速度，持续3秒</detail>
 				<intro>貂蝉每次使用其它技能对敌人造成印记爆炸的时候，爆炸效果会对敌方造成范围伤害并减速，而且该爆炸伤害无视对方护甲防御，是真实伤害.</intro>
 				<cdTime>0</cdTime>
@@ -1493,7 +1560,7 @@
 			</skill>
 			<skill>
 				<name>落·红雨</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/141/14110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/141/14110.png</avator>
 				<detail>貂蝉向指定方向挥出花球，花球飞出一段时间后会返回貂蝉手中，挥出和返回会对路径上的敌人造成180/220/260/300/340/380(+57％法术加成）点法术伤害</detail>
 				<intro>一条直线上造成两次伤害，由于有一定的延迟，所以需要预判对手的走位施放</intro>
 				<cdTime>50</cdTime>
@@ -1501,7 +1568,7 @@
 			</skill>
 			<skill>
 				<name>缘·心结</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/141/14120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/141/14120.png</avator>
 				<detail>貂蝉瞬间消失并立即出现在指定位置，同时会散发3枚花球攻击附近的敌人，每枚造成140/155/170/185/200/215(+24％法术加成）点法术伤害，如果花球命中敌人，还会减少4秒缘·心结的冷却时间</detail>
 				<intro>貂蝉2技能位移并且对最近的敌人造成3次伤害，如果3次都全命中在同一敌人身上，将会直接触发被动减速，该技能也能用于穿墙逃跑，在没有大招的情况下谨慎使用</intro>
 				<cdTime>50</cdTime>
@@ -1509,7 +1576,7 @@
 			</skill>
 			<skill>
 				<name>绽·风华</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/141/14130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/141/14130.png</avator>
 				<detail>貂蝉绽放风华在原地结成法阵，法阵生成及消失时都将造成210/245/280（+50％法术加成）点法术伤害，当貂蝉处于法阵范围内，落·红雨和缘·心结会获得额外的冷却缩减</detail>
 				<intro>大招是貂蝉非常霸道的AOE技能，虽然大招伤害很一般，但能在大范围对敌人触发被动效果，使得貂蝉其它技能造成更多伤害，冷却也更快</intro>
 				<cdTime>80</cdTime>
@@ -1519,7 +1586,9 @@
 	</hero>
 	<hero>
 	<name>"安琪拉"</name>
-		<title>暗夜萝莉</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/142/142-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/142/142.jpg</avator>
+	<title>暗夜萝莉</title>
 		<position>法师</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -1531,7 +1600,7 @@
 		<skills>
 			<skill>
 				<name>咒术火焰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/142/14200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/142/14200.png</avator>
 				<detail>被动：安琪拉的技能会灼烧敌人，每层灼烧效果会造成11（+2%法术加成）点法术伤害，灼烧效果最多叠加10层</detail>
 				<intro>咒术火焰是安琪拉的核心技能，她能够使安琪拉的所有技能伤害都附加一个额外魔法伤害，依靠这个被动技能效果，安琪拉在施放技能持续攻击敌人时，能够造成成吨的伤害.</intro>
 				<cdTime>0</cdTime>
@@ -1539,7 +1608,7 @@
 			</skill>
 			<skill>
 				<name>火球术</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/142/14210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/142/14210.png</avator>
 				<detail>安琪拉召唤5颗火球朝指定位置攻击，每颗火球对敌人造成350/390/430/470/510/550（+30%法术加成）点法术伤害，当多颗火球命中同一目标时，从第二颗火球开始将只造成30%伤害，当火球命中敌方英雄时会停止移动并销毁</detail>
 				<intro>非指向性技能，需要预判敌方走位释放.敌人受到控制效果时能极大提高此技能命中率</intro>
 				<cdTime>50</cdTime>
@@ -1547,7 +1616,7 @@
 			</skill>
 			<skill>
 				<name>混沌火种</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/142/14220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/142/14220.png</avator>
 				<detail>安琪拉朝指定方向释放混沌火种，火种会在命中敌人或飞行到最远距离时裂变为火焰漩涡，火焰漩涡会继续缓慢的向前飞行并且每0.5秒对周围的敌人造成130/145/160/175/190/205（+17%法术加成）点法术伤害，持续3秒；同时范围内的敌人会减少50%移动速度，持续1.5秒；当火种直接命中敌人时还会将其晕眩1秒</detail>
 				<intro>变为火焰漩涡时，会对第一个敌人造成短暂的眩晕效果，所以尽量在眩晕期释放其他技能会极大提高命中率和输出伤害</intro>
 				<cdTime>60</cdTime>
@@ -1555,7 +1624,7 @@
 			</skill>
 			<skill>
 				<name>炽热光辉</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/142/14230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/142/14230.png</avator>
 				<detail>安琪拉引导魔力朝指定方向释放炽热光辉，持续3秒，对触碰的敌人每0.3秒造成150/190/230（+21%法术加成）点法术伤害并获得可抵免600/900/1200（+80%法术加成）点伤害的炽热护盾，护盾存在期间不会受到控制效果，施法1秒后再次释放该技能可以取消引导</detail>
 				<intro>安琪拉在引导过程中，是可以通过左摇杆来控制自己的当前朝向，精准控制，能够让敌人无处可逃.在释放技能同时，安琪拉会获得炽热护盾，护盾存在期间不会受到敌方的控制效果.当然，如果你觉得释放技能位置不好，可以随时再次点击技能按钮取消技能施法</intro>
 				<cdTime>100</cdTime>
@@ -1565,7 +1634,9 @@
 	</hero>
 	<hero>
 	<name>"程咬金"</name>
-		<title>热烈之斧</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/144/144-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/144/144.jpg</avator>
+	<title>热烈之斧</title>
 		<position>坦克</position>
 		<surviveAbility>9</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -1577,7 +1648,7 @@
 		<skills>
 			<skill>
 				<name>舍生忘死</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/144/14400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/144/14400.png</avator>
 				<detail>被动：程咬金每损失1%最大生命值获得额外3～7点物理攻击力，增加幅度随英雄等级成长，并且程咬金释放普通技能会消耗当前8%的最大生命值，大招消耗16%的当前生命值；每次释放技能还会回复6%已损失生命值，回复过程持续3秒</detail>
 				<intro>被动是以损失最大生命值来增加伤害输出，但同时也提供了回复效果，所以纯肉装也是不错的选择</intro>
 				<cdTime>0</cdTime>
@@ -1585,7 +1656,7 @@
 			</skill>
 			<skill>
 				<name>爆裂双斧</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/144/14410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/144/14410.png</avator>
 				<detail>程咬金向指定目标位置猛力一跃并挥动双斧斩击，对范围内敌人造成120/155/190/225/260/295（+50%物理加成）点物理伤害并造成50%的减速效果，持续2秒；被动：程咬金的普通攻击命中敌方英雄会减少1秒爆裂双斧的冷却时间。</detail>
 				<intro>程咬金位移的控制技能，被动效果普通攻击可减少CD，对线或是抓人时可以作先手减速留人，持续输出粘住敌人.掩护队友时，也可让队友从容撤退.</intro>
 				<cdTime>0</cdTime>
@@ -1593,7 +1664,7 @@
 			</skill>
 			<skill>
 				<name>激热回旋</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/144/14420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/144/14420.png</avator>
 				<detail>程咬金转动双斧劈砍敌人，对范围内的敌人造成两段伤害，每段造成125/150/175/200/225/250（+60%物理加成）点物理伤害。</detail>
 				<intro>程咬金的主要输出技能，用来清线是不错选择，团战中，由于CD很短可多次使用该技能进行AOE伤害输出</intro>
 				<cdTime>0</cdTime>
@@ -1601,7 +1672,7 @@
 			</skill>
 			<skill>
 				<name>正义潜能</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/144/14430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/144/14430.png</avator>
 				<detail>程咬金迸发正义热情，每秒回复8%最大生命，同时增加移动速度30%，持续5秒。</detail>
 				<intro>程咬金在团战中保证了自己的超高生存能力，持续回复大量生命值并提升移动速度，在追人和撤退时使用都是很好的选择</intro>
 				<cdTime>0</cdTime>
@@ -1611,7 +1682,9 @@
 	</hero>
 	<hero>
 	<name>"露娜"</name>
-		<title>月光之女</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/146/146-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/146/146.jpg</avator>
+	<title>月光之女</title>
 		<position>战士</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -1623,7 +1696,7 @@
 		<skills>
 			<skill>
 				<name>月光之舞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/146/14600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/146/14600.png</avator>
 				<detail>被动：露娜对新目标的第一次普通攻击会向敌人发起冲锋；露娜的第三次普通攻击将会额外造成150（+35%法术加成）点法术伤害并标记敌人，但无法标记机关，该伤害随英雄等级每级成长10点</detail>
 				<intro>这是露娜团战输出的主要AOE伤害之一，更重要的是能进行标记刷新大招CD，使得技能连招更多样化</intro>
 				<cdTime>0</cdTime>
@@ -1631,7 +1704,7 @@
 			</skill>
 			<skill>
 				<name>弦月斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/146/14610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/146/14610.png</avator>
 				<detail>露娜向指定方向挥出一道月光冲击波，对命中的敌人造成350/430/510/590/670/750（+51%法术加成）点法术伤害并标记敌人</detail>
 				<intro>主要的作用是进行标记，刷新大招CD.同时有一定的施法范围，在线上进行消耗非常不错</intro>
 				<cdTime>50</cdTime>
@@ -1639,7 +1712,7 @@
 			</skill>
 			<skill>
 				<name>炙热剑芒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/146/14620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/146/14620.png</avator>
 				<detail>露娜将剑插入大地，以炙热剑芒牵引附近的敌人靠近自己造成120/135/150/165/180/195（+31%法术加成）点法术伤害并眩晕0.5秒，同时获得可抵免400/480/560/640/720/800（+80%法术加成）点伤害的护盾并减少其50%移动速度，持续2秒；同时会标记被牵引的敌人</detail>
 				<intro>该技能可以控制范围内的敌人，可以配合队友留人，也可在晕眩时间内打出被动，造成更多伤害</intro>
 				<cdTime>50</cdTime>
@@ -1647,7 +1720,7 @@
 			</skill>
 			<skill>
 				<name>新月突击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/146/14630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/146/14630.png</avator>
 				<detail>露娜向指定方向发起突击，对路径上敌人造成500/625/750（+60%法术加成）点法术伤害；如果露娜命中了被标记的敌人，将会刷新新月突击的冷却时间</detail>
 				<intro>露娜的大招是她最重要的技能，在1技能和被动都能重置CD的情况下，灵活利用标记可以在一波团战中一直使用大招进行突进和输出</intro>
 				<cdTime>80</cdTime>
@@ -1657,7 +1730,9 @@
 	</hero>
 	<hero>
 	<name>"姜子牙"</name>
-		<title>太古魔导</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/148/148-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/148/148.jpg</avator>
+	<title>太古魔导</title>
 		<position>法师</position>
 		<surviveAbility>1</surviveAbility>
 		<attackAbility>2</attackAbility>
@@ -1669,7 +1744,7 @@
 		<skills>
 			<skill>
 				<name>心魔</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/148/14800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/148/14800.png</avator>
 				<detail>被动：姜子牙每10秒为友军增加14点经验</detail>
 				<intro>功能型被动技能，可以使友方英雄等级领先于敌方，前期在3级到4级的时间点尤为重要</intro>
 				<cdTime>0</cdTime>
@@ -1677,7 +1752,7 @@
 			</skill>
 			<skill>
 				<name>忏悔</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/148/14810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/148/14810.png</avator>
 				<detail>姜子牙聚集能量对目标区域的敌人进行冲击，对受到冲击的敌人造成每0.5秒75/87/99/111/123/135（+7%法术加成）点法术伤害，持续5秒；持续期间敌人还将逐渐减少移动速度，物理和法术防御，最多将会减少90%移动速度，25%/28%/31%/34%/37%/40%物理防御和法术防御</detail>
 				<intro>AOE范围技能，有较高的AP伤害加成和可叠加的减速效果，在人群中使用效果极佳</intro>
 				<cdTime>70</cdTime>
@@ -1685,7 +1760,7 @@
 			</skill>
 			<skill>
 				<name>湮灭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/148/14820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/148/14820.png</avator>
 				<detail>姜子牙在指定位置引爆能量，对范围内敌人造成310/350/390/430/470/510（+47%法术加成）点法术伤害并将其击退，同时将会减少50%移动速度，持续0.5秒</detail>
 				<intro>范围内造成法术伤害并能击退敌人，是姜子牙重要的保命技能</intro>
 				<cdTime>80</cdTime>
@@ -1693,7 +1768,7 @@
 			</skill>
 			<skill>
 				<name>断罪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/148/14830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/148/14830.png</avator>
 				<detail>姜子牙朝指定方向引导能量聚集，最多持续3秒，冲击波会造成450/600/750（+35%法术加成）～1350（+105%法术加成）点法术伤害并且可对路径上的建筑造成10%伤害；聚集时间会影响冲击波的伤害和攻击距离，冲击波最远可攻击1800距离内的敌人；进行任意操作都会中断聚集过程并立即放出冲击波</detail>
 				<intro>姜子牙最主要的输出和消耗技能，施法范围非常大，距离和伤害根据蓄力的时间而定，但施法时间较长，需要有非常好的预判能力</intro>
 				<cdTime>100</cdTime>
@@ -1703,7 +1778,9 @@
 	</hero>
 	<hero>
 	<name>"刘邦"</name>
-		<title>双面君主</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/149/149-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/149/149.jpg</avator>
+	<title>双面君主</title>
 		<position>坦克</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -1715,7 +1792,7 @@
 		<skills>
 			<skill>
 				<name>君主野望</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/149/14900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/149/14900.png</avator>
 				<detail>被动：刘邦第三次普通攻击将附带最大生命值4-8%的法术伤害，增加幅度随英雄等级成长，该效果无法对机关造成伤害</detail>
 				<intro>增加自己的最大生命值来使普攻输出增高。</intro>
 				<cdTime>0</cdTime>
@@ -1723,7 +1800,7 @@
 			</skill>
 			<skill>
 				<name>霸业之盾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/149/14910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/149/14910.png</avator>
 				<detail>刘邦开启护盾将自身笼罩，持续5秒，护盾可抵免500/650/800/950/1100/1250（+168）（最大生命值的5/6/7/8/9/10%）点伤害，结束时对周围造成400/520/640/760/880/1000（+134）（最大生命值的4/4/5/6/7/8%）点法术伤害；2秒后再次施放可立即结束护盾，若护盾被击破，则不会造成伤害</detail>
 				<intro>利用护盾吸收尽可能多的伤害并且不让护盾被击破来贴近敌方造成伤害和减速效果。</intro>
 				<cdTime>75</cdTime>
@@ -1731,7 +1808,7 @@
 			</skill>
 			<skill>
 				<name>双重恐吓</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/149/14920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/149/14920.png</avator>
 				<detail>刘邦蓄力后挥剑冲锋300-500距离，对路径上敌人造成150/180/210/240/270/300~600（+60%物理加成）点法术伤害和0.5-1秒晕眩效果，冲锋距离、攻击伤害和晕眩时长和蓄力时间成正比。蓄力达2秒后各效果强度达到上限，最多可保存蓄力状态5秒，蓄力期间若取消或被打断，该技能会执行40%冷却时间</detail>
 				<intro>强力控制技能，近距离同时命中多个敌人是收益最大的一种方式。</intro>
 				<cdTime>70</cdTime>
@@ -1739,7 +1816,7 @@
 			</skill>
 			<skill>
 				<name>统御战场</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/149/14930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/149/14930.png</avator>
 				<detail>刘邦指定一名队友并开始原地吟唱，持续2.2秒，期间刘邦和该队友将减少40%所受到的伤害，并且1技能损人利己将以援护队友作为添加护盾目标；吟唱后刘邦将传送到该队友位置；传送后刘邦增加30%移动速度，持续1.5秒；同时会生成一个跟随自身的法术场，法术场为范围内队友提供60/105/150点物理防御和法术防御，持续6秒</detail>
 				<intro>刘邦的3技能现在能为队友提供高额的免疫伤害效果但持续时间较短，在敌方集火队友时及时使用；传送后的刘邦会提供免伤法术场，尽可能覆盖到更多的队友。</intro>
 				<cdTime>140</cdTime>
@@ -1749,7 +1826,9 @@
 	</hero>
 	<hero>
 	<name>"韩信"</name>
-		<title>国士无双</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/150/150-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/150/150.jpg</avator>
+	<title>国士无双</title>
 		<position>刺客</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -1761,7 +1840,7 @@
 		<skills>
 			<skill>
 				<name>杀意之枪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/150/15000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/150/15000.png</avator>
 				<detail>被动：韩信的第四次普通攻击会将敌人击飞0.5秒；韩信释放技能命中目标后会增加50％攻击速度</detail>
 				<intro>拥有一定的控制性可以在一定的时候打断敌方连续攻击触发的技能，挑起后是一种空挡状态可以进行技能的连接.短暂的攻击速度加成有助于让韩信更好的触发被动.</intro>
 				<cdTime>0</cdTime>
@@ -1769,7 +1848,7 @@
 			</skill>
 			<skill>
 				<name>无情冲锋</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/150/15010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/150/15010.png</avator>
 				<detail>韩信持枪向指定目标周围发起冲锋，冲锋会对范围内目标造成250/270/290/310/330/350（+85％物理加成）点物理伤害并将范围内敌人击飞0.8秒；冲锋后5秒内可发动第二次冲锋，但不会击飞敌人</detail>
 				<intro>两段的位移和一次击飞是韩信的主要技能，它让韩信进可攻退可跑.一起用是一大段的位移，分开用利于触发被动，开头的控制让大招更容易全部命中.</intro>
 				<cdTime>55</cdTime>
@@ -1777,7 +1856,7 @@
 			</skill>
 			<skill>
 				<name>背水一战</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/150/15020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/150/15020.png</avator>
 				<detail>韩信向后跳跃并使下一次普通攻击变更为横扫攻击，持续3秒，横扫会对范围内敌人造成180/200/220/240/260/280(+100％物理加成）点物理伤害</detail>
 				<intro>一次位移和一次更高的伤害，与无情冲锋配合起来可以进行快速的支援和打击.同时，CD较短，进行撤退也会很实用</intro>
 				<cdTime>80</cdTime>
@@ -1785,7 +1864,7 @@
 			</skill>
 			<skill>
 				<name>国士无双</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/150/15030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/150/15030.png</avator>
 				<detail>韩信朝指定方向乱舞四次长枪，对命中的敌人每次造成250/300/350(+85％物理加成）点物理伤害；最后一次攻击会将范围内的敌人击飞0.5秒；乱舞期间韩信处于霸体状态并获得30%伤害减免</detail>
 				<intro>提供一次击飞，与隐性的霸体(虽然会被一定的技能打断但打断后是无冷却的)抵挡一定的控制效果.突进敌阵用大招进行扰乱敌方阵型也是不错的选择.</intro>
 				<cdTime>140</cdTime>
@@ -1795,7 +1874,9 @@
 	</hero>
 	<hero>
 	<name>"王昭君"</name>
-		<title>冰雪之华</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/152/152-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/152/152.jpg</avator>
+	<title>冰雪之华</title>
 		<position>法师</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -1807,7 +1888,7 @@
 		<skills>
 			<skill>
 				<name>冰封之心</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/152/15200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/152/15200.png</avator>
 				<detail>被动：王昭君脱离战斗后会获得可抵免450（+52%法术加成）点伤害的寒冰护盾，护盾破裂时对附近敌人造成一次冰霜冲击造成450（+52%法术加成）点法术伤害并减少其50%移动速度，持续1秒；寒冰护盾每3秒最多获得1次</detail>
 				<intro>护甲破裂时将对附近敌人造成一次冰霜冲击，及时衔接技能配合2技能的被动效果，打敌人个措手不及！</intro>
 				<cdTime>0</cdTime>
@@ -1815,7 +1896,7 @@
 			</skill>
 			<skill>
 				<name>凋零冰晶</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/152/15210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/152/15210.png</avator>
 				<detail>王昭君在指定位置操控碎裂冰晶绽开，对范围内的敌军造成400/480/560/640/720/800（+65%法术加成）点法术伤害并减少其50%移动速度，持续2秒，同时还会获得敌人的视野</detail>
 				<intro>这个技能CD很短，而且是AOE伤害伴有减速效果，在对线和团战前都是很好的消耗技能，同时能提高王昭君2技能的命中率</intro>
 				<cdTime>80</cdTime>
@@ -1823,7 +1904,7 @@
 			</skill>
 			<skill>
 				<name>禁锢寒霜</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/152/15220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/152/15220.png</avator>
 				<detail>王昭君在指定区域引领寒霜之力，短暂延迟后将范围内敌人并造成250/280/310/340/370/400（+47%法术加成）点法术伤害并将其冰冻2.5秒；被动：王昭君对冰冻的敌人会额外造成250/280/310/340/370/400（+50%法术加成）点法术伤害。</detail>
 				<intro>这个技能能够触发王昭君的被动，但是有一定延时，需要预判对手的走位，在友方控制敌人后施放可极大提升命中率哦</intro>
 				<cdTime>80</cdTime>
@@ -1831,7 +1912,7 @@
 			</skill>
 			<skill>
 				<name>凛冬已至</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/152/15230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/152/15230.png</avator>
 				<detail>王昭君立于原地引导寒冬之力，在指定位置降下暴风雪，对范围内敌人每0.5秒造成280/390/500（+35%法术加成）点法术伤害，持续4.7秒；被暴风雪命中的敌人会减少30%移动速度，持续1秒；并且开启引导时，自身会获得寒冰护盾，同时获得600点物理防御</detail>
 				<intro>王昭君最具有输出的技能，施放时获得600护甲，因为技能持续时间很长，范围很大，选择一个很好的位置施放大招是最关键的，最好的情况是，保证打到更多的敌人，而敌人又不容易近身切入</intro>
 				<cdTime>120</cdTime>
@@ -1841,7 +1922,9 @@
 	</hero>
 	<hero>
 	<name>"兰陵王"</name>
-		<title>暗影刀锋</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/153/153-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/153.jpg</avator>
+	<title>暗影刀锋</title>
 		<position>刺客</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -1853,7 +1936,7 @@
 		<skills>
 			<skill>
 				<name>秘技·极意</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/153/15300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/15300.png</avator>
 				<detail>被动：兰陵王朝敌方英雄移动时会增加20%移动速度</detail>
 				<intro>被动技能让兰陵王更容易黏住敌人，并且无需借助位移技能，也就不会打断普攻节奏，因此兰陵王在追击敌人时也可以保持较高的普攻频率</intro>
 				<cdTime>0</cdTime>
@@ -1861,7 +1944,7 @@
 			</skill>
 			<skill>
 				<name>秘技·分身</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/153/15310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/15310.png</avator>
 				<detail>兰陵王以拳刃挥砍身边敌人，造成215/260/305/350/395/440（+85%物理加成）点物理伤害，同时召唤出影分身随机攻击附近一名敌人，影分身会造成等量的伤害</detail>
 				<intro>这是兰陵王主要的输出手段，用来对付落单的敌人更加有效，在团战时，兰陵王也可以调整自己的走位远离混战中心，让自己和猎物处于一个相对独立的范围内，更加有效的对猎物进行输出</intro>
 				<cdTime>50</cdTime>
@@ -1869,7 +1952,7 @@
 			</skill>
 			<skill>
 				<name>秘技·影蚀</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/153/15320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/15320.png</avator>
 				<detail>兰陵王向指定方向投射暗影匕首，造成165/186/207/228/249/270（+57%物理加成）点物理伤害并减少其90%移动速度，持续2秒；匕首命中的敌人会被标记，持续3秒，期间再次受到兰陵王攻击将晕眩1秒并使兰陵王回复140/168/196/224/252/280（+50%物理加成）点生命值；标记消失时该目标还会受到已损失生命值24%物理伤害</detail>
 				<intro>匕首的2段伤害是基于已损失生命值的，因此如果能在此时间段内尽量伤害敌人，就可以大大提升伤害</intro>
 				<cdTime>60</cdTime>
@@ -1877,7 +1960,7 @@
 			</skill>
 			<skill>
 				<name>秘技·暗袭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/153/15330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/15330.png</avator>
 				<detail>向指定方向冲锋并对路径上敌人造成660/830/1000（+188%物理加成）点物理伤害</detail>
 				<intro>兰陵王可利用此技能神不知鬼不觉的贴近猎物将其击杀，拥有超强的爆发能力</intro>
 				<cdTime>100</cdTime>
@@ -1885,7 +1968,7 @@
 			</skill>
 			<skill>
 				<name>秘技·隐匿</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>兰陵王开始准备并于1.5秒后进入隐身状态，持续30秒，解除隐身状态后兰陵王会增加50%攻击速度，持续5秒；隐身时若处于敌人附近超过3秒，隐身状态将会自动解除</detail>
 				<intro>进入隐身状态靠近敌人，当然这个技能也能用来逃命使用</intro>
 				<cdTime>0</cdTime>
@@ -1895,7 +1978,9 @@
 	</hero>
 	<hero>
 	<name>"花木兰"</name>
-		<title>传说之刃</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/154/154-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/154/154.jpg</avator>
+	<title>传说之刃</title>
 		<position>战士</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -1907,7 +1992,7 @@
 		<skills>
 			<skill>
 				<name>长城巡守者</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/154/15400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/154/15400.png</avator>
 				<detail>被动：花木兰使用轻剑时，增加40点移动速度，并且普通攻击和技能伤害将会对敌方英雄叠加平衡印记，持续5秒；叠加满5层后将触发印记，造成200%物理加成点物理伤害，同时将该目标沉默并减少其50%移动速度，持续1秒；花木兰使用重剑时，普通攻击的基础攻击速度会降低，但造成的伤害会增加50%；并且释放技能过程中将处于霸体状态并减少40%所受到的伤害</detail>
 				<intro>花木兰的双剑形态更倾向于刺客，沉默与减速效果能有效的追击敌方后排和落单英雄/花木兰的重剑形态更倾向于战士，拥有更加强大的输出能力和身体强度.</intro>
 				<cdTime>0</cdTime>
@@ -1915,7 +2000,7 @@
 			</skill>
 			<skill>
 				<name>空裂斩</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/154/15410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/154/15410.png</avator>
 				<detail>花木兰冲锋后向指定方向挥砍，对命中的目标造成80/90/100/110/120/130（+43%物理加成）点物理伤害；如果该技能命中目标，可在5秒内发起第二次空裂斩</detail>
 				<intro>花木兰快速的接近和追击敌人，也可以用来逃离战场/花木兰在重剑形态下的范围输出技能并附带控制，由于需要蓄力，尽可能与队友的控制配合打出高额伤害和控制效果.</intro>
 				<cdTime>0</cdTime>
@@ -1923,7 +2008,7 @@
 			</skill>
 			<skill>
 				<name>旋舞之华</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/154/15420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/154/15420.png</avator>
 				<detail>花木兰向指定方向投掷轻剑，对路径上的敌人造成180/200/220/240/260/280（+90%物理加成）点物理伤害，轻剑会在终点旋转3秒，对范围内敌人每0.5秒造成72（+36%物理加成）点物理伤害并减少50%移动速度，持续1秒；拾起轻剑会减少5秒旋舞之华的冷却时间</detail>
 				<intro>尽可能将技能放在能够伤害到对方并且在追击敌人时自己会经过的路径上，通过多次拾起短剑来更多的使用这个技能打出输出/离花木兰较近的敌方单位会被连续击退.</intro>
 				<cdTime>0</cdTime>
@@ -1931,7 +2016,7 @@
 			</skill>
 			<skill>
 				<name>绽放刀锋</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/154/15430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/154/15430.png</avator>
 				<detail>花木兰拔出重剑横扫，对附近的敌人造成200/280/360（+110%物理加成）点物理伤害，同时增加60点攻击力，持续5秒；拔出重剑后，会使用重剑技能</detail>
 				<intro>在双剑形态下快速接近敌人并在技能进入冷却时开启3技能，配合队友控制利用重剑形态下的技能对敌方造成大量伤害/团战时配合队友利用重剑形态的技能打出输出，在敌人逃跑时使用3技能后用双剑形态的技能追击敌方英雄.</intro>
 				<cdTime>0</cdTime>
@@ -1941,7 +2026,9 @@
 	</hero>
 	<hero>
 	<name>"张良"</name>
-		<title>言灵之书</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/156/156-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/156/156.jpg</avator>
+	<title>言灵之书</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -1953,7 +2040,7 @@
 		<skills>
 			<skill>
 				<name>言灵·咒令</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/156/15600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/156/15600.png</avator>
 				<detail>被动：张良对任一敌人造成的相邻两次普攻或技能伤害的时间间隔若小于1.5秒，这两次伤害的间隔时间被视为“连续攻击状态”，该状态每积累满1.2秒，会使该敌人额外承受140（+50%法术加成）点真实伤害，该伤害随英雄等级每级成长10点</detail>
 				<intro>对任一敌人保持一定的攻击频率不中断，便可以打出额外伤害，“拖住敌人”是核心目的</intro>
 				<cdTime>0</cdTime>
@@ -1961,7 +2048,7 @@
 			</skill>
 			<skill>
 				<name>言灵·壁垒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/156/15610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/156/15610.png</avator>
 				<detail>张良以言灵之术召唤4道并列的法术壁垒，敌人触碰壁垒将受到400/450/500/550/600/650（+75%法术加成）点法术伤害、0.75秒晕眩和之后0.5秒50%减速，并撞碎这块壁垒。重复触碰壁垒的敌人受到的伤害衰减50%，不再承受晕眩效果，但会承受1.25秒50%减速效果</detail>
 				<intro>前摇很短的远程硬控技能，主要用来后手阻断敌人移动，对留人和自己逃生都有不错效果。操作熟练的话，用来直接命中敌人，也可以作为一个不错先手技能</intro>
 				<cdTime>80</cdTime>
@@ -1969,7 +2056,7 @@
 			</skill>
 			<skill>
 				<name>言灵·命数</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/156/15620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/156/15620.png</avator>
 				<detail>张良以言灵之术召唤侵蚀法阵，法阵每0.5秒对踏入其中的敌人之一造成120/144/168/192/216/240（+17%法术加成）点法术伤害，同时最多存在2个法阵(法阵对小兵野怪额外造成50%伤害)。法阵每12秒存储一次（受到减CD属性影响），最多存储3次，每个法阵持续5.5秒。张良在法阵中提升60点移动速度。法阵可提供视野。</detail>
 				<intro>技能本身不带控制，范围较大，爆发弱，持续输出高。因此释放时需要预判敌人走位，并利用其它技能尽量将敌人留在该技能输出范围内。利用攒点施法的机制，可以连续放置两次法术，覆盖大范围，避免敌人逃出攻击范围</intro>
 				<cdTime>80</cdTime>
@@ -1977,7 +2064,7 @@
 			</skill>
 			<skill>
 				<name>言灵·操纵</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/156/15630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/156/15630.png</avator>
 				<detail>张良以言灵之术抓住一名敌方英雄，持续2秒，期间每0.5秒造成120/150/180（+15%法术加成）点法术伤害，并持续支配对方。技能完整释放后，还会在目标身下生成一个法术区域，对踏进其中的敌人造成240/300/360（+30%法术加成）点法术伤害和0.75秒晕眩</detail>
 				<intro>伤害不高，但如果在已经磨掉对方一定血量之后，该技能长时间的控制配合2技能伤害往往能一套带走对方。与高伤害队友配合时，击杀概率会大大增加</intro>
 				<cdTime>130</cdTime>
@@ -1987,7 +2074,9 @@
 	</hero>
 	<hero>
 	<name>"不知火舞"</name>
-		<title>明媚烈焰</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/157/157-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/157/157.jpg</avator>
+	<title>明媚烈焰</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -1999,7 +2088,7 @@
 		<skills>
 			<skill>
 				<name>忍蜂</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/157/15700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/157/15700.png</avator>
 				<detail>被动：不知火舞每隔5秒的第一次普通攻击将会向当前朝向释放忍蜂，造成100（+100%法术加成）的法术伤害并将敌人击退；不知火舞使用技能后能够在结束时翻滚一段距离，并且会增加50%移动速度，持续0.5秒，该效果会随时间衰减。技能命中将回复25点能量值</detail>
 				<intro>被动技能不但加强了不知火舞的输出伤害，并且同时提升了该英雄的机动能力，在每第3次普攻触发被动前，你可以调整自己的走位，将敌人推向你需要的位置.在每次施放技能后，你都可以立即操纵轮盘方向来控制翻滚的方向，进可攻退可守</intro>
 				<cdTime>0</cdTime>
@@ -2007,7 +2096,7 @@
 			</skill>
 			<skill>
 				<name>飞翔龙炎阵</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/157/15710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/157/15710.png</avator>
 				<detail>不知火舞向上飞踢腾空，对范围内敌人造成550/620/690/760/830/900（+73%法术加成）点法术伤害并将其击飞0.75秒；</detail>
 				<intro>飞翔龙炎阵是不知火舞的主要输出与控制手段.利用此技能位移靠近目标并形成短暂的击飞效果，在此时间内配合其他技能或普攻尽量打出被动，使得输出最大化.当逃跑时，这个技能可以当作一个不错的位移技能来使用</intro>
 				<cdTime>70</cdTime>
@@ -2015,7 +2104,7 @@
 			</skill>
 			<skill>
 				<name>花蝶扇</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/157/15720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/157/15720.png</avator>
 				<detail>不知火舞扔出扇子，对第一个命中的目标造成500/590/680/770/860/950（+100%法术加成）点法术伤害并减少其90%移动速度，持续0.5秒，同时减少50/100/150/200/250/300点法术防御，持续3秒；</detail>
 				<intro>花蝶扇除了提供可观的法术伤害还可造成短暂的减速效果，是一个不错的留人技能.需要注意的是，花蝶扇只能对路径上的第一个命中目标有效，所以当敌人站位在兵线或坦克英雄身后时，请一定要等待时机施放花蝶扇，配合被动技能的翻滚位移，在追击和逃跑时都能轻松应对</intro>
 				<cdTime>40</cdTime>
@@ -2023,7 +2112,7 @@
 			</skill>
 			<skill>
 				<name>必杀·忍蜂</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/157/15730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/157/15730.png</avator>
 				<detail>不知火舞向前冲刺，对命中的敌人造成800/1000/1200（+110%法术加成）点法术伤害并将其击退；同时敌人会减少20%/25%/30%物理攻击力，持续2.5秒；</detail>
 				<intro>必杀·忍蜂是不知火舞超强力的AOE输出技能，向自定方向冲刺，造成高额的法术伤害并伴随击退效果，团战时，该技能命中的敌方英雄数往往决定了一场团战的成败.所以，你需要在团战中注意走位、找准时机，尽量在此技能施放时打到更多的敌人</intro>
 				<cdTime>110</cdTime>
@@ -2033,7 +2122,9 @@
 	</hero>
 	<hero>
 	<name>"娜可露露"</name>
-		<title>鹰之守护</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/162/162-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/162/162.jpg</avator>
+	<title>鹰之守护</title>
 		<position>刺客</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2045,7 +2136,7 @@
 		<skills>
 			<skill>
 				<name>流刀舞术</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/162/16200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/162/16200.png</avator>
 				<detail>被动：娜可露露的技能命中敌人时，下一次普通攻击变更为强化攻击，强化攻击会额外造成80（+100%额外物理加成）的物理伤害。</detail>
 				<intro>大幅度提升娜可露露普攻的输出能力，因为效果不可叠加，所以需要控制技能的施放节奏，而且要保证技能的命中率</intro>
 				<cdTime>0</cdTime>
@@ -2053,7 +2144,7 @@
 			</skill>
 			<skill>
 				<name>飞鹰攻击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/162/16210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/162/16210.png</avator>
 				<detail>娜可露露召唤玛玛哈哈向指定方向攻击敌人，造成350/400/450/500/550/600（+155%额外物理加成）点物理伤害，并对敌人施加鹰眼标记；娜可露露的其它伤害可以触发印记，对敌人造成最大生命值8%物理伤害；每40点额外物理攻击额外增幅1%；触发印记飞鹰攻击会减少3秒冷却时间并恢复35点法力值</detail>
 				<intro>尽量用此技能先手标记，然后利用其他伤害来触发标记，对敌人造成高额的伤害</intro>
 				<cdTime>70</cdTime>
@@ -2061,7 +2152,7 @@
 			</skill>
 			<skill>
 				<name>风之刃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/162/16220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/162/16220.png</avator>
 				<detail>娜可露露向指定方向冲刺，对路径上的敌人造成350/420/490/560/630/700（+170%额外物理加成）点物理伤害，每命中一名敌方英雄将回复250/300/350/400/450/500（+100%额外物理加成）点生命值。该技能命中野怪时，造成的伤害提升50%，同时回复自身的生命值，回复量为命中英雄时的30%</detail>
 				<intro>尽量命中足够多的英雄来回复自己血量</intro>
 				<cdTime>50</cdTime>
@@ -2069,7 +2160,7 @@
 			</skill>
 			<skill>
 				<name>飞鹰急袭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/162/16230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/162/16230.png</avator>
 				<detail>娜可露露召唤玛玛哈哈并肩作战，立即增加50%的移动速度，持续6秒，该效果会持续衰减；再次释放飞鹰急袭，娜可露露将朝指定区域发起进攻，对敌人造成600/850/1100（+265%额外物理加成）点物理伤害并减少50%移动速度，持续3秒；受到冲击的敌人将减少30%伤害输出，持续3秒</detail>
 				<intro>进可攻退可守的技能，不但机动性强，而且伤害可观，需要注意在飞行阶段，不能施放普攻或其它技能</intro>
 				<cdTime>120</cdTime>
@@ -2079,7 +2170,9 @@
 	</hero>
 	<hero>
 	<name>"橘右京"</name>
-		<title>神梦一刀</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/163/163-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/163/163.jpg</avator>
+	<title>神梦一刀</title>
 		<position>刺客</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -2091,7 +2184,7 @@
 		<skills>
 			<skill>
 				<name>秘剑胧刀</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/163/16300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/163/16300.png</avator>
 				<detail>被动：橘右京将下一次普攻将进行一次强力拔刀斩，对前方敌人造成130%物理加成物理伤害并减少50%移动速度，持续2秒；拔刀斩每5秒可准备1次；对处于攻击边缘的敌人将承受50%的额外伤害.</detail>
 				<intro>每隔一段时间，橘右京的普攻强化，造成高额物理伤害，使得他的对拼能力增强，并且有减速效果，让他能更好的追击敌人</intro>
 				<cdTime>0</cdTime>
@@ -2099,7 +2192,7 @@
 			</skill>
 			<skill>
 				<name>燕返</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/163/16310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/163/16310.png</avator>
 				<detail>橘右京跃向后方，同时向前方挥刀，对附近的敌人造成200/240/280/320/360/400（+145%物理加成）点物理伤害，若成功命中一名敌方英雄，可激活二段使用</detail>
 				<intro>这个技能可进可退，既可以用它来进行位移逃跑，也可以用来当作突进技能追击并造成伤害，在线上是一个非常好的消耗敌人的技能，需要注意的是，要通过对局势的判断来选择合适的施法方向打出适当的效果</intro>
 				<cdTime>0</cdTime>
@@ -2107,7 +2200,7 @@
 			</skill>
 			<skill>
 				<name>居合</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/163/16320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/163/16320.png</avator>
 				<detail>橘右京向指定方向快速拔刀，对路径上的第一个敌人造成330/375/420/465/510/555（+212%物理加成）点物理伤害，对路上的其余敌人造成的伤害将衰减50%,并将路径末端的敌人眩晕0.75秒</detail>
 				<intro>这是橘右京技能范围最大的一个技能，具有高额的AOE伤害，是他主要的输出技能，并且还能形成一定的控制效果，将敌人控制住后施放3技能连招，能保证3技能可以足够稳定的命中敌人</intro>
 				<cdTime>0</cdTime>
@@ -2115,7 +2208,7 @@
 			</skill>
 			<skill>
 				<name>细雪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/163/16330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/163/16330.png</avator>
 				<detail>橘右京向指定方向连续拔刀四次，每次命中造成100/150/200（+70%物理加成）点物理伤害并且每次命中敌方英雄，自身将回复70/100/130（+35%物理加成）点生命值（命中非英雄单位效果减半）</detail>
 				<intro>这个技能能造成高额的物理伤害，但因为是非指向性技能，所以需要注意判断正确的施法方向，或在敌人被控制后施放效果更佳.对拼时，这个技能在每次命中敌方英雄时，都能回复生命值</intro>
 				<cdTime>0</cdTime>
@@ -2125,7 +2218,9 @@
 	</hero>
 	<hero>
 	<name>"亚瑟"</name>
-		<title>圣骑之力</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/166/166-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/166/166.jpg</avator>
+	<title>圣骑之力</title>
 		<position>战士</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -2137,7 +2232,7 @@
 		<skills>
 			<skill>
 				<name>圣光守护</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/166/16600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/166/16600.png</avator>
 				<detail>被动：亚瑟获得圣光守护，每2秒回复1%的最大生命值</detail>
 				<intro>保证了亚瑟充足的赖线能力，因为本身亚瑟就是一个无蓝耗英雄，加上他的恢复能力，只要他不跟对手硬拼，一般情况下很难被击杀</intro>
 				<cdTime>0</cdTime>
@@ -2145,7 +2240,7 @@
 			</skill>
 			<skill>
 				<name>誓约之盾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/166/16610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/166/16610.png</avator>
 				<detail>亚瑟增加30%移动速度，持续3秒，下一次普通攻击变更为跳斩，跳斩会造成180/205/230/255/280/305（+100%物理加成）点物理伤害并将目标沉默1秒，同时跳斩命中的敌方英雄会被标记，持续5秒，亚瑟的普通攻击和技能会额外造成目标最大生命值1%的法术伤害；标记附近的友军会增加10%的移动速度</detail>
 				<intro>这是亚瑟的主要技能，移速加成可以很好的用来追击或逃跑.附加的护盾效果可用于对线耗血使用</intro>
 				<cdTime>0</cdTime>
@@ -2153,7 +2248,7 @@
 			</skill>
 			<skill>
 				<name>回旋打击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/166/16620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/166/16620.png</avator>
 				<detail>亚瑟召唤圣盾围绕自身旋转，对路径上的敌人会造成145/163/181/199/217/235（+80%物理加成）点物理伤害，圣盾最多持续5秒</detail>
 				<intro>范围性伤害技能，线上用于快速清兵，再有了一定装备后，团战中可以造成非常可观的伤害</intro>
 				<cdTime>0</cdTime>
@@ -2161,7 +2256,7 @@
 			</skill>
 			<skill>
 				<name>圣剑裁决</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/166/16630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/166/16630.png</avator>
 				<detail>亚瑟举起圣剑跃向敌方英雄，造成敌方英雄最大生命12/16/20%法术伤害并将其击飞0.5秒；同时召唤圣印覆盖落点范围，持续5秒，圣印会对范围内敌人造成每秒85/105/125点法术伤害</detail>
 				<intro>这个技能在最后收割的时候使用，敌方血量损失越多，伤害越高，千万不要在目标血量较高时使用此技能</intro>
 				<cdTime>0</cdTime>
@@ -2171,7 +2266,9 @@
 	</hero>
 	<hero>
 	<name>"孙悟空"</name>
-		<title>齐天大圣</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/167/167-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/167/167.jpg</avator>
+	<title>齐天大圣</title>
 		<position>战士</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2183,7 +2280,7 @@
 		<skills>
 			<skill>
 				<name>大圣神威</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/167/16700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/167/16700.png</avator>
 				<detail>被动：孙悟空每次释放技能后下一次普通攻击变更为强力敲击，强力敲击会冲锋至目标身旁并抡起金箍棒敲打造成370（+100%物理加成）点物理伤害，该伤害可全额享受暴击收益。孙悟空天生拥有20%暴击几率，但初始只能造成150%暴击伤害</detail>
 				<intro>孙悟空需要利用技能接普攻打出更高的伤害，被动的暴击加上暴击装备的加成能迅速击杀对方脆皮英雄</intro>
 				<cdTime>0</cdTime>
@@ -2191,7 +2288,7 @@
 			</skill>
 			<skill>
 				<name>护身咒法</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/167/16710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/167/16710.png</avator>
 				<detail>孙悟空念起护身咒，护身咒可为孙悟空抵挡一次敌方技能，护身咒最多持续1.5秒；若成功抵挡，孙悟空将获得0.2秒的无敌效果以及抵免500/600/700/800/900/1000（+150%物理加成）点伤害的护盾，持续4秒。开启技能时自身增加40%移动速度，持续1秒</detail>
 				<intro>在适当的时间开启，成功抵挡敌方技能后，能让孙悟空抵挡大量的伤害</intro>
 				<cdTime>70</cdTime>
@@ -2199,7 +2296,7 @@
 			</skill>
 			<skill>
 				<name>斗战冲锋</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/167/16720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/167/16720.png</avator>
 				<detail>孙悟空向指定方向冲锋，如果冲锋路径上遭遇敌人会借力腾空跳跃；释放普通攻击或技能可中断跳跃</detail>
 				<intro>这是孙悟空很重要的位移技能，主要利用它来接近敌人或借力位移追击其他的敌人</intro>
 				<cdTime>50</cdTime>
@@ -2207,7 +2304,7 @@
 			</skill>
 			<skill>
 				<name>如意金箍</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/167/16730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/167/16730.png</avator>
 				<detail>孙悟空将变大的金箍棒直插入地，对范围内敌人造成150/190/230（+50%物理加成）点物理伤害并将其晕眩1秒。同时范围内敌人获得3层印记；孙悟空的普通攻击命中带有印记的敌人将消耗1层印记并额外造成270/405/540点物理伤害。</detail>
 				<intro>这是孙悟空主要的控制技能，能形成很好的AOE控制效果，并且对印记标记的敌人有更高的伤害</intro>
 				<cdTime>100</cdTime>
@@ -2217,7 +2314,9 @@
 	</hero>
 	<hero>
 	<name>"牛魔"</name>
-		<title>精英酋长</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/168/168-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/168/168.jpg</avator>
+	<title>精英酋长</title>
 		<position>坦克</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -2229,7 +2328,7 @@
 		<skills>
 			<skill>
 				<name>强力援护</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/168/16800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/168/16800.png</avator>
 				<detail>被动：当牛魔附近500范围内有友方英雄时，牛魔和范围内血量最少的友方英雄会获得200点物理防御和法术防御</detail>
 				<intro>这是牛魔非常重要的保人技能，牛头尽量和血量最少的友方英雄靠近，保护其撤退和输出</intro>
 				<cdTime>0</cdTime>
@@ -2237,7 +2336,7 @@
 			</skill>
 			<skill>
 				<name>咆哮之斧</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/168/16810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/168/16810.png</avator>
 				<detail>牛魔向指定方向以大斧横劈，对范围内的敌人造成250/300/350/400/450/500（+110%物理加成）点物理伤害，同时敌方英雄将减少15%的物理攻击力和法术攻击力，持续3秒；如果命中敌方英雄，牛魔下一次普通攻击或技能将额外造成200点法术伤害</detail>
 				<intro>尽量使用此技能命中敌方输出位置，降低其输出伤害</intro>
 				<cdTime>55</cdTime>
@@ -2245,7 +2344,7 @@
 			</skill>
 			<skill>
 				<name>横行霸道</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/168/16820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/168/16820.png</avator>
 				<detail>牛魔朝指定方向冲锋，对路径上的敌人造成450/530/610/690/770/850（+90%物理加成）点物理伤害并击飞0.75秒；敌人落地后会减少90%移动速度，持续1秒</detail>
 				<intro>可以当做位移技能使用，突进敌人造成击飞及减速效果，对友军为友军增加护盾减少伤害</intro>
 				<cdTime>80</cdTime>
@@ -2253,7 +2352,7 @@
 			</skill>
 			<skill>
 				<name>山崩地裂</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/168/16830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/168/16830.png</avator>
 				<detail>牛魔短暂蓄力后向指定方向以巨斧猛力劈开大地，对范围内敌人造成550/700/850（+130%物理加成）点物理伤害并将其击飞1秒；同时被劈开的大地被撕裂5秒，对处于其中的敌人每0.5秒造成80/100/120（+20%物理加成）点物理伤害并减少其50%移动速度</detail>
 				<intro>此技能在团战会有巨大的作用，技能命中敌方英雄的数量往往决定了团战的走向，用来进行反手控制是最佳选择</intro>
 				<cdTime>150</cdTime>
@@ -2263,7 +2362,9 @@
 	</hero>
 	<hero>
 	<name>"后羿"</name>
-		<title>半神之弓</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/169/169-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/169/169.jpg</avator>
+	<title>半神之弓</title>
 		<position>射手</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2275,7 +2376,7 @@
 		<skills>
 			<skill>
 				<name>惩戒射击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/169/16900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/169/16900.png</avator>
 				<detail>后羿的普攻命中敌人后增加自身10%攻击速度，可叠加至多3层。当攻速加成叠加到3层时，后羿的普攻将射出3支箭矢，每支箭矢造成原伤害的40%，强化持续3秒。（期间每次命中刷新持续时间）。</detail>
 				<intro>后羿需要进行三次普攻命中来触发被动效果，一旦触发被动以后，将会造成高额伤害。</intro>
 				<cdTime>0</cdTime>
@@ -2283,7 +2384,7 @@
 			</skill>
 			<skill>
 				<name>多重箭矢</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/169/16910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/169/16910.png</avator>
 				<detail>后羿强化自身攻击，每次攻击造成100/120/140/160/180/200（+80%物理加成）点物理伤害（若触发惩戒射击则每支箭矢造成原伤害的40%）并对面前区域内另外2名敌人造成50%伤害，该效果持续5秒。</detail>
 				<intro>主要输出技能，配合被动效果，每次普攻至多可发射9支箭矢，范围伤害能力极强。</intro>
 				<cdTime>60</cdTime>
@@ -2291,7 +2392,7 @@
 			</skill>
 			<skill>
 				<name>落日余晖</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/169/16920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/169/16920.png</avator>
 				<detail>后羿命令日炙塔对指定区域进行攻击，短暂时间后召唤一束激光打击指定位置。对命中的敌人造成240/280/320/360/400/440（+80%物理加成）点法术伤害和50%减速效果，持续2秒，被中心点命中的敌人将受到额外50%的伤害。</detail>
 				<intro>后羿常规的控制技能，精准打击时也可以提供一定的爆发伤害。必要的时候可以在远处释放该技能骚扰敌人。</intro>
 				<cdTime>60</cdTime>
@@ -2299,7 +2400,7 @@
 			</skill>
 			<skill>
 				<name>灼日之矢</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/169/16930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/169/16930.png</avator>
 				<detail>后羿向前方射出火焰箭。击中敌方英雄时造成500/625/750（+140%物理加成）点物理伤害并晕眩此目标(晕眩时长取决于火焰箭的飞行距离，最多造成3.5秒晕眩)。目标周围的敌人会受到爆炸伤害。</detail>
 				<intro>非常强力的开团技能，一旦命中远处的敌人将造成长时间的晕眩效果。另外这是一个全屏释放的技能，意味着后羿可以随时释放大招支援远处的队友，不过距离较远时，需要对释放方向进行一定的预判。</intro>
 				<cdTime>130</cdTime>
@@ -2309,7 +2410,9 @@
 	</hero>
 	<hero>
 	<name>"刘备"</name>
-		<title>仁德义枪</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/170/170-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/170/170.jpg</avator>
+	<title>仁德义枪</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -2321,7 +2424,7 @@
 		<skills>
 			<skill>
 				<name>强化霰弹</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/170/17000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/170/17000.png</avator>
 				<detail>被动：刘备的火铳是霰弹枪，目标会受到50%总攻击力+35%×额外弹丸数的总伤害；每颗弹丸命中敌方英雄，会增加1层战斗本能，战斗本能会给刘备增加6~10点物理防御和法术防御，持续6秒，最多叠加12层，增加幅度随英雄等级成长；每次射击只有中间的2颗弹丸能够暴击并触发装备效果；建筑不受额外弹丸影响</detail>
 				<intro>刘备的被动技能是他保持站桩输出的强力保证</intro>
 				<cdTime>0</cdTime>
@@ -2329,7 +2432,7 @@
 			</skill>
 			<skill>
 				<name>双重射击</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/170/17010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/170/17010.png</avator>
 				<detail>刘备增加40%移动速度，持续1.5秒，并在下一次普通攻击变更为两次连射，连射时每颗弹丸会造成120（+40%物理加成）点物理伤害</detail>
 				<intro>这个技能可以提升刘备的追人和撤退能力，并且能增强输出</intro>
 				<cdTime>60</cdTime>
@@ -2337,7 +2440,7 @@
 			</skill>
 			<skill>
 				<name>身先士卒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/170/17020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/170/17020.png</avator>
 				<detail>刘备向指定方向冲撞，对撞击到的敌人造成180/200/220/240/260/280（+70%物理加成）点物理伤害并停止冲撞；同时撞击到的敌人会被击退；若撞击到敌方英雄将减少2秒身先士卒的冷却时间</detail>
 				<intro>这个技能是刘备的控制技能，在观察好局势后灵活选择用来逃跑或者进攻，撞击英雄能减少技能CD时间</intro>
 				<cdTime>80</cdTime>
@@ -2345,7 +2448,7 @@
 			</skill>
 			<skill>
 				<name>以德服人</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/170/17030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/170/17030.png</avator>
 				<detail>刘备立即解除自身的控制效果，并获得可抵免1100/1650/2200点伤害的护盾，持续6秒；刘备在护盾存在期间免疫控制，同时将对敌方英雄造成伤害的50%转化为护盾值，对小兵和野怪造成伤害的20%转化为护盾值，护盾上限为初始值的150%；释放技能还会获得50/100/150点物理攻击力加成，持续6秒</detail>
 				<intro>刘备大招提供的护盾结合他的被动，使得刘备有足够的身板能在团战混沌中心疯狂输出，开启大招能免疫控制，使得刘备在团战中可以更加随心所欲地输出</intro>
 				<cdTime>130</cdTime>
@@ -2355,7 +2458,9 @@
 	</hero>
 	<hero>
 	<name>"张飞"</name>
-		<title>禁血狂兽</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/171/171-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/171/171.jpg</avator>
+	<title>禁血狂兽</title>
 		<position>坦克</position>
 		<surviveAbility>10</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -2367,7 +2472,7 @@
 		<skills>
 			<skill>
 				<name>黑暗潜能</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/171/17100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/171/17100.png</avator>
 				<detail>被动：张飞变身前，每次普通攻击会增加狂意；张飞变身后，施放技能会使得周围的地面震动，附近的敌人将会减少50％移动速度，持续2秒；并且变身后的普通攻击将会造成40（+200％物理加成）点伤害</detail>
 				<intro>张飞的被动技能可以说是神技，变身的张飞就是一个强力坦克输出</intro>
 				<cdTime>0</cdTime>
@@ -2375,7 +2480,7 @@
 			</skill>
 			<skill>
 				<name>画地为牢</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/171/17110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/171/17110.png</avator>
 				<detail>张飞向四周挥扫蛇矛，对范围内的敌人造成450/550/650/750/850/950（+100％物理加成）点物理伤害；命中敌方英雄时会将其击退；每命中一个敌方非英雄单位会增加1点狂意，命中敌方英雄会增加3点狂意；变身后，张飞会向指定方向疯狂的砸击地面，对范围内的敌人造成450/550/650/750/850/950（+100％物理加成）点物理伤害</detail>
 				<intro>技能的伤害在变身前不是很高，更多的是我们需要他的击退效果，击退对面切入的刺客，保护自己的后排，或者打野、打小兵来快速积攒张飞的能量</intro>
 				<cdTime>0</cdTime>
@@ -2383,7 +2488,7 @@
 			</skill>
 			<skill>
 				<name>守护机关</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/171/17120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/171/17120.png</avator>
 				<detail>张飞向指定区域跳跃，落地时启动机关印记，机关会给范围内友军生成可抵免500/675/850/1025/1200/1375（+47％物理加成）点伤害的护盾；释放技能会增加3点狂意，每给一位友方英雄生成一个护盾可额外增加1点狂意；变身后，张飞向指定区域跳跃，践踏该区域敌军造成380/430/480/530/580/630（+94％物理加成）点物理伤害</detail>
 				<intro>这个技能在张飞在变身前是辅助技能，变身前没有伤害，可以在打团的时候给队友开着来减伤，也可以让张飞逃跑，当然变身后，又是一个很给力的输出技能，变大，2技能切入战场，是一个张飞很有效的组合！</intro>
 				<cdTime>0</cdTime>
@@ -2391,7 +2496,7 @@
 			</skill>
 			<skill>
 				<name>狂兽血性</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/171/17130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/171/17130.png</avator>
 				<detail>张飞狂意达顶峰，指定方向怒吼形成狂风通路并展现魔种真身，获得相当于自身最大生命值40％的护盾，持续15秒；怒吼期间免疫控制，狂风会推开通路两边敌人，同时对通路末端敌人造成500/750/1000（65％物理加成）点物理伤害并将其眩晕1.5秒；张飞在通路范围内会增加50％移动速度</detail>
 				<intro>在张飞进行变身之后，这个技能不仅能够增加自己一个护盾，而且还能够对自己正前方的道路释放一定的技能，对道路两边的敌人造成伤害的同时还会造成一定的眩晕效果.</intro>
 				<cdTime>100</cdTime>
@@ -2401,7 +2506,9 @@
 	</hero>
 	<hero>
 	<name>"李元芳"</name>
-		<title>王都密探</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/173/173-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/173/173.jpg</avator>
+	<title>王都密探</title>
 		<position>射手</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2413,7 +2520,7 @@
 		<skills>
 			<skill>
 				<name>密探谛听</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/173/17300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/173/17300.png</avator>
 				<detail>被动：元芳可爱的大耳朵可以帮助元芳周期性谛听周围的动向，获得并捕捉敌方英雄的踪迹，获得敌方视野1秒，对同一单位6秒生效一次。</detail>
 				<intro>李元芳因为被动的存在，使得他能快速清理兵线和野怪，射程的优势也能保证他一定的安全性</intro>
 				<cdTime>0</cdTime>
@@ -2421,7 +2528,7 @@
 			</skill>
 			<skill>
 				<name>谍影重重</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/173/17310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/173/17310.png</avator>
 				<detail>元芳使用暗印标记敌方目标，最多持续4秒，4秒后爆炸对范围内敌方造成100/120/140/160/180/200(+65%物理加成）点物理伤害，元芳对该目标的普通攻击会叠加暗印标记，最多叠加4层，每层印记会额外造成100/120/140/160/180/200(+65%物理加成）点物理伤害，叠加满4层会立即引爆暗印；释放技能时元芳会增加40%攻击速度和75点攻击距离，持续4秒</detail>
 				<intro>暗印一旦挂上，延时爆炸的威胁使得敌人会非常紧张.团战时，暗印的爆炸范围伤害很容易伤到附近的敌人，造成不错的AOE伤害</intro>
 				<cdTime>60</cdTime>
@@ -2429,7 +2536,7 @@
 			</skill>
 			<skill>
 				<name>刃遁</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/173/17320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/173/17320.png</avator>
 				<detail>元芳向指定方向放出飞轮，同时施展鬼魅身法在终点现身接住飞轮，移动时元芳将无法被选中，飞轮会对敌人造成80/90/100/110/120/130（+67%物理加成）点物理伤害并减少50%移动速度，持续2秒；经过的地面留下燃痕，对路径上的敌人每0.25秒造成30/36/42/48/54/60（+25%物理加成）点物理伤害并减少50%移动速度</detail>
 				<intro>元芳进攻时，当刃盾的飞轮冲撞到敌人时，会对敌人造成减速，这时候一旦挂上暗印，敌人很难逃跑.遇到GANK时，飞轮作为位移逃走，飞轮留下的燃痕可以让人无法从最近的路来追赶元芳</intro>
 				<cdTime>80</cdTime>
@@ -2437,7 +2544,7 @@
 			</skill>
 			<skill>
 				<name>无间刃风</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/173/17330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/173/17330.png</avator>
 				<detail>元芳平扔出飞轮到指定位置旋转卷起利刃风暴，利刃撞击目标中造成215/275/335（+75%物理加成）点物理伤害，持续5.4秒，对范围内的敌人每0.5秒造成75/93/111（+30%物理加成）点物理伤害并减少50%移动速度，内圈会受到双倍的刃伤；刃伤也可叠加暗印层数。</detail>
 				<intro>这个技能除了是一个持续的大范围伤害技能外，更是一个战略性的封路技能，你完全可以把它当作你输出的堡垒，肆意的在刃风的区域走位输出，而敌人进入这个区域会深陷泥潭，灵活的利用这个技能是玩好李元芳的秘诀</intro>
 				<cdTime>130</cdTime>
@@ -2447,7 +2554,9 @@
 	</hero>
 	<hero>
 	<name>"虞姬"</name>
-		<title>森之风灵</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/174/174-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/174/174.jpg</avator>
+	<title>森之风灵</title>
 		<position>射手</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2459,7 +2568,7 @@
 		<skills>
 			<skill>
 				<name>树神佑护</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/174/17400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/174/17400.png</avator>
 				<detail>被动：虞姬有25%的几率射出两箭总计造成100（+120%物理加成）点物理伤害，同时将减少其15%移动速度，持续2秒，该效果最高叠加3层</detail>
 				<intro>这一技能对于射手来说是一个超强的软性控制，无论是走位失误在野区碰到对方刺客的袭击，或是线上游走gank，都是非常好的撤退和留人技能，在敌人被束缚的时间内，足够虞姬一套技能打出爆炸性的伤害了.</intro>
 				<cdTime>0</cdTime>
@@ -2467,7 +2576,7 @@
 			</skill>
 			<skill>
 				<name>楚歌起</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/174/17410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/174/17410.png</avator>
 				<detail>虞姬蓄力后，向指定方向发射一支携树神加持的强力弩矢，弩矢对路径上第一个敌人造成365/475/585/695/805/915（+180%物理加成）点物理伤害；弩矢每命中一个敌人衰减15%伤害，最低衰减至40%伤害</detail>
 				<intro>无论在线上还是团战中，虞姬都可以用此技能来对对手进行远程消耗，这个技能穿过敌方单位后造成物理伤害，所以团战前消耗到对方更多的敌人会是团战胜利的良好保证.值得注意的是，这个技能蓄力短暂时间后才会施放，所以身为虞姬的操作者需要精准的预判敌人的走位！</intro>
 				<cdTime>50</cdTime>
@@ -2475,7 +2584,7 @@
 			</skill>
 			<skill>
 				<name>大风来</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/174/17420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/174/17420.png</avator>
 				<detail>虞姬增加30%/36%42%/48%/54%/60%移动速度，持续2秒，期间将闪避所有物理攻击；虞姬在技能开启时，会解除减少自身移动速度的效果并使得下一次普攻必定出发树神护佑；被动：虞姬获得护佑，攻击速度提升20%/22%/24%/26%/28%/30%</detail>
 				<intro>团战中，虞姬一定要保留此技能，等待敌方物理刺客英雄近身切入时施放技能，走位进行疯狂输出.当然，在保证安全的情况下，技能提供的移速加成，也能让你更好的追击敌人，拿下人头！需要注意该技能无法解除控制效果和魔法伤害</intro>
 				<cdTime>80</cdTime>
@@ -2483,7 +2592,7 @@
 			</skill>
 			<skill>
 				<name>阵前舞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/174/17430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/174/17430.png</avator>
 				<detail>虞姬冲向目标，在接触目标时将其眩晕0.5秒并触发树神束缚，然后向后跳跃，跳跃时对目标快速射出2支弩矢，每支弩矢造成180/225/270（+85%物理加成）点物理伤害，后跳结束虞姬获得30%/40%/50%攻速加成持续4秒；虞姬在跳跃过程中免疫控制效果</detail>
 				<intro>虞姬的这个技能可以将它当作一个位移技能来使用，在虞姬2技能使用后，还能备有一手位移技能，并且造成高额的输出，无疑体现了虞姬超强的生存能力.与此同时，高额的物理伤害通常也作为一个击杀镜头的漂亮收尾</intro>
 				<cdTime>100</cdTime>
@@ -2493,7 +2602,9 @@
 	</hero>
 	<hero>
 	<name>"钟馗"</name>
-		<title>虚灵城判</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/175/175-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/175/175.jpg</avator>
+	<title>虚灵城判</title>
 		<position>法师</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -2505,7 +2616,7 @@
 		<skills>
 			<skill>
 				<name>制裁仪式</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/175/17500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/175/17500.png</avator>
 				<detail>被动：钟馗受到单次伤害超过10%当前生命值会引发爆炸，对自身附近的敌人造成60（+60%法术加成）（+102)（最大生命值3%）法术伤害，引发爆炸有2秒冷却时间；钟馗死亡后3秒引爆自身，对自身附近的敌人造成240（+240%法术加成）（+410）（最大生命值12%）法术伤害.</detail>
 				<intro>这个被动技能让钟馗能够无畏的担任起坦克和人肉炸弹的职责，团战可以冲进最密集的交战区域</intro>
 				<cdTime>0</cdTime>
@@ -2513,7 +2624,7 @@
 			</skill>
 			<skill>
 				<name>虚空清道者</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/175/17510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/175/17510.png</avator>
 				<detail>钟馗以虚空之力锤击地面，对范围内的敌人造成250/300/350/400/450/500（+45%法术加成）点法术伤害并减少30%移动速度，持续1秒；在钟馗身边的敌人受到250%伤害并减少30%移动速度，持续2秒</detail>
 				<intro>软性控制技能，减速范围内的敌人，技能CD较短，可以多次施放</intro>
 				<cdTime>60</cdTime>
@@ -2521,7 +2632,7 @@
 			</skill>
 			<skill>
 				<name>湮灭之锁</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/175/17520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/175/17520.png</avator>
 				<detail>钟馗向指定方向投出钩锁并将第一个命中敌人拉至身前，钩锁命中将造成800/900/1000/1100/1200/1300（+100%法术加成）点法术伤害，同时为该敌人添加标记，轮回吞噬的每次吞噬会将标记的敌人眩晕0.5秒；被动：钟馗每次击败英雄或助攻会获得1层虚空噬魂。每层虚空噬魂会增加180最大生命值，最多叠加20层</detail>
 				<intro>该技能能在很远的位置将对方敌人拉到自己身边，将其秒杀，注意技能有一定前摇，需要预判对手的走位，也可以后手勾，这样能大大提高命中率哦</intro>
 				<cdTime>60</cdTime>
@@ -2529,7 +2640,7 @@
 			</skill>
 			<skill>
 				<name>轮回吞噬</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/175/17530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/175/17530.png</avator>
 				<detail>钟馗蓄力后向指定方向张开虚空身躯，对范围内的敌人进行多次吞噬效果，总共造成2400/3000/3600（+360%法术加成）点法术伤害；钟馗在释放同时会获得可抵免240点伤害护盾</detail>
 				<intro>这个技能控制效果十足，命中敌人越多，该效果的伤害收益越大，但有一定施法前摇，需要一定的预判技巧</intro>
 				<cdTime>130</cdTime>
@@ -2539,7 +2650,9 @@
 	</hero>
 	<hero>
 	<name>"成吉思汗"</name>
-		<title>苍狼末裔</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/177/177-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/177/177.jpg</avator>
+	<title>苍狼末裔</title>
 		<position>射手</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -2551,7 +2664,7 @@
 		<skills>
 			<skill>
 				<name>追猎</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/177/17700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/177/17700.png</avator>
 				<detail>被动：当成吉思汗穿越草丛时会增加40%移动速度，持续2秒，同时下一次普通攻击将变更为两连射，每支箭矢造成0（+65%物理加成）点物理伤害；两连射有4秒冷却时间</detail>
 				<intro>这个技能使得成吉思汗在野区作战能力与机动性十足，利用草丛移速优势能更好的追击敌人或快速撤退</intro>
 				<cdTime>0</cdTime>
@@ -2559,7 +2672,7 @@
 			</skill>
 			<skill>
 				<name>鹰眼</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/177/17710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/177/17710.png</avator>
 				<detail>成吉思汗释放猎鹰侦查，照亮周围区域并获取其中敌人的视野，持续5秒；猎鹰还会朝指定方向飞行，获取沿途区域视野；每16秒可准备1只猎鹰，同时最多可拥有2只猎鹰；被动：箭矢对同一个目标的第三次攻击会额外造成80/160/240/320/400/480（+40%物理加成）点物理伤害</detail>
 				<intro>在对局中，1技能可以用来照亮附近的视野，对于防GANK有非常好的效果，在攻击敌人时，尽量打出三发箭矢在同一名敌人身上，以造成更高的伤害</intro>
 				<cdTime>80</cdTime>
@@ -2567,7 +2680,7 @@
 			</skill>
 			<skill>
 				<name>百兽陷阱</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/177/17720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/177/17720.png</avator>
 				<detail>成吉思汗向指定位置投掷陷阱，持续120秒，陷阱被敌人触碰后范围内敌人将减少30%移动速度并将暴露视野；短暂延迟后对区域内造成360/432/504/576/648/720（+120%物理加成）点物理伤害；每12秒可准备一枚陷阱，同时最多储备2个陷阱；未被触发的陷阱落地2秒后隐形</detail>
 				<intro>成吉思汗可以放置陷阱在关键的通道上，限制敌人走位，敌人触发陷阱后会减速并暴露视野.</intro>
 				<cdTime>60</cdTime>
@@ -2575,7 +2688,7 @@
 			</skill>
 			<skill>
 				<name>可汗狂猎</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/177/17730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/177/17730.png</avator>
 				<detail>成吉思汗骑行中对敌人射出箭矢造成160/240/320（+100%物理加成）点物理伤害，箭矢可触发普通攻击的法球效果并可以暴击。每5秒可准备1只箭矢，同时最多可储备5只箭矢。</detail>
 				<intro>成吉思汗可以累积多支箭矢，箭矢CD非常短可以进行持续输出，配合普通攻击施放效果更佳</intro>
 				<cdTime>30</cdTime>
@@ -2585,7 +2698,9 @@
 	</hero>
 	<hero>
 	<name>"杨戬"</name>
-		<title>根源之目</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/178/178-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/178/178.jpg</avator>
+	<title>根源之目</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -2597,7 +2712,7 @@
 		<skills>
 			<skill>
 				<name>神智侵蚀</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/178/17800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/178/17800.png</avator>
 				<detail>被动：杨戬附近的每个敌方英雄都会使杨戬减少10%所受控制效果的持续时间，最多减少30%</detail>
 				<intro>杨戬身边的敌方英雄越多，所受到的控制时间越低，这使得杨戬在对战时更加的灵动</intro>
 				<cdTime>0</cdTime>
@@ -2605,7 +2720,7 @@
 			</skill>
 			<skill>
 				<name>逆转乾坤</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/178/17810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/178/17810.png</avator>
 				<detail>杨戬召唤哮天犬并让其向指定方向发起冲锋，对第一个命中的敌人造成150/180/210/240/270/300（+70%物理加成）点物理伤害，如果命中敌人，5秒内可再次施放该技能，施放后杨戬将冲向该敌人并发起一次攻击，造成225/270/315/360/405/450（+105%物理加成）点物理伤害并附加目标已损生命值16%的物理伤害；如果杨戬直接击败目标，将立即刷新逆转乾坤冷却时间</detail>
 				<intro>此技能为非指向性技能，需要预判对手的走位，杨戬可以根据战场情况在第一段技能命中后立即瞬移到敌人身后进行攻击，也可以等敌方位移技能交出后再使用第二段技能瞬移到敌人身后进行攻击，这样更能提升他的击杀率；在将目标击杀后，还可以刷新技能冷却时间；</intro>
 				<cdTime>60</cdTime>
@@ -2613,7 +2728,7 @@
 			</skill>
 			<skill>
 				<name>虚妄破灭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/178/17820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/178/17820.png</avator>
 				<detail>杨戬向指定方向横扫，对范围内敌人造成250/300/350/400/450/500（+100%物理加成）点物理伤害并减少50%移动速度，持续2秒；如果命中的目标生命值百分比高于杨戬，将会晕眩1秒；命中敌人后，杨戬的普通攻击将附带80/120/160/200/240/280（+35%物理加成）点真实伤害，持续5秒</detail>
 				<intro>AOE伤害技能，能减速范围内的敌人，对生命值百分比高于杨戬的敌人造成眩晕效果，所以在杨戬血量很低时这个技能可以对范围内的敌人造成群体眩晕效果</intro>
 				<cdTime>70</cdTime>
@@ -2621,7 +2736,7 @@
 			</skill>
 			<skill>
 				<name>根源之目</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/178/17830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/178/17830.png</avator>
 				<detail>杨戬可利用天眼施放3次激光，每次间隔不超过5秒，对路径上的敌人造成250/315/380（+85%物理加成）点物理伤害。第3次将会发出3道激光，同时被多道激光命中，从第二道激光开始只会造成30%的伤害；激光命中敌人时，造成的伤害值的50%会转化为杨戬的生命值</detail>
 				<intro>这个技能需要杨戬预判敌人的走位，可造成可观的AOE伤害，并且杨戬造成的伤害越高，能对自己有更强的治疗效果，第三段技能在敌人聚集时施放会有很高的收益</intro>
 				<cdTime>100</cdTime>
@@ -2631,7 +2746,9 @@
 	</hero>
 	<hero>
 	<name>"雅典娜"</name>
-		<title>圣域余晖</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/183/183-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/183/183.jpg</avator>
+	<title>圣域余晖</title>
 		<position>战士</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -2643,7 +2760,7 @@
 		<skills>
 			<skill>
 				<name>真神觉醒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/183/18300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/183/18300.png</avator>
 				<detail>被动：雅典娜死亡后，将在当前位置觉醒真身并且可以真身形态继续移动；双方均可观察到真身的存在；复活时，雅典娜将在真身位置出现；向着雅典娜移动的友军英雄将会增加20％移动速度；作为造物主的古神，雅典娜对野怪和小兵会额外造成25％的伤害</detail>
 				<intro>雅典娜在死亡后可以充当一个移动的视野侦查，为队友提供视野，在复活时一定要选择好复活位置，以免被敌方再次击杀.</intro>
 				<cdTime>0</cdTime>
@@ -2651,7 +2768,7 @@
 			</skill>
 			<skill>
 				<name>神圣进军</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/183/18310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/183/18310.png</avator>
 				<detail>雅典娜举盾向指定方向突进，对路径上的敌人造成290/350/410/470/530/590（+63％物理加成）点法术伤害并将其击退，同时获得一个可抵免375/465/555/645/735/825（+82％物理加成）点伤害的护盾，持续1秒；护盾存在时，雅典娜免疫所有控制效果</detail>
 				<intro>这个技能可以使雅典娜进行一个较短距离的突进，对路径上的敌人造成击退效果，能同时生成护盾抵挡伤害，如果护盾被打破，那么雅典娜会受到眩晕效果，所以需要灵活使用这个特性.</intro>
 				<cdTime>60</cdTime>
@@ -2659,7 +2776,7 @@
 			</skill>
 			<skill>
 				<name>贯穿之枪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/183/18320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/183/18320.png</avator>
 				<detail>雅典娜向指定方向跳跃，同时将下一次普通攻击变更为一个枪刺，枪刺可造成370/430/490/550/610/670（+100％物理加成）点物理伤害；连续三次对敌方英雄枪刺将贯穿该名英雄，造成目标已损生命25％的物理伤害，枪刺间隔不超过5秒才能触发贯穿；神圣进军和敬畏圣盾命中敌人时贯穿之枪会减少4秒的冷却时间</detail>
 				<intro>这个技能是雅典娜重要的突进技能，主动使用技能位移后使用普攻可以再次突进造成枪刺伤害，逃命时也可以使用技能进行位移逃跑哦！</intro>
 				<cdTime>60</cdTime>
@@ -2667,7 +2784,7 @@
 			</skill>
 			<skill>
 				<name>敬畏圣盾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/183/18330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/183/18330.png</avator>
 				<detail>雅典娜立于原地并举起圣盾，自身获得一个巨大的可抵免1100/1650/2200(+150％物理加成）点伤害护盾，持续1.5秒；1.5秒后圣盾碎裂对范围内敌人造成450/650/850（+150％物理加成）点法术伤害并减少50％移动速度，持续1秒；护盾存在时，雅典娜免疫所有控制效果</detail>
 				<intro>这个技能产生的护盾能吸收大量的伤害，并且效果结束后造成AOE伤害；但需要注意的是，这个技能最好是配合突进技能进场后在团战混战中心释放能吸收大量伤害和大范围的减速效果.</intro>
 				<cdTime>90</cdTime>
@@ -2677,7 +2794,9 @@
 	</hero>
 	<hero>
 	<name>"蔡文姬"</name>
-		<title>天籁弦音</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/184/184-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/184/184.jpg</avator>
+	<title>天籁弦音</title>
 		<position>辅助</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -2689,7 +2808,7 @@
 		<skills>
 			<skill>
 				<name>长歌行</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/184/18400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/184/18400.png</avator>
 				<detail>被动：当蔡文姬受到伤害时，自身会立刻增加70%持续衰减的移动速度，持续2秒，同时自身会每秒回复250（+50%法术加成）点生命值，持续2秒；长歌行每10秒只能触发一次</detail>
 				<intro>蔡文姬在逃跑受到伤害的同时，对敌方的任何攻击都会触发被动效果，减速敌人，能更好地进行撤退，小兵和野怪的伤害也能触发这个技能效果，可以利用此效果进行支援gank留人</intro>
 				<cdTime>0</cdTime>
@@ -2697,7 +2816,7 @@
 			</skill>
 			<skill>
 				<name>思无邪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/184/18410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/184/18410.png</avator>
 				<detail>蔡文姬演奏乐曲，自身会增加20%移动速度，持续3秒，同时将为自身和周围的友方英雄每0.5秒恢复60/66/72/78/84/90（+20%法术加成）点生命值，持续3秒</detail>
 				<intro>在技能范围内的友军能持续回复生命值，并提升移动速度和攻击速度，所以技能施放时尽量靠近多个友军，使得收益最大化</intro>
 				<cdTime>100</cdTime>
@@ -2705,7 +2824,7 @@
 			</skill>
 			<skill>
 				<name>胡笳乐</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/184/18420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/184/18420.png</avator>
 				<detail>蔡文姬向指定方向弹奏一束音波，命中后会在敌人间弹射，每次弹射造成250/290/330/370/410/450（+36%法术加成）点法术伤害并将其眩晕0.75秒；每束音波最多弹射6次，同一目标最多受到2次弹射效果，第二次弹射命中时将只造成50%的初始伤害</detail>
 				<intro>这个技能在敌方英雄聚集的时候能发挥巨大的效果，能起到很大的控制作用，在面对追击反手释放时，命中率更高</intro>
 				<cdTime>70</cdTime>
@@ -2713,7 +2832,7 @@
 			</skill>
 			<skill>
 				<name>忘忧曲</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/184/18430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/184/18430.png</avator>
 				<detail>蔡文姬释放琴音围绕四周，每0.5秒为范围内血量最低的友方英雄回复100/150/200（+60%法术加成）点生命值，持续5秒，同时为其增加300/375/450（+25%法术加成）点物理和法术防御</detail>
 				<intro>团战时，尽量使技能范围包含更多的友军，能降低他们受到的伤害，敌人在大招范围内超过2秒能清空他们的护甲和魔抗，所以对于敌方的坦克英雄来说，这个技能会使他们相当头疼</intro>
 				<cdTime>120</cdTime>
@@ -2723,7 +2842,9 @@
 	</hero>
 	<hero>
 	<name>"太乙真人"</name>
-		<title>炼金大师</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/186/186-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/186/186.jpg</avator>
+	<title>炼金大师</title>
 		<position>辅助</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -2735,7 +2856,7 @@
 		<skills>
 			<skill>
 				<name>黄金闪闪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/186/18600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/186/18600.png</avator>
 				<detail>被动：太乙真人附近800范围内的敌方非英雄单位死亡时，太乙真人和附近的队友都会额外获得20％金币</detail>
 				<intro>太乙真人的被动技能使得它成为辅助位置英雄的最佳人选，与队友一起在线上或野区都能为队伍带来更高的经济收益</intro>
 				<cdTime>0</cdTime>
@@ -2743,7 +2864,7 @@
 			</skill>
 			<skill>
 				<name>意外事故</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/186/18610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/186/18610.png</avator>
 				<detail>太乙真人使用炉子炼制药剂，最多持续5秒，炼制结束时或发生爆炸，对周围敌人造成200/260/320/380/440/500（+60%法术加成）~600/780/960/1140/1320/1500（+180%法术加成点法术伤害）点法术伤害并将其晕眩0.5~1秒（随技能等级成长最高眩晕1.5秒）；太乙真人可随时结束炼制并触发爆炸，但炼制时间越长，伤害越高并且晕眩时间越长；炼制时，自身会逐渐增加移动速度，最多增加至30％；同时，太乙真人还会获得60/96/132/168/204/240点物理及法术防御加成；炼制达到最长时间后，若爆炸命中敌方英雄将减少意外事故的全部冷却时间</detail>
 				<intro>这个技能是太乙真人的主要伤害技能，在释放与停止施放时需要根据不同的情况选好时机灵活使用，才能达到很好的效果；在最大时间爆炸时，可以造成最大限度的眩晕效果</intro>
 				<cdTime>65</cdTime>
@@ -2751,7 +2872,7 @@
 			</skill>
 			<skill>
 				<name>第三只手</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/186/18620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/186/18620.png</avator>
 				<detail>太乙真人的炉子向指定方向伸出一只触手，会将自身拉向命中的第一个目标；如果是敌方目标，还会造成450/500/550/600/650/700（+80％法术加成）点法术伤害并将其眩晕1秒</detail>
 				<intro>太乙真人可以选择方向对友军或敌军施放，对友军施放是可以迅速靠近友军进行保护，对敌人施放时可造成伤害和控制效果</intro>
 				<cdTime>65</cdTime>
@@ -2759,7 +2880,7 @@
 			</skill>
 			<skill>
 				<name>大变活人</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/186/18630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/186/18630.png</avator>
 				<detail>太乙真人召唤替身傀儡，替身傀儡会保护太乙真人和附近血量最低的一名队友，持续3秒；若在傀儡保护下死亡，2秒后将在原地复活，同时将获得2000/2750/3500（+200％法术加成）点生命；复活时，还会对周围的敌人造成600/750/900（+80％法术加成）点法术伤害并减少其50％移动速度，持续2秒；该技能可以在被控制时释放</detail>
 				<intro>这个技能可以保护队友，让队友死而复生，对于爆发型刺客有很好的克制效果，在队友血量较低时开启，会让对方的刺客非常头痛</intro>
 				<cdTime>150</cdTime>
@@ -2769,7 +2890,9 @@
 	</hero>
 	<hero>
 	<name>"哪吒"</name>
-		<title>桀骜炎枪</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/180/180-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/180/180.jpg</avator>
+	<title>桀骜炎枪</title>
 		<position>战士</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -2781,7 +2904,7 @@
 		<skills>
 			<skill>
 				<name>炙炼火种</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/180/18000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/180/18000.png</avator>
 				<detail>被动：当哪吒用三尖枪和乾坤圈，混天绫进行攻击时会在敌人身上残留炙炼火种，对敌人每秒造成35（+26%物理加成）点真实伤害，持续3秒，并且炙炼火种会减少其25%的生命回复效果</detail>
 				<intro>这个技能使得哪咤能对对手持续造成伤害，在面对坦克的时候，能限制他的回血效果</intro>
 				<cdTime>0</cdTime>
@@ -2789,7 +2912,7 @@
 			</skill>
 			<skill>
 				<name>火焰三尖枪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/180/18010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/180/18010.png</avator>
 				<detail>哪吒挥动三尖枪攻击四周的敌人，造成300/360/420/480/540/600(+85%物理加成)点物理伤害。每击中一个敌方英雄都会触发1次风火轮，当哪吒触发风火轮时会增加6%移动速度，持续5秒，最多可叠加5层</detail>
 				<intro>范围伤害技能，击中更多单位提升哪咤的移动速度</intro>
 				<cdTime>55</cdTime>
@@ -2797,7 +2920,7 @@
 			</skill>
 			<skill>
 				<name>混天绫·束</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/180/18020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/180/18020.png</avator>
 				<detail>哪吒用混天绫短暂束缚敌人，然后迅速俯冲向该名敌人并翻越至另一侧，该技能4秒可以再次释放；每击中一名敌人都会触发一次风火轮；释放技能会触发火莲之印；当哪吒触发火莲之印后会减少15/16/17/18/19/20%所受伤害。所受伤害，持续3秒</detail>
 				<intro>这是哪咤的位移技能，利用它可以很好的黏住敌人，但要注意这个技能只对敌方英雄有效</intro>
 				<cdTime>65</cdTime>
@@ -2805,7 +2928,7 @@
 			</skill>
 			<skill>
 				<name>乾坤·天降</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/180/18030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/180/18030.png</avator>
 				<detail>哪吒升上天空对敌方所有英雄施加乾坤圈，释放后将获得其视野并打断其回城.随后可选择一名敌方英雄并飞冲到其身前，造成500/625/750（+100%物理加成）点物理伤害并将其击退，落地时激发火莲之华，对火莲范围内的敌人每秒施加1次炙炼火种，并增加自身30%韧性；落地时还会触发火莲之印；飞行过程中再次释放技能会立即降落并激发火莲之华</detail>
 				<intro>这个技能有很强的战术意义，可以开启视野看到对手动向，可以单人带线牵扯敌方并快速支援</intro>
 				<cdTime>140</cdTime>
@@ -2815,7 +2938,9 @@
 	</hero>
 	<hero>
 	<name>"诸葛亮"</name>
-		<title>绝代智谋</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/190/190-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/190/190.jpg</avator>
+	<title>绝代智谋</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -2827,7 +2952,7 @@
 		<skills>
 			<skill>
 				<name>策谋之刻</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/190/19000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/190/19000.png</avator>
 				<detail>被动：诸葛亮法术命中敌人时，会为自己施加谋略刻印，当刻印达到5层时，会召唤5颗法球围绕自身，短暂时间后依次飞出攻击附近的敌人造成270(+52%法术加成)点法术伤害；法球在1秒内连续命中同一目标时，从第二颗法球开始将只造成20%伤害；法球会优先攻击敌方英雄，法球不会攻击非战斗状态的野怪</detail>
 				<intro>诸葛亮可充分利用技能的释放叠加被动，5层时对敌人造成一波爆发性伤害，同时被动技能对刷野的的效率也大大提高.</intro>
 				<cdTime>0</cdTime>
@@ -2835,7 +2960,7 @@
 			</skill>
 			<skill>
 				<name>东风破袭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/190/19010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/190/19010.png</avator>
 				<detail>诸葛亮指定方向发射三颗法球，对路径上的敌人造成500/560/620/680/740/800（+75%法术加成）点法术伤害，如果多颗法球命中同一目标时，从第二颗法球开始将只造成30%伤害；每颗法球能触发1次谋略刻印</detail>
 				<intro>把握东风破袭的释放距离，打出更高的伤害并增加更多的谋略刻印.</intro>
 				<cdTime>60</cdTime>
@@ -2843,7 +2968,7 @@
 			</skill>
 			<skill>
 				<name>时空穿梭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/190/19020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/190/19020.png</avator>
 				<detail>诸葛亮快速朝指定方向闪烁，并在起始位置和终点位置同时产生一次法力场，对范围内敌人造成350/420/490/560/630/700（+52%法术加成）点法术伤害；同一目标如果在5秒内多次受到法力场影响，将会减少其90%移动速度，持续3秒，该效果会持续衰减；当目标被多个法力场同时命中，将只造成50%伤害；每次法力场影响到敌人，都会触发1次谋略刻印；每10秒可准备1次时空穿梭，最多可储备3次时空穿梭；</detail>
 				<intro>该技能属于诸葛亮的核心技能，也是诸葛亮唯一的位移技能.对于释放的把控时机可在被抓时使用，也可利用该技能在团战时骗对方突进位移.</intro>
 				<cdTime>50</cdTime>
@@ -2851,7 +2976,7 @@
 			</skill>
 			<skill>
 				<name>元气弹</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/190/19030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/190/19030.png</avator>
 				<detail>诸葛亮短暂蓄力后锁定目标发出一击强力元气弹，造成450/600/750（+50%法术加成）点法术伤害；目标每损失1%最大生命值元气弹就会增加2%伤害；蓄力时诸葛亮可以移动，并且可以使用时空穿梭；元气弹飞行过程中碰撞到敌方非英雄目标，将会触发同等伤害并将其击飞0.5秒；元气弹可触发1次谋略刻印；如果元气弹直接击败敌方英雄，立即发动策谋之刻，并减少80%元气弹的冷却时间</detail>
 				<intro>诸葛亮的大招可以被敌人队友挡住伤害，尽量在对手一个人的时候施放.选择利用大招收割人头的时机可使技能冷却时间刷新更快.</intro>
 				<cdTime>120</cdTime>
@@ -2861,7 +2986,9 @@
 	</hero>
 	<hero>
 	<name>"黄忠"</name>
-		<title>燃魂重炮</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/192/192-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/192/192.jpg</avator>
+	<title>燃魂重炮</title>
 		<position>射手</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>9</attackAbility>
@@ -2873,7 +3000,7 @@
 		<skills>
 			<skill>
 				<name>炮手燃魂</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/192/19200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/192/19200.png</avator>
 				<detail>被动：黄忠普攻命中目标将不断激怒自己，获得1.5%暴击率和1%攻击力加成的效果（重装炮塔状态下效果翻倍），持续1.5秒，最多叠加5层。</detail>
 				<intro>黄忠在进行持续普攻输出时，被动增加自己暴击和攻击力加成，在被动存在时能造成更多输出。</intro>
 				<cdTime>0</cdTime>
@@ -2881,7 +3008,7 @@
 			</skill>
 			<skill>
 				<name>追击潜能</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/192/19210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/192/19210.png</avator>
 				<detail>黄忠短时间大量提升自身70%移速，移速会在1.5秒内衰减，如果是在架起状态，可瞬间取消架起状态。被动：增加黄忠40/52/64/76/88/100点物理攻击。</detail>
 				<intro>黄忠可以利用1技能加速逃跑或追击敌人，同时增加自身攻击力，在大招架起状态下可快速取消。</intro>
 				<cdTime>50</cdTime>
@@ -2889,7 +3016,7 @@
 			</skill>
 			<skill>
 				<name>警戒地雷</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/192/19220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/192/19220.png</avator>
 				<detail>黄忠向指定地点放置警戒地雷，同时获得视野效果，敌方在地雷范围内可触发造成200/240/280/320/360/400（+60%物理加成）点物理伤害，对英雄额外造成50%减速效果与15/18/21/24/27/30%的破甲效果，持续2秒，同时自身获得护盾，可吸收200/240/280/320/360/400（+50%物理加成）点伤害。地雷最多存在2个。</detail>
 				<intro>黄忠在进行对拼时可以利用技能形成吸收伤害的护盾，利于生存和减速敌人；可以在草里放置地雷以查看视野。</intro>
 				<cdTime>80</cdTime>
@@ -2897,7 +3024,7 @@
 			</skill>
 			<skill>
 				<name>重装炮台</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/192/19230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/192/19230.png</avator>
 				<detail>黄忠进入架起状态，自身不能移动，但会增加180/270/360点物理防御和法术防御，持续15秒，再次释放后退出架起状态；架起状态下，黄忠的每次普通攻击会对中心范围内的敌人造成350/525/700（+100%物理加成）点物理伤害（对边缘敌人伤害衰减30%）；黄忠有7次攻击机会，使用完后取消架起状态</detail>
 				<intro>这是玩好黄忠的关键技能，根据场上局势黄忠需要选取一个很好的架炮位置进行输出，随着架炮时间增加，攻击距离和伤害增加。</intro>
 				<cdTime>80</cdTime>
@@ -2907,7 +3034,9 @@
 	</hero>
 	<hero>
 	<name>"大乔"</name>
-		<title>沧海之曜</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/191/191-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/191.jpg</avator>
+	<title>沧海之曜</title>
 		<position>辅助</position>
 		<surviveAbility>1</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -2919,7 +3048,7 @@
 		<skills>
 			<skill>
 				<name>川流不息</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/191/19100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/19100.png</avator>
 				<detail>被动：大乔与附近600范围内最近的队友将会增加40～60移动速度，增加幅度随英雄等级成长</detail>
 				<intro>移速提升对大乔自己来说有很强的支援能力，对于协助队友追人和逃跑也非常实用</intro>
 				<cdTime>0</cdTime>
@@ -2927,7 +3056,7 @@
 			</skill>
 			<skill>
 				<name>鲤跃之潮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/191/19110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/19110.png</avator>
 				<detail>大乔召唤鲤鱼向指定方向跳跃，对于路径上的敌人造成500/600/700/800（+50%法术加成）点法术伤害并将其击退；鲤鱼会形成河流，持续4秒，友军经过时会增加30%移动速度</detail>
 				<intro>这个技能可以让大乔很好的保护友方英雄进行撤退</intro>
 				<cdTime>70</cdTime>
@@ -2935,7 +3064,7 @@
 			</skill>
 			<skill>
 				<name>宿命之海</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/191/19120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/19120.png</avator>
 				<detail>大乔在指定位置召唤法阵，持续4秒，4秒后会将法阵内所有英雄传送回出生点；同时回复其全部生命并增加25%移动速度，持续3秒</detail>
 				<intro>这个技能使得大乔可以让残血队友快速回家，并且可以与大招联动使用，可能会有有出其不意的效果哦</intro>
 				<cdTime>50</cdTime>
@@ -2943,7 +3072,7 @@
 			</skill>
 			<skill>
 				<name>决断之桥</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/191/19130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/19130.png</avator>
 				<detail>大乔在指定位置召唤海潮，每次0.5秒造成175/200/225/250（+16%法术加成）点法术伤害，持续4秒；海潮范围内，敌人将被沉默</detail>
 				<intro>这个技能施放位置选好了会使得对方非常头疼，对区域敌人造成持续的沉默效果</intro>
 				<cdTime>80</cdTime>
@@ -2951,7 +3080,7 @@
 			</skill>
 			<skill>
 				<name>漩涡之门</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>大乔在指定位置召唤大型法阵，对范围内敌人造成660/830/1000（+72%法术加成）点法术伤害；法阵将持续8秒；法阵存在时，所有队友可以通过点击旋窝之门传送至法阵位置；当己方英雄处于法阵范围内时，会增加40%攻击速度</detail>
 				<intro>这个技能是大乔有很高战术意义的技能，可以快速集结队友对敌方进行意想不到的狙击行动</intro>
 				<cdTime>120</cdTime>
@@ -2961,7 +3090,9 @@
 	</hero>
 	<hero>
 	<name>"东皇太一"</name>
-		<title>噬灭日蚀</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/187/187-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/187/187.jpg</avator>
+	<title>噬灭日蚀</title>
 		<position>坦克</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>2</attackAbility>
@@ -2973,7 +3104,7 @@
 		<skills>
 			<skill>
 				<name>暗冕之噬</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/187/18700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/187/18700.png</avator>
 				<detail>被动：东皇太一使用祭典创造出来的黑暗能量体极不稳定，敌人被黑暗能量体触碰到都会造成100（+敌方3%最大生命值）（50%法术加成）点法术伤害；每当黑暗能量体对敌方英雄造成伤害时，东皇太一将会回复100（自身最大生命3%）（+40%法术加成）点生命值，对敌人非英雄目标造成伤害时，东皇太一将会回复自身1%最大生命值</detail>
 				<intro>尽可能地去靠近敌方英雄，利用黑暗能量体吸取敌方生命</intro>
 				<cdTime>0</cdTime>
@@ -2981,7 +3112,7 @@
 			</skill>
 			<skill>
 				<name>日蚀祭典</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/187/18710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/187/18710.png</avator>
 				<detail>东皇太一释放力量，对周围造成300/360/420/480/540/600（+40%法术加成）点法术伤害并创造出黑暗能量体在身边环绕，同时最多存在3个；释放能量时，若对范围内敌人造成伤害，则会减少50%日蚀祭典的冷却时间；黑暗能量体的数量会影响曜龙烛兆的威力</detail>
 				<intro>尽可能地保持时刻有三层黑暗能量体，来对敌方造成高额输出和吸血</intro>
 				<cdTime>60</cdTime>
@@ -2989,7 +3120,7 @@
 			</skill>
 			<skill>
 				<name>曜龙烛兆</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/187/18720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/187/18720.png</avator>
 				<detail>东皇太一每拥有1个黑暗能量体，就可召唤1条曜龙对指定方向进行范围冲击，每次冲击将造成500/600/700/800/900/1000（+60%法术加成）点法术伤害；第一次和第二次冲击范围内的敌人减少50%和90%移动速度，持续1秒；第三次冲击范围内的敌人将被眩晕1秒；释放时，自身将增加30%移动速度，持续1秒，并且每增加1个黑暗能量体将额外增加10%移动速度</detail>
 				<intro>三颗黑暗能量体时释放效果最强，并且由于技能释放延迟大，建议配合队友的控制使用</intro>
 				<cdTime>75</cdTime>
@@ -2997,7 +3128,7 @@
 			</skill>
 			<skill>
 				<name>堕神契约</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/187/18730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/187/18730.png</avator>
 				<detail>东皇太一压制敌方英雄，同时在彼此间创造一个契约链接，持续2.5秒；当契约的双方的一方受到伤害时，另一方会受到同等的伤害；在强大的堕神契约下双方无法进行任何操作，也无法净化；堕神契约强大的能量溢出，东皇太一将直接获得三个黑暗能量体</detail>
 				<intro>东皇太一的三技能是强力控制，但输出不足，需要队友在他控制住敌人时尽快击杀敌方，并且开启大招时自己和敌方都会受到同样的伤害，要注意自己的血量</intro>
 				<cdTime>100</cdTime>
@@ -3007,7 +3138,9 @@
 	</hero>
 	<hero>
 	<name>"干将莫邪"</name>
-		<title>淬命双剑</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/182/182-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg</avator>
+	<title>淬命双剑</title>
 		<position>法师</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -3019,7 +3152,7 @@
 		<skills>
 			<skill>
 				<name>比翼同心</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/182/18200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/18200.png</avator>
 				<detail>被动：释放飞剑技能时，莫邪都会配合干将飞出自己的雌剑，雌剑和雄剑呈对称状在一点交汇，造成同等伤害。干将莫邪普通攻击使用飞剑挥砍对方造成300（+25%法术加成）点法术伤害</detail>
 				<intro>相比其他英雄，干将虽然弹道比较独特，但凭借被动会拥有更大的覆盖范围，并且在交汇点将能够造成更多伤害</intro>
 				<cdTime>0</cdTime>
@@ -3027,7 +3160,7 @@
 			</skill>
 			<skill>
 				<name>护主邪冢</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/182/18210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/18210.png</avator>
 				<detail>干将连续两次将剑冢用力向前推刺出并自身后移，剑冢造成300/350/400/450/500/550（+50%法术加成）点法术伤害并击飞击退敌人。剑冢击伤的敌人3秒内降低150/180/210/240/270/300点法术防御。被动：每次击败英雄或助攻，剑冢都为干将增加自身15点永久法术强度，最高20层。</detail>
 				<intro>干将的自保技能，由于还可调整自身位置，足够拉开与敌人的作战距离</intro>
 				<cdTime>80</cdTime>
@@ -3035,7 +3168,7 @@
 			</skill>
 			<skill>
 				<name>雌雄双剑·近</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/182/18220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/18220.png</avator>
 				<detail>凌空成剑，释放雄剑，雄剑沿着曲型弹道飞行对敌方造成400/485/570/655/740/825（+40%法术加成）点法术伤害。</detail>
 				<intro>虽然干将需要维持作战距离，但当近战突进至身前时，该技能进行一定程度上的反击</intro>
 				<cdTime>45</cdTime>
@@ -3043,7 +3176,7 @@
 			</skill>
 			<skill>
 				<name>雌雄双剑·远</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/182/18230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/18230.png</avator>
 				<detail>凌空成剑，释放雄剑，雄剑沿着曲型弹道飞行对敌方造成400/485/570/655/740/825（+40%法术加成）点法术伤害。</detail>
 				<intro>释放距离一直都是干将的优势所在，该技能为干将的主要进攻消耗方式</intro>
 				<cdTime>45</cdTime>
@@ -3051,7 +3184,7 @@
 			</skill>
 			<skill>
 				<name>剑来</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>干将立刻刷新飞剑技能，并唤出更多的剑来强化下一次飞剑技能。被动：莫邪时刻观察着战场，将增加15%视野距离，每一股飞剑命中敌人减少剑来一秒CD。</detail>
 				<intro>使用2、3技能后立即刷新技能冷却，可连续对一定距离上的敌人攻击2次，打出爆发性伤害</intro>
 				<cdTime>120</cdTime>
@@ -3061,7 +3194,9 @@
 	</hero>
 	<hero>
 	<name>"鬼谷子"</name>
-		<title>万物有灵</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/189/189-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/189/189.jpg</avator>
+	<title>万物有灵</title>
 		<position>辅助</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>2</attackAbility>
@@ -3073,7 +3208,7 @@
 		<skills>
 			<skill>
 				<name>纵横兵法</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/189/18900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/189/18900.png</avator>
 				<detail>被动：鬼谷子脱离敌方视野3秒后，玄微子会再次归巢到法杖中，下一次普通攻击变更为强化攻击，强化攻击会造成300（+45%法术加成）点法术伤害并将范围内的敌人减少50%移动速度，持续1.5秒；如果使用强化攻击时，鬼谷子不处于敌方视野，则纵横兵法的冷却时间将会增加至10秒</detail>
 				<intro>这个技能能帮助鬼谷子去游走时能很好的减速留下敌人，需要配合队友输出将敌人击杀</intro>
 				<cdTime>0</cdTime>
@@ -3081,7 +3216,7 @@
 			</skill>
 			<skill>
 				<name>先知·神隐</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/189/18910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/189/18910.png</avator>
 				<detail>鬼谷子命令玄微子包裹自身，使自己与周围环境融为一体进入伪装状态，持续4秒；伪装状态下，鬼谷子将增加40%移动速度，并且对触碰到的每个敌人造成450/540/630/720/810/900（+60%法术加成）点法术伤害，同时降低该敌人25%的物理和法术防御，持续4秒，每个敌人最多触发1次；伪装效果会在鬼谷子用其它方式伤害敌人时消失</detail>
 				<intro>这个技能降低敌人护甲和魔抗，能很好的提升我方输出英雄打前排的能力</intro>
 				<cdTime>70</cdTime>
@@ -3089,7 +3224,7 @@
 			</skill>
 			<skill>
 				<name>万物有灵</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/189/18920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/189/18920.png</avator>
 				<detail>鬼谷子召唤大量玄微子在自身周围聚集，对范围内敌人每0.5秒造成100/120/140/160/180/200（+15%法术加成）点法术伤害，持续2秒；2秒后玄微子集结完毕，对范围内敌人造成400（+60%法术加成）点法术伤害，同时将敌人拉扯到鬼谷子身旁并将其晕眩1秒；如果该伤害命中敌方英雄，鬼谷子和范围内的队友将获得可抵免500/600/700/800/900/1000（+100%法术加成）点伤害的护盾</detail>
 				<intro>这个技能是鬼谷子作为辅助的核心控制技能，需要把握技能施放时机，和合理的走位，才能使得它能控制更多的敌人。同时，给附近的队友加护盾，让队友抵消一些伤害</intro>
 				<cdTime>80</cdTime>
@@ -3097,7 +3232,7 @@
 			</skill>
 			<skill>
 				<name>先知·雾隐</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/189/18930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/189/18930.png</avator>
 				<detail>鬼谷子命令玄微子包裹自身和1500距离内的队友，准备1秒后进入伪装状态；伪装状态下鬼谷子和队友将增加30%移动速度；同时将会探查到距离鬼谷子最近的一名敌方英雄视野，伪装状态最多持续4秒；伪装状态下，如果使用普通攻击、技能或敌方造成负面效果会立即解除伪装状态</detail>
 				<intro>这个技能是鬼谷子的核心功能，开启大招，附近友军群体隐身，能够在战术上得到很好的施展，可以群体隐身抱团进攻突袭，亦可用于保护友军进行撤退</intro>
 				<cdTime>120</cdTime>
@@ -3107,7 +3242,9 @@
 	</hero>
 	<hero>
 	<name>"铠"</name>
-		<title>破灭刃锋</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/193/193-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg</avator>
+	<title>破灭刃锋</title>
 		<position>战士</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -3119,7 +3256,7 @@
 		<skills>
 			<skill>
 				<name>修罗之魂</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/193/19300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/193/19300.png</avator>
 				<detail>被动：铠拥有精湛的战斗技巧，当铠的普通攻击和极刃风暴只命中了一个目标时将会额外造成50%伤害。</detail>
 				<intro>在铠利用2技能攻击敌方英雄时候尽可能多的利用普攻来造成额外伤害。</intro>
 				<cdTime>0</cdTime>
@@ -3127,7 +3264,7 @@
 			</skill>
 			<skill>
 				<name>回旋之刃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/193/19310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/193/19310.png</avator>
 				<detail>铠向指定方向投掷刀刃，对命中的敌人造成150/180/210/240/270/300（+60%物理加成）点物理伤害并减少其30%移动速度，持续1秒；刀刃命中敌人后会在敌人间弹射，最多4次；命中的第一个目标将会额外减少20%移动速度，持续1秒；当刀刃命中敌人时，铠将回复150/180/210/240/270/300（+60%物理加成）点生命值并且减少30%回旋之刃的冷却时间，同时增加20%移动速度，持续3秒</detail>
 				<intro>这个技能需要预判对手走位释放，加速效果使得他在追人时能保证他粘住敌人</intro>
 				<cdTime>60</cdTime>
@@ -3135,7 +3272,7 @@
 			</skill>
 			<skill>
 				<name>极刃风暴</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/193/19320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/193/19320.png</avator>
 				<detail>铠向指定方向发动两次挥砍，每次80/96/112/128/144/160（+30%物理加成）点物理伤害，并且第二次挥砍会将敌人击飞0.5秒；同时使得下一次普通攻击更变为冲砍，冲砍会冲锋至目标身旁并发动普通攻击，冲砍会额外造成80（+30%物理加成）点成物理。被动：脱离战斗后铠每秒回复1%最大生命值及最大法力值并且会增加10/12/14/16/18/20点移动速度</detail>
 				<intro>这是铠的突进和主要控制技能，命中将敌人轻微击退，被动带来的移速提升能够让他更好的游走支援</intro>
 				<cdTime>50</cdTime>
@@ -3143,7 +3280,7 @@
 			</skill>
 			<skill>
 				<name>不灭魔躯</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/193/19330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/193/19330.png</avator>
 				<detail>铠召唤魔铠，魔铠在1秒后降临，对附近造成300/400/500点法术伤害并强化自身100/150/200攻击力、50点移动速度、60/95/130点伤害格挡；同时会对自身附近的敌人造成60点法术伤害，持续8秒；</detail>
 				<intro>铠的大招在短暂延迟后才能造成伤害，需要注意走位和大招造成伤害的时机配合。同时，开启大招铠的各项属性在一段时间内都将得到极大的增强</intro>
 				<cdTime>120</cdTime>
@@ -3153,7 +3290,9 @@
 	</hero>
 	<hero>
 	<name>"百里守约"</name>
-		<title>静谧之眼</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/196/196-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/196/196.jpg</avator>
+	<title>静谧之眼</title>
 		<position>射手</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>7</attackAbility>
@@ -3165,7 +3304,7 @@
 		<skills>
 			<skill>
 				<name>瞄准</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/196/19600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/196/19600.png</avator>
 				<detail>被动：百里守约的普通攻击会造成180%物理加成点物理伤害，但攻击间隔更长且无法暴击；百里守约每获得1%暴击几率就会将其转化为3点物理攻击力；非战斗状态下，百里守约能够隐匿在地形边缘，进入伪装状态，并增加16%~30%移动速度，移动速度随英雄等级成长</detail>
 				<intro>百里守约只需要追求更高的物理攻击和物理穿透; 而伪装则能帮助百里守约寻找安全的狙击位置或者追杀中轻松逃脱</intro>
 				<cdTime>0</cdTime>
@@ -3173,7 +3312,7 @@
 			</skill>
 			<skill>
 				<name>静谧之眼</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/196/19610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/196/19610.png</avator>
 				<detail>百里守约在脚下布置一个视野装置，获得600~1000范围的全部视野，随技能等级成长；视野装置每50/48/46/44/42/40秒可准备1个，最多储备3个；同时最多放置3个视野装置，每个视野装置可持续300秒；视野装置被敌方英雄占领后失效；被动：原地不动时百里守约每秒获得1层伏击效果，每层伏击效果会增加7/8/9/10/11/12%物理穿透，最多叠加5层；移动后伏击效果消失</detail>
 				<intro>通过静谧之眼掌控视野，把控全局，技能的被动会让百里守约狙击敌人时造成更高的伤害</intro>
 				<cdTime>30</cdTime>
@@ -3181,7 +3320,7 @@
 			</skill>
 			<skill>
 				<name>狂风之息</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/196/19620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/196/19620.png</avator>
 				<detail>百里守约开始瞄准，并尝试进行一次狙击，对命中目标造成1050/1200/1350/1500/1650/1800（+250%额外物理加成）点物理伤害并减少其90%移动速度，持续0.5秒；瞄准需要花费2秒的时间，但在瞄准未完成时子弹有可能产生偏移；技能子弹每16秒获得一颗，最多储存3颗（受冷却缩减影响）；</detail>
 				<intro>狂风之息拥有超远的射程和视野范围，是百里守约的核心技能，百里守约主要通过该技能狙击对方制造伤害，可以开启团战或收割残血敌人</intro>
 				<cdTime>60</cdTime>
@@ -3189,7 +3328,7 @@
 			</skill>
 			<skill>
 				<name>逃脱</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/196/19630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/196/19630.png</avator>
 				<detail>百里守约向后跳跃并向指定方向射击，造成500/700/900（+168%物理加成）点物理伤害并减少其50%移动速度，持续2秒；落地后自身将增加30%移动速度，持续2秒，但普通攻击或技能攻击会立即停止增加移动速度</detail>
 				<intro>逃脱会让百里守约摆脱近身突袭的敌人</intro>
 				<cdTime>100</cdTime>
@@ -3199,7 +3338,9 @@
 	</hero>
 	<hero>
 	<name>"百里玄策"</name>
-		<title>嚣狂之镰</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/195/195-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/195/195.jpg</avator>
+	<title>嚣狂之镰</title>
 		<position>刺客</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -3211,7 +3352,7 @@
 		<skills>
 			<skill>
 				<name>狂热序章</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/195/19500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/195/19500.png</avator>
 				<detail>被动：钩链近端造成100%物理加成点物理伤害，远端额外造成35%伤害。当钩镰远端命中敌人时降低移速，并且自身会获得短暂移速提升，该效果受神乎钩镰等级影响</detail>
 				<intro>使用技能之后普攻三次后再使用技能是玄策的基本操作，击杀或助攻后，获得的超高攻速和移动速度使得玄策十分擅长收割战场</intro>
 				<cdTime>0</cdTime>
@@ -3219,7 +3360,7 @@
 			</skill>
 			<skill>
 				<name>神乎钩镰</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/195/19510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/195/19510.png</avator>
 				<detail>玄策进行快速位移戏弄对手增加自身25/30/35/40/45/50点物理攻击力，钩镰链中时，玄策进行快速位移会将链中的目标向自己移动方向拉动一小段距离。当钩镰远端命中敌人时，敌人将会减少10%/14%/18%/22%/26%/30%移动速度，自身增加10%/14%/18%/22%/26%/30%移动速度；</detail>
 				<intro>在未链中的情况下使用，可以快速的位移寻找切入位置或者躲避技能，在链中的情况下使用，可以强制让敌人向着玄策位移一段距离</intro>
 				<cdTime>50</cdTime>
@@ -3227,7 +3368,7 @@
 			</skill>
 			<skill>
 				<name>梦魇钩锁</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/195/19520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/195/19520.png</avator>
 				<detail>玄策舞动钩镰，蓄力后将钩镰向指定方向甩出，钩镰会对路径上的敌人造成300/340/380/420/460/500(+140%额外物理加成)点物理伤害并将捆绑在回收过程中命中的第一个目标，同时对捆绑目标施加狩猎效果；如果捆绑住目标后再次释放该技能，玄策会将目标甩向身后并失去狩猎效果;蓄力越久，钩镰飞行距离越远，蓄力最多持续4秒；蓄力时，自身将增加30%移动速度；取消蓄力会减少梦魇钩锁50%的冷却时间；玄策和狩猎目标作战时将增加10%/12%/14%/16%/18%/20%伤害并减少20%/22%/24%/26%/28%/30%该目标对自己的伤害；狩猎目标死亡，将立刻返还梦魇钩锁80%的冷却时间</detail>
 				<intro>开始蓄力时，玄策的移动速度会增加，并且会对敌方走位进行压迫，命中后配合玄策不同技能组合可以打出多种的效果</intro>
 				<cdTime>70</cdTime>
@@ -3235,7 +3376,7 @@
 			</skill>
 			<skill>
 				<name>瞬镰闪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/195/19530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/195/19530.png</avator>
 				<detail>玄策沿钩镰锁链瞬镰闪到对方身后，对路径的的敌人造成350/525/700（+200%额外物理加成）点物理伤害；移动过程中，玄策挥舞短镰，将会减少50%所受到的伤害；瞬镰闪只有在钩镰捆绑住目标时才能释放；被动:玄策助攻或击杀死英雄都会激发心中的狂血使得移速增加70%（随时间效果衰减），攻速增加75%，持续5秒</detail>
 				<intro>冷却较短的瞬镰闪使得玄策无比灵活，利用瞬镰闪快速移动至合适位置，将目标投掷到危险地带或者直接突袭敌人都是不错的选择</intro>
 				<cdTime>80</cdTime>
@@ -3245,7 +3386,9 @@
 	</hero>
 	<hero>
 	<name>"苏烈"</name>
-		<title>不屈铁壁</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/194/194-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/194/194.jpg</avator>
+	<title>不屈铁壁</title>
 		<position>坦克</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -3257,7 +3400,7 @@
 		<skills>
 			<skill>
 				<name>不屈铁壁</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/194/19400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/194/19400.png</avator>
 				<detail>被动：苏烈在濒临死亡时会立即回复60%最大生命值，同时会陷入虚弱状态，持续4.5秒；虚弱状态下将禁止一切操作并免疫控制效果，自身会减少25%物理和法术防御；虚弱状态结束时，苏烈将发出怒吼，对附近敌人造成150（+100%物理加成）法术伤害并减少其50%移动速度，持续2秒；虚弱状态结束时，苏烈还将增加50%攻击速度和30%移动速度，持续2秒；刚陷入虚弱状态时，苏烈周围会出现3盏烽火台，队友可通过触碰烽火台来点亮烽火，每点亮一盏将会为苏烈和该名队友回复10%最大生命值;3盏烽火台都被点亮时，会立即结束虚弱状态；苏烈每120秒才能触发一次虚弱状态；苏烈的意志力能增加60点物理防御和法术防御，但不屈铁壁处于冷却时会暂时失效</detail>
 				<intro>复活过程中，需要队友协助点燃烽火，让苏烈可以快速站起投入战斗。</intro>
 				<cdTime>0</cdTime>
@@ -3265,7 +3408,7 @@
 			</skill>
 			<skill>
 				<name>烽烟踏破</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/194/19410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/194/19410.png</avator>
 				<detail>苏烈的下三次普通攻击变更为强化攻击，每次攻击造成100/130/160/190/220/250（+100%物理加成）点物理伤害，第三次攻击会将范围内的敌人击飞0.75秒。（攻击完成或者强化效果结束时进入冷却）</detail>
 				<intro>主要输出技能，第三击可以击飞敌人，配合被动的加速效果时，可以在短时间内打出高额伤害。</intro>
 				<cdTime>60</cdTime>
@@ -3273,7 +3416,7 @@
 			</skill>
 			<skill>
 				<name>所向披靡</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/194/19420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/194/19420.png</avator>
 				<detail>苏烈短暂蓄力后，向指定方向冲撞，对敌人造成100/130/160/190/220/250（+40%物理加成）点物理伤害并将其击退。如果将敌人击退至地形边缘，将额外造成50%伤害并将其晕眩1秒。如果苏烈冲撞敌方建筑，将对建筑造成250（+100%物理加成）点物理伤害。</detail>
 				<intro>释放时需要一定的预判，尽量将对手冲撞到地形边缘造成晕眩效果。推进的时候，可以释放此技能直接攻击防御塔。</intro>
 				<cdTime>80</cdTime>
@@ -3281,7 +3424,7 @@
 			</skill>
 			<skill>
 				<name>豪烈万军</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/194/19430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/194/19430.png</avator>
 				<detail>苏烈举起柱子开始蓄力，释放时会用力将柱子砸向地面，对范围内敌人造成300/375/450（+150%物理加成）点~1000(+150%物理加成)点物理伤害并将其击飞1秒；蓄力时间越长，攻击范围越大，伤害越高；被击飞的敌人在落地时还会以该名敌人为中心再产生一次震荡攻击，对附近的其他敌人额外造成50%物理伤害；蓄力期间可以移动，取消时会减少50%冷却时间；被动：苏烈释放技能攻击或者强化攻击时将引发地震，持续3秒，对附近的敌方目标造成38（+25%物理加成）点法术伤害</detail>
 				<intro>蓄力阶段要避免被对手打断，时刻观察目前的攻击范围和敌人的分布情况，确保在最佳的时机进行释放，对敌人造成毁灭一击。</intro>
 				<cdTime>120</cdTime>
@@ -3291,7 +3434,9 @@
 	</hero>
 	<hero>
 	<name>"梦奇"</name>
-		<title>入梦之灵</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/198/198-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/198/198.jpg</avator>
+	<title>入梦之灵</title>
 		<position>坦克</position>
 		<surviveAbility>8</surviveAbility>
 		<attackAbility>4</attackAbility>
@@ -3303,7 +3448,7 @@
 		<skills>
 			<skill>
 				<name>食梦</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/198/19800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/198/19800.png</avator>
 				<detail>被动：梦奇不断吞噬周围的噩梦，导致长胖；从最瘦到最胖总共会增长100点质量，耗时20秒；长胖会增加普通攻击和梦境萦绕、梦境漩涡攻击范围，并且最多可以增加150点物理攻击、200点物理和法术防御、92自然回血值；同时最多减少240点移动速度；梦奇使用技能会消耗质量，导致减肥；梦奇的第三次普通攻击将变更为横扫，横扫会造成更大范围的伤害</detail>
 				<intro>合理调整自身体积，在赶路和与敌人周旋时适当缩小体积提高移速，但要确保靠近敌人后拥有足够大的体积进行战斗。</intro>
 				<cdTime>0</cdTime>
@@ -3311,7 +3456,7 @@
 			</skill>
 			<skill>
 				<name>梦境萦绕</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/198/19810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/198/19810.png</avator>
 				<detail>梦奇消耗质量，形成可抵免525/630/735/840/945/1050（+120%法术加成）点伤害的护盾，护盾生成瞬间对周围敌人造成350/420/490/560/630/700（+80%法术加成）法术伤害并减少其50%移动速度，持续1.5秒。使用技能后7秒内下三次普通攻击命中敌人，每次均可回复6点质量</detail>
 				<intro>主要生存技能，也是调控质量的手段之一，带有减速效果。注意技能伤害范围会随质量提升。</intro>
 				<cdTime>40/38/36/34/32/30</cdTime>
@@ -3319,7 +3464,7 @@
 			</skill>
 			<skill>
 				<name>梦境挥洒</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/198/19820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/198/19820.png</avator>
 				<detail>梦奇将噩梦盛装在容器中抛出，容器落地破碎造成200/250/300/350/400/450（+45%法术加成）点法术伤害，噩梦会残留在地面，最多持续5秒，每0.5秒对范围内的敌人造成100/125/150/175/200/225（+22%法术加成）点法术伤害并且范围内敌人将减少30%移动速度。梦奇若触碰残留在地面的噩梦，便会将其回收；同时最多可残留2团噩梦</detail>
 				<intro>释放时需要一定的预判，考虑施法位置时，除了要尽量直接命中敌人，也要能让自己去触碰回收消耗的质量。该技能同样是常用的调控质量手段之一。</intro>
 				<cdTime>40</cdTime>
@@ -3327,7 +3472,7 @@
 			</skill>
 			<skill>
 				<name>梦境漩涡</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/198/19830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/198/19830.png</avator>
 				<detail>梦奇引导噩梦向指定位置输送，形成噩梦漩涡，对范围内的敌人每0.5秒造成150/225/300（+20%法术加成）点法术伤害并会减少50%移动速度，引导最多持续3秒；再次释放或输送结束，梦奇会传送到指定位置并拾起噩梦，对范围内敌人造成300/450/600（+40%法术加成）点法术伤害并将其击飞1秒；引导可被打断，并会执行50%冷却时间；梦奇至少拥有33点质量才能引导噩梦输送。被动：梦奇释放出的噩梦造成伤害时，目标会增加1层噩梦缠绕，每层噩梦缠绕会将其减少8%法术攻击力，持续4秒，最多可叠加5层</detail>
 				<intro>如果希望传送到目的地，那么尽量完整吟唱整个技能，这样传送后拥有较高质量。但也可以选择在吟唱期间取消技能，这样可只作为一个远程软控技能使用。</intro>
 				<cdTime>0</cdTime>
@@ -3337,7 +3482,9 @@
 	</hero>
 	<hero>
 	<name>"女娲"</name>
-		<title>至高创世</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/179/179-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/179.jpg</avator>
+	<title>至高创世</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -3349,7 +3496,7 @@
 		<skills>
 			<skill>
 				<name>辉煌指引</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/179/17900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/17900.png</avator>
 				<detail>被动：女娲每升一级提升3%自身视野（最高42%），同时提升2%普攻与技能释放范围（最高28%）；女娲的技能伤害会标记英雄，使得友军（包括自己）对标记目标造成的普攻和技能伤害，能够在2秒内增加友军16%移动速度和生命回复（总计可回复40（+12%法术加成）），这个效果对于每个攻击者每0.5秒只能触发一次；</detail>
 				<intro>越到后期，女娲的视野范围更广阔，配合超远的法术攻击距离，让其在后期总能够找到合适的作战位置</intro>
 				<cdTime>0</cdTime>
@@ -3357,7 +3504,7 @@
 			</skill>
 			<skill>
 				<name>指令</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/179/17910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/17910.png</avator>
 				<detail>女娲向指定方向释放能量，对路径上的敌人造成250/290/330/370（+36%法术加成）点法术伤害和击退效果，在撞到敌人之后逐渐停下，并展开十字型阵列，对命中的敌人造成250/290/330/370（+36%法术加成）点法术伤害；</detail>
 				<intro>击退后所展开的十字阵列范围颇大，但是能力飞行时速度较慢，需要一定预判</intro>
 				<cdTime>7消耗</cdTime>
@@ -3365,7 +3512,7 @@
 			</skill>
 			<skill>
 				<name>指令</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/179/17920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/17920.png</avator>
 				<detail>女娲在指定位置创造矩阵空间，阻止敌方单位通过；创造的空间将在3秒后消失，空间消失或者女娲其他技能触碰到矩阵空间都会引发爆炸对附近的敌人造成500/580/660/740（+80%法术加成）点法术伤害；女娲每100点法术攻击将会延长矩阵空间的0.2秒持续时间，最多可储存4个矩阵空间；</detail>
 				<intro>女娲的法术强度可以延长矩阵的存在时间，以便女娲创造更加有利的作战环境</intro>
 				<cdTime>0消耗</cdTime>
@@ -3373,7 +3520,7 @@
 			</skill>
 			<skill>
 				<name>指令</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/179/17930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/17930.png</avator>
 				<detail>女娲创造裂隙，在短暂的吟唱后将自己传送到指定位置，并对周围的敌人造成500/560/620/680（+65%法术加成）点法术伤害并短暂眩晕；被动：女娲受到英雄伤害会触发自动防御机制，对身边敌人造成50%减速，生成可抵挡400/480/560/640（+80%法术加成）点伤害的护盾并增加30%移动速度持续2秒</detail>
 				<intro>超远程移动技能，可以保证女娲对于其他分路的战斗和野区遭遇战的支援速度</intro>
 				<cdTime>50/45/40/35消耗</cdTime>
@@ -3381,7 +3528,7 @@
 			</skill>
 			<skill>
 				<name>指令</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>女娲在短暂的延迟后，向指定方向释放纯净的能量，对路径上的敌人造成700/1050/1400（+88%法术加成）点法术伤害</detail>
 				<intro>中前期，手握技能就可以对其他位置的敌人进行威慑，后期更是可以直接对敌方后排进行打击</intro>
 				<cdTime>50/40/30消耗</cdTime>
@@ -3391,7 +3538,9 @@
 	</hero>
 	<hero>
 	<name>"明世隐"</name>
-		<title>灵魂劫卜</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/501/501-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/501/501.jpg</avator>
+	<title>灵魂劫卜</title>
 		<position>辅助</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -3403,7 +3552,7 @@
 		<skills>
 			<skill>
 				<name>大吉大利</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/501/50100.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/501/50100.png</avator>
 				<detail>被动：明世隐对同一目标的第三次普攻会对其造成0.75秒晕眩，对同一目标叠满印记后3秒内无法再对其叠加印记</detail>
 				<intro>虽然明世隐是辅助，但是在前期对抗时，该被动会对敌人造成极大的威胁</intro>
 				<cdTime>0</cdTime>
@@ -3411,7 +3560,7 @@
 			</skill>
 			<skill>
 				<name>临卦·无忧</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/501/50110.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/501/50110.png</avator>
 				<detail>以法器连接一名队友/敌人，增加/减少50~150物攻和75~225法攻（受法术加成及师卦·飞翼等级影响）及15%移速，强化自身2/3该数值的物攻和法强（不随断链移除）并提升15%移速；若目标是敌人，还会每0.5秒造成100/120/140/160/180/200（+20%法术加成）点法术伤害，并对魂链触碰的敌人也造成同等伤害；若目标是队友，会提升其10%/12%/14%/16%/18%/20%攻速，对目标的属性影响可由师卦·飞翼切换为增加/减少连接的队友/敌人36%-54%物理及法术防御（师卦·飞翼等级影响）；被魂链连接的目标将暴露视野；同时只能连接一个目标</detail>
 				<intro>明世隐的核心技能，进可削弱追杀敌人，退可增强己方核心输出，连接还可解锁大招的释放</intro>
 				<cdTime>50</cdTime>
@@ -3419,7 +3568,7 @@
 			</skill>
 			<skill>
 				<name>师卦·飞翼</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/501/50120.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/501/50120.png</avator>
 				<detail>明世隐切换法器状态，法器状态切换后，临卦·无忧对目标的连接效果也会相应切换；攻击改变状态：使连接的队友/敌人增加/减少其75/96/117/138/159/180(+9%法术加成)物理及90/115/140/165/190/215（+10%法术加成）法术攻击，并强化自身2/3该数值的物理及法术攻击；防御改变状态：增加/减少连接的队友/敌人36%/39%/43%/46%/50%/54%物理及法术防御，并强化自身2/3该数值的物理及法术防御</detail>
 				<intro>当连接到前排坦克时，可以增强/削弱其防御能力，当连接到输出核心时，可增强/削弱其输出能力</intro>
 				<cdTime>50</cdTime>
@@ -3427,7 +3576,7 @@
 			</skill>
 			<skill>
 				<name>泰卦·长生</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/501/50130.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/501/50130.png</avator>
 				<detail>明世隐在0.75秒吟唱后，法器会带走他的部分生命，化作能量射向当前连接的目标；如果目标是敌人会造成1000/1500/2000(+150%法术加成)点真实伤害，如果是队友会回复等量生命；法球命中目标瞬间，明世隐会损失等量生命值，损失值不会超过当前生命值，且损失生命值会在之后10秒内逐渐恢复；被动：明世隐脱战后每秒回复百分比已损生命值5%</detail>
 				<intro>无论连接敌人还是队友释放，由于自己会损失等量生命值，所以需要释放后能立即脱离战场；再者，因为造成真实伤害，所以对坦克的威胁特别大</intro>
 				<cdTime>120</cdTime>
@@ -3437,7 +3586,9 @@
 	</hero>
 	<hero>
 	<name>"公孙离"</name>
-		<title>幻舞玲珑</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/199/199-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/199/199.jpg</avator>
+	<title>幻舞玲珑</title>
 		<position>射手</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -3449,7 +3600,7 @@
 		<skills>
 			<skill>
 				<name>晚云落</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/199/19900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/199/19900.png</avator>
 				<detail>被动：阿离的普攻伤害会为目标叠加枫之印记，每四层印记触发一次爆炸（并叠加新的印记），对周围敌人造成150（+70%物理加成）点法术伤害并减少所有技能1秒CD；释放技能或收回纸伞后阿离的普通攻击将会额外投掷一枚飞镖并造成30%物理加成点物理伤害；阿离能够再释放技能后再次使用技能回归到纸伞的位置；当阿离手中没有纸伞时，自身移动速度提升50点与基础攻击间隔缩短20%</detail>
 				<intro>阿离每次释放技能下次普通攻击可叠加2个印记，通过不断的释放技能快速累积标记即可打出爆炸伤害</intro>
 				<cdTime>0</cdTime>
@@ -3457,7 +3608,7 @@
 			</skill>
 			<skill>
 				<name>岑中归月</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/199/19910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/199/19910.png</avator>
 				<detail>阿离向指定方向瞬步，并将纸伞留在原地（如果纸伞在阿离手中）</detail>
 				<intro>快速位移技能，即可留作生存手段，亦可先手打出小爆发</intro>
 				<cdTime>50</cdTime>
@@ -3465,7 +3616,7 @@
 			</skill>
 			<skill>
 				<name>霜叶舞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/199/19920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/199/19920.png</avator>
 				<detail>阿离旋转起操控纸伞飞旋（如果纸伞在阿离手中），击落飞行物对范围内敌人造成两段打击每段造成120/144/168/192/216/240（+40%物理加成）点法术伤害；</detail>
 				<intro>需要注意纸伞将做圆周飞行，配合走位，可移动超乎想象的距离，进一步的增加了阿离的灵活性，并且击落飞行物将会保证阿离一定的生存空间</intro>
 				<cdTime>60</cdTime>
@@ -3473,7 +3624,7 @@
 			</skill>
 			<skill>
 				<name>孤鹜断霞</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/199/19930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/199/19930.png</avator>
 				<detail>阿离击退前方的敌人，造成250/375/500（+80%物理加成）点法术伤害，并将纸伞向指定方向掷出（如果纸伞在阿离手中）</detail>
 				<intro>掷出纸伞距离比较远，可在作逃脱或跨地形作战时使用，并且纸伞不在手中时，也可击退敌人并造成伤害</intro>
 				<cdTime>90</cdTime>
@@ -3483,7 +3634,9 @@
 	</hero>
 	<hero>
 	<name>"杨玉环"</name>
-		<title>霓裳风华</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/176/176-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/176/176.jpg</avator>
+	<title>霓裳风华</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -3495,7 +3648,7 @@
 		<skills>
 			<skill>
 				<name>惊鸿调</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/176/17600.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/176/17600.png</avator>
 				<detail>被动：杨玉环切换曲调，在释放技能时产生不同的效果；破阵：释放技能对800范围内敌方英雄造成75（+15%法术加成）点法术伤害；对小兵额外造成75%伤害；清平：释放技能对800范围内友军造成50（+10%法术加成）点生命回复</detail>
 				<intro>被动技能可以切换状态！根据战况，点击切换不同的曲调，在每次释放技能时会附带治疗或伤害效果</intro>
 				<cdTime>0</cdTime>
@@ -3503,7 +3656,7 @@
 			</skill>
 			<skill>
 				<name>霓裳曲</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/176/17610.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/176/17610.png</avator>
 				<detail>杨玉环拨动琴弦，产生3道音波，音波在向外飞出后会缓慢追击敌方单位（英雄优先）造成200/230/260/290/320/350（+30%法术加成）点法术伤害并减少目标50%移动速度，持续1秒；释放技能后，杨玉环的下一次普通攻击将会造成额外200/230/260/290/320/350（+30%法术加成）点法术伤害，并减少所有技能CD1秒；</detail>
 				<intro>杨玉环使用频率最高的技能，不仅附带减速效果，随后的普通攻击能为杨玉环带来更快的技能冷却效果；配合频繁的触发被动，使得敌人在被动范围内将会不断被消耗并提供队友高额的回复能力</intro>
 				<cdTime>50</cdTime>
@@ -3511,7 +3664,7 @@
 			</skill>
 			<skill>
 				<name>胡旋乐</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/176/17620.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/176/17620.png</avator>
 				<detail>杨玉环拨动琴弦短时间提升自身50%移速(受时间衰减)，1.5秒后对位于杨玉环600~800范围内的敌人造成250/300/350/400/450/500（+40%法术加成）点法术伤害与晕眩效果持续0.75秒</detail>
 				<intro>因为只有外环区间才能将敌方眩晕，所以需要利用技能附带的移动速度进行走位，最大的发挥其功用</intro>
 				<cdTime>70</cdTime>
@@ -3519,7 +3672,7 @@
 			</skill>
 			<skill>
 				<name>长恨歌</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/176/17630.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/176/17630.png</avator>
 				<detail>杨玉环解放力量，跃向空中（期间无法被选中）演奏乐曲；演奏完成后治疗身边500范围内的友军750/1100/1450（+80%法术加成）点生命，并对范围内敌人造成500/750/1000（+75%法术加成）点法术伤害；</detail>
 				<intro>跃向空中时，杨玉环能够躲避一波敌人的进攻，玩家需要准确的把握释放的时机，将战局扭转</intro>
 				<cdTime>100</cdTime>
@@ -3529,7 +3682,9 @@
 	</hero>
 	<hero>
 	<name>"裴擒虎"</name>
-		<title>六合虎拳</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/502/502-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/502/502.jpg</avator>
+	<title>六合虎拳</title>
 		<position>刺客</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>8</attackAbility>
@@ -3541,7 +3696,7 @@
 		<skills>
 			<skill>
 				<name>寸劲</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/502/50200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/502/50200.png</avator>
 				<detail>被动：在人形态下每次普攻将发出气功波，攻击目标时造成额外16点法术伤害（伤害随英雄等级提升），额外造成的法术伤害可以在3秒内进行叠加，至多提升到基础值的3倍。普攻每次命中恢复5点能量</detail>
 				<intro>裴擒虎在人形态进行攻击能更快的恢复能量，为下次切换虎形态打爆发做铺垫/裴擒虎在虎形态拥有更高的基础属性和更强的正面战斗技能机制，但能量恢复较慢，需要与人形态下的特性互补</intro>
 				<cdTime>0</cdTime>
@@ -3549,7 +3704,7 @@
 			</skill>
 			<skill>
 				<name>冲拳式</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/502/50210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/502/50210.png</avator>
 				<detail>朝指定方向发出气功，对一条路径上的敌人造成250/300/350/400/450/500（+115%额外物理加成）点法术伤害和目标当前生命值8%的额外法术伤害并减少目标50%移动速度，持续1.5秒。该技能命中敌方英雄时恢复20点能量</detail>
 				<intro>该技能兼顾消耗和控制效果，并且攻击距离较远，可以在远处不断骚扰敌人/裴擒虎的斩杀技能，较短的冷却时间使得其拥有不弱于其他刺客强势收割能力</intro>
 				<cdTime>50</cdTime>
@@ -3557,7 +3712,7 @@
 			</skill>
 			<skill>
 				<name>气守式</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/502/50220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/502/50220.png</avator>
 				<detail>施展念气环绕自身，施法瞬间对附近敌人造成100/150/200/250/300/350（+70%额外物理加成）点法术伤害，并形成护盾包裹自身持续5秒，可吸收400（+150%额外物理加成）伤害。护盾存在期间每0.5秒对附近敌人造成20/30/40/50/60/70（+14%额外物理加成）点法术伤害并提升裴擒虎30%攻击速度。</detail>
 				<intro>需要注意的是念气护盾不会因为切换形态而消失/当在野区等复杂地形作战时，裴擒虎通过折返跳跃的技巧可以打出超额的伤害，也可通过翻山越岭灵活躲避敌人的追捕</intro>
 				<cdTime>50</cdTime>
@@ -3565,7 +3720,7 @@
 			</skill>
 			<skill>
 				<name>虎啸风生</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/502/50230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/502/50230.png</avator>
 				<detail>裴擒虎切换到虎形态，1秒内增加30%移动速度并强化下两次攻击，第一击扑向指定目标，造成20/110/200/290（+100%物理加成）点物理伤害和1秒90%减速。第二击对面前的敌人造成80（+100%物理加成）点法术伤害</detail>
 				<intro>裴擒虎的核心技能，让他从1级开始就拥有双形态以及2套完全不同的技能。需要根据当前的对战情况选择合适的形态</intro>
 				<cdTime>0</cdTime>
@@ -3575,7 +3730,9 @@
 	</hero>
 	<hero>
 	<name>"弈星"</name>
-		<title>天元之弈</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/197/197-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/197/197.jpg</avator>
+	<title>天元之弈</title>
 		<position>法师</position>
 		<surviveAbility>4</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -3587,7 +3744,7 @@
 		<skills>
 			<skill>
 				<name>气合</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/197/19700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/197/19700.png</avator>
 				<detail>被动：受到致命伤害时，弈星会遁入虚无，免疫所有伤害并提升30%移动速度，持续1秒，并在旁边自动生成两颗棋子，这个效果有90秒CD。弈星的普通攻击会造成70（+100%物理加成）（+20%法术加成）点法术伤害。</detail>
 				<intro>凭借被动，弈星很难被刺客一击击杀，但是单人行动时，被动并不能让弈星摆脱危险情况</intro>
 				<cdTime>0</cdTime>
@@ -3595,7 +3752,7 @@
 			</skill>
 			<skill>
 				<name>定式·镇神</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/197/19710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/197/19710.png</avator>
 				<detail>在指定地点放置一颗黑色棋子，棋子生成时会对周围敌人造成200/240/280/320/360/400（+16%法术加成）点法术伤害。黑白棋子如果距离低于1000，则会互相吸引并爆炸，对范围内的敌人造成400（+32%法术加成）点法术伤害和90%减速持续1秒(爆炸伤害随英雄等级成长,2秒内连续受到爆炸后续伤害将衰减30%)。棋子每8/7.6/7.2/6.8/6.4/6秒存储一发（受到减CD属性影响），最多存储4颗，每颗棋子最多持续15秒。被动：棋子被动爆炸命中敌方英雄后会提高弈星30/60/90/120/150/180法术强度（随1技能等级成长），持续3秒，最多叠加4层</detail>
 				<intro>可以先放置多颗同色棋子，再根据实际情况使用另一色棋子引动爆炸</intro>
 				<cdTime>35</cdTime>
@@ -3603,7 +3760,7 @@
 			</skill>
 			<skill>
 				<name>定式·倚盖</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/197/19720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/197/19720.png</avator>
 				<detail>在指定地点放置一颗白色棋子，棋子生成时会对周围敌人造成200/240/280/320/360/400（+16%法术加成）点法术伤害。黑白棋子如果距离低于1000，则会互相吸引并爆炸，对范围内的敌人造成400（+32%法术加成）点法术伤害和90%减速持续1秒(爆炸伤害随英雄等级成长,2秒内连续受到爆炸后续伤害将衰减30%)。棋子每8/7.6/7.2/6.8/6.4/6秒存储一发（受到减CD属性影响），最多存储4颗，每颗棋子最多持续15秒。被动：棋子被动爆炸命中敌方英雄后会提高弈星8%/16%/24%/32%/40%/48%攻速（随2技能等级成长），持续3秒，最多叠加4层</detail>
 				<intro>根据形势让敌人处于棋子连线的中央可打出高额伤害</intro>
 				<cdTime>35</cdTime>
@@ -3611,7 +3768,7 @@
 			</skill>
 			<skill>
 				<name>天元</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/197/19730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/197/19730.png</avator>
 				<detail>弈星划出一个巨大的虚空棋盘，棋盘上会自动生成4颗棋子。释放技能2秒后棋盘完全成型，成型时对棋盘内的敌人造成480/720/960（+72%法术加成）点法术伤害和0.5秒眩晕，棋盘完全成型后所有棋盘上的敌人将无法离开棋盘范围，棋盘成型后共持续4秒。</detail>
 				<intro>超大的范围是该技能的优势，但是略微有些长的生成时间，需要配合队友控制才能将敌人完全限制在棋盘之中</intro>
 				<cdTime>120</cdTime>
@@ -3621,7 +3778,9 @@
 	</hero>
 	<hero>
 	<name>"狂铁"</name>
-		<title>战车意志</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/503/503-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/503/503.jpg</avator>
+	<title>战车意志</title>
 		<position>战士</position>
 		<surviveAbility>6</surviveAbility>
 		<attackAbility>6</attackAbility>
@@ -3633,7 +3792,7 @@
 		<skills>
 			<skill>
 				<name>无畏战车</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/503/50300.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/503/50300.png</avator>
 				<detail>被动：狂铁的武器在击中敌人时会激发电流，进而为武器充能。普攻每命中一个英雄/非英雄回复7点/5点能量,技能每命中一个英雄/非英雄回复9点/6点能量，最多可储存90点能量。充能＞30点时，技能会获得不同的强化效果。每次普攻附带40点物理伤害，并在命中敌人时回复20（+15%物理加成）点自身生命值。强化技能使用时会消耗30点能量，且不会因击中敌人而获取能量。脱离战斗后，能量每秒减少3点。</detail>
 				<intro>狂铁在高能量状态下，拥有更强的技能效果，合理的安排技能释放，能够最大化的增幅狂铁的战斗能力</intro>
 				<cdTime>0</cdTime>
@@ -3641,7 +3800,7 @@
 			</skill>
 			<skill>
 				<name>碎裂之刃</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/503/50310.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/503/50310.png</avator>
 				<detail>狂铁奋力向前横挥武器两次，每次造成150/170/190/210/230/250(+100%物理加成)点物理伤害。每命中一个敌人回复自身已损生命值2%+30/36/42/48/54/60（+16%物理加成）点生命值。充能强化：伤害提升至225/255/285/315/345/375（+150%物理加成）点物理伤害，生命回复提升至已损生命值4%+60/72/84/96/108/120（+32%物理加成）点生命值。作用于非英雄单位时，生命回复效果减半。</detail>
 				<intro>已损生命值比例的回复效果，让狂铁在后手攻击也毫不吃亏，当在兵线附近时，狂铁的回复能力还会更加强大</intro>
 				<cdTime>0</cdTime>
@@ -3649,7 +3808,7 @@
 			</skill>
 			<skill>
 				<name>强袭风暴</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/503/50320.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/503/50320.png</avator>
 				<detail>狂铁向前冲锋，冲锋路径上的敌人受到150/180/210/240/270/300(+75%物理加成)点物理伤害。冲锋结束后，狂铁的下次普攻得到强化，造成200/240/280/320/360/400（+100%物理加成）点物理伤害和50%减速效果持续2秒。充能强化：在释放强化普攻时若能量＞30，强化普攻伤害提升至300/360/420/480/540/600（+183%物理加成）点物理伤害，对受击者造成1秒击飞和晕眩，以及之后1秒50%减速。且在释放第一次强化普攻时消耗30点能量</detail>
 				<intro>冲锋并不会消耗能量，利用冲锋后的突袭效果，将能量强化在其他技能上也可能会发挥更大的作用</intro>
 				<cdTime>0</cdTime>
@@ -3657,7 +3816,7 @@
 			</skill>
 			<skill>
 				<name>力场压制</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/503/50330.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/503/50330.png</avator>
 				<detail>狂铁将武器重重砸向地面，使电流向周围蔓延，电流对触及的敌人造成250/375/500（+100%物理加成）点物理伤害和1.5秒50%减速。强烈的电流还会形成可抵挡1000/1500/2000点伤害的护盾，护盾每0.5秒对周围敌人造成50/75/100（+20%物理加成）点物理伤害，并且每次伤害为狂铁汲取4点能量（从非英雄单位汲取2点）,护盾最多持续6秒。充能强化：伤害提升375/563/751（+150%物理加成）点物理伤害，护盾值提升至1500/2250/3000。</detail>
 				<intro>强化的护盾持续期间，可以为狂铁带来大量的能量值，进而强化其余技能，增加其爆发能力</intro>
 				<cdTime>0</cdTime>
@@ -3667,7 +3826,9 @@
 	</hero>
 	<hero>
 	<name>"米莱狄"</name>
-		<title>筑城者</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/504/504-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/504/504.jpg</avator>
+	<title>筑城者</title>
 		<position>法师</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -3679,7 +3840,7 @@
 		<skills>
 			<skill>
 				<name>机械仆从</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/504/50400.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/504/50400.png</avator>
 				<detail>被动：直接被米莱狄或者机械仆从击杀的单位（除敌方机械仆从以外），会在其附近召唤1个机械仆从（至多存活8秒），短暂时间后冲向附近的敌人进行攻击。（机械仆从的攻击力,生命值和移动速度受到米莱狄的法术强度加成，机械仆从至多存在5个，超过上限时自动引爆更早的机械仆从）。机械仆从如果没有被击杀，生存期结束后将会发生爆炸对附近敌人造成200（+30%法术加成）点法术伤害。机械仆从攻击力：150（+30%法术加成）,机械仆从生命值：500（+100%法术加成）,机械仆从移动速度：450（+10%法术加成）</detail>
 				<intro>机械仆从是米莱狄最大的依仗，在对线或消耗战斗中，米莱狄不断击杀从而召唤的机械仆从可以轻松滚起胜利的雪球</intro>
 				<cdTime>0</cdTime>
@@ -3687,7 +3848,7 @@
 			</skill>
 			<skill>
 				<name>空中力量</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/504/50410.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/504/50410.png</avator>
 				<detail>米莱狄指挥飞行器朝指定方向飞出，对沿路的敌人进行扫射造成60/70/80/90/100/110（+6%法术加成）点法术伤害。飞行器连续攻击2次以后，下一次攻击将会对目标发射一枚导弹，造成120（+12%法术加成）点法术伤害。飞行器在飞行的过程中，米莱狄可以发出指令让飞行器进行一次分裂，变为2个飞行器进行攻击，分裂的飞行器造成45/53/61/69/77/85（+4%法术加成）点法术伤害如果敌人同时受到2个飞行器的攻击，将会被减速50%持续1.5秒。</detail>
 				<intro>米莱狄的主要消耗技能，合理的预判飞行路径和在合适的时机分裂飞机可以造成大量伤害的同时限制对手的移动能力</intro>
 				<cdTime>60</cdTime>
@@ -3695,7 +3856,7 @@
 			</skill>
 			<skill>
 				<name>强制入侵</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/504/50420.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/504/50420.png</avator>
 				<detail>米莱狄标记一个位置，短暂时间后召唤两个机械仆从，落地时对附近敌人造成100/120/140/160/180/200（+20%法术加成）点法术伤害，并在1秒后激活，自动攻击附近的敌方单位，机械仆从存活至多8秒。每20/19/18/17/16/15秒储备一个机械仆从，至多储备3个</detail>
 				<intro>米莱狄的核心技能，在机械仆从数量不足时，米莱狄可以主动的增加场面上仆从的数量以支持其战斗</intro>
 				<cdTime>25</cdTime>
@@ -3703,7 +3864,7 @@
 			</skill>
 			<skill>
 				<name>浩劫磁场</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/504/50430.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/504/50430.png</avator>
 				<detail>米莱狄朝指定目标发出一颗信号装置，标记并晕眩敌人持续0.75秒，被标记目标受到磁场干扰每0.5秒造成100/150/200（+5%法术加成）点法术伤害，并减少30%移动速度持续3秒，干扰效果结束时引发磁场爆炸攻击附近的敌人，造成基于干扰期间来自米莱狄和她的机械部队对其造成的总伤害30%/40%/50%法术伤害。如果磁场爆炸直接击败了被标记的英雄或者在标记期间死亡，将在其附近召唤3个机械仆从。当机械仆从发现标记的目标时，将会立即冲向该目标发起攻击。</detail>
 				<intro>机械仆从会在大招标记后集火攻击标记目标，在有足够数量的机械仆从在行动时，大招的第二段伤害会有可观的提升</intro>
 				<cdTime>100</cdTime>
@@ -3713,7 +3874,9 @@
 	</hero>
 	<hero>
 	<name>"元歌"</name>
-		<title>无间傀儡</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/125/125-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/125.jpg</avator>
+	<title>无间傀儡</title>
 		<position>刺客</position>
 		<surviveAbility>1</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -3725,7 +3888,7 @@
 		<skills>
 			<skill>
 				<name>秘术·操控</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/125/12500.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/12500.png</avator>
 				<detail>被动：傀儡将继承元歌全部装备（除复活甲）效果以及部分BUFF效果，傀儡普通攻击附带0~195（+100%物理加成）点物理伤害(基础伤害随1技能等级成长)，获得的金币经验与部分BUFF效果都会共享给元歌，傀儡被杀死会暴露元歌的视野，禁止傀儡使用，同时对元歌造成晕眩；每当傀儡回归本体，本体都会清除控制效果并获得40%加速持续1秒和200（+62%物理加成）点护盾效果</detail>
 				<intro>适时的收回傀儡避免傀儡死亡让本体陷入危机</intro>
 				<cdTime>0</cdTime>
@@ -3733,7 +3896,7 @@
 			</skill>
 			<skill>
 				<name>秘术·影</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/125/12510.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/12510.png</avator>
 				<detail>元歌将傀儡向指定方向掷出，对路径上敌人造成300/360/420/480（+125%额外物理加成）点物理伤害和击飞效果，并开始操控傀儡，傀儡会模仿一个敌方英雄直到攻击或者受到攻击；傀儡位于元歌900范围内时元歌会进行自动攻击；傀儡超过元歌2500范围5秒后会自动销毁；傀儡一旦死亡或销毁控制权将立即转回元歌本体身上并被禁用25秒</detail>
 				<intro>释放傀儡后，地面会出现范围标识</intro>
 				<cdTime>100</cdTime>
@@ -3741,7 +3904,7 @@
 			</skill>
 			<skill>
 				<name>秘术·纸雏鸾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/125/12520.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/12520.png</avator>
 				<detail>元歌在短暂延迟后向指定方向掷出4枚暗器，对路径上敌人造成450/550/650/750（+220%额外物理加成）物理伤害，暗器可以连续命中多枚，但伤害将折减70%</detail>
 				<intro>虽然会折减伤害，但是靠近敌人还是可以打出巨额的伤害</intro>
 				<cdTime>60</cdTime>
@@ -3749,7 +3912,7 @@
 			</skill>
 			<skill>
 				<name>秘术·十字闪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/125/12530.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/12530.png</avator>
 				<detail>元歌甩出丝线向后拉扯，每根丝线对命中目标造成250/295/340/385（+100%额外物理加成）点物理伤害，被两条丝线命中的单位将会受到额外已损生命16%的物理伤害和50%减速效果持续2秒</detail>
 				<intro>元歌拉扯丝线时，会朝后方移动一段距离</intro>
 				<cdTime>60</cdTime>
@@ -3757,7 +3920,7 @@
 			</skill>
 			<skill>
 				<name>秘术·散</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>元歌立即消失清除控制效果，并在短暂延迟后出现在范围内的另一位置</detail>
 				<intro>元歌短暂消失时无法被攻击，利用该技能位移时，还能躲避关键技能</intro>
 				<cdTime>100</cdTime>
@@ -3767,7 +3930,9 @@
 	</hero>
 	<hero>
 	<name>"孙策"</name>
-		<title>光明之海</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/510/510-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/510/510.jpg</avator>
+	<title>光明之海</title>
 		<position>坦克</position>
 		<surviveAbility>7</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -3779,7 +3944,7 @@
 		<skills>
 			<skill>
 				<name>怒潮</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/510/51000.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/510/51000.png</avator>
 				<detail>被动：每过6秒，孙策的下一次普攻附带额外110(+60%物理加成)点物理伤害，并回复自身55（+30%物理加成）（+3%已损生命）点生命值;被动：每次受到物理伤害或真实伤害时，孙策获得1层不屈效果：护甲值提升20点，持续6秒，可叠加10层</detail>
 				<intro>通过被动，孙策能在对抗中取得消耗上的优势</intro>
 				<cdTime>0</cdTime>
@@ -3787,7 +3952,7 @@
 			</skill>
 			<skill>
 				<name>劈风斩浪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/510/51010.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/510/51010.png</avator>
 				<detail>孙策向前冲锋，对路径上敌人造成120/144/168/192/216/240（+50%物理加成）点物理伤害。冲锋到终点后造成一次范围240/288/336/384/432/480（+100%物理加成）点物理伤害，短暂延迟后这个范围喷发波涛，再次造成相同伤害，并对命中敌人造成1秒击飞效果</detail>
 				<intro>孙策会冲锋固定距离，需要玩家预判才能打出控制和二段伤害</intro>
 				<cdTime>50</cdTime>
@@ -3795,7 +3960,7 @@
 			</skill>
 			<skill>
 				<name>惊涛骇浪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/510/51020.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/510/51020.png</avator>
 				<detail>连续三次向前踏步并劈砍，每次造成的物理伤害逐渐提高25%，基础造成160/192/224/256/288/320（+60%物理加成）点物理伤害，每次命中敌人造成30%减速，减速效果可叠加。使用技能会重置普通攻击冷却时间</detail>
 				<intro>通过重置普通攻击冷却效果，在技能间穿插普通攻击，能让孙策能在极短时间内打出大量伤害</intro>
 				<cdTime>70</cdTime>
@@ -3803,7 +3968,7 @@
 			</skill>
 			<skill>
 				<name>长帆破浪</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/510/51030.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/510/51030.png</avator>
 				<detail>驾船冲锋，速度逐渐提升，期间霸体，冲锋持续7秒。撞到兵线野怪造成伤害和击飞，撞到阻挡物、敌方英雄、航行时间结束时船都会爆炸造成300/450/600（+120%物理加成）点物理伤害和击飞，击飞时间1～1.5秒（与已航行时间成正比）。航行过程中可释放第二段，释放后船继续航行固定距离，同时孙策弃船朝选定方向跳跃固定距离。撞击到敌方英雄会获取5层不屈效果</detail>
 				<intro>当孙策跳船后，即使船体发生了撞击，也不会增加不屈效果</intro>
 				<cdTime>100</cdTime>
@@ -3813,7 +3978,9 @@
 	</hero>
 	<hero>
 	<name>"司马懿"</name>
-		<title>寂灭之心</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/137/137-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/137/137.jpg</avator>
+	<title>寂灭之心</title>
 		<position>刺客</position>
 		<surviveAbility>5</surviveAbility>
 		<attackAbility>5</attackAbility>
@@ -3825,7 +3992,7 @@
 		<skills>
 			<skill>
 				<name>静默之语</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/137/13700.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/137/13700.png</avator>
 				<detail>被动：司马懿能够获得2000范围内施法者的视野且该范围内地方释放技能会为司马懿回复5带你能量；司马懿基础拥有80点能量（每级提升3点能量上限），同时每次击杀或者助攻能够提升10点能量上限，将普攻替换为巨大的镰刀攻击造成法术伤害，持续4秒，镰刀每击造成250（+40%法术加成）点法术伤害，替换为镰刀后的首次攻击可位移到目标身后造成500（+80%法术加成）点法术伤害</detail>
 				<intro>司马懿在前中期需要计算好能量分配情况，并且尽量的参与战斗叠加自身的能量上限</intro>
 				<cdTime>0</cdTime>
@@ -3833,7 +4000,7 @@
 			</skill>
 			<skill>
 				<name>幽影之咬</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/137/13710.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/137/13710.png</avator>
 				<detail>司马懿释放无法被选中的灵体，过程中本体免疫控制，对穿过的敌人造成100/120/140/160/180/200（+20%法术加成）点法术伤害，效果结束后本体将会移动至灵体的位置，并对路径上的敌人造成100/120/140/160/180/200（+20%法术加成）点法术伤害和50%减速持续1秒</detail>
 				<intro>灵体的移动速度极快，并且使用普通会立即结束灵体状态</intro>
 				<cdTime>40</cdTime>
@@ -3841,7 +4008,7 @@
 			</skill>
 			<skill>
 				<name>荒芜之域</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/137/13720.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/137/13720.png</avator>
 				<detail>司马懿释放灵力，压制周围的区域造成300/350/400/450/500/550（+35%法术加成）点法术伤害与1秒沉默，如果司马懿2秒后还在被压制的区域中则会获得25/30/35/40/45/50点的能量；被动：司马懿吸收部分的法术伤害时，将其中30%在5秒内转化为生命值</detail>
 				<intro>被动并不能直接减免伤害，需要主要不要高估自身硬度</intro>
 				<cdTime>40</cdTime>
@@ -3849,7 +4016,7 @@
 			</skill>
 			<skill>
 				<name>死神降临</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/137/13730.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/137/13730.png</avator>
 				<detail>司马懿化身死神，在短暂的蓄力后向指定地点冲击，造成700/875/1050（100%法术加成）点法术伤害，并且会对冲击路径触碰的敌人造成50%伤害</detail>
 				<intro>大招有一定的延迟，需要一定的预判</intro>
 				<cdTime>40</cdTime>
@@ -3859,7 +4026,9 @@
 	</hero>
 	<hero>
 	<name>"盾山"</name>
-		<title>无尽之盾</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/509/509-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/509.jpg</avator>
+	<title>无尽之盾</title>
 		<position>辅助</position>
 		<surviveAbility>10</surviveAbility>
 		<attackAbility>3</attackAbility>
@@ -3871,7 +4040,7 @@
 		<skills>
 			<skill>
 				<name>天地化盾</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/509/50900.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/50900.png</avator>
 				<detail>被动：盾山借助生成的石盾可完全抵挡掉大量的子弹技能，并且防御状态下获得30%免伤效果；庞大的身躯使得盾山的普通攻击将造成附带自身最大生命4%加成的物理伤害</detail>
 				<intro>进入防御状态的盾山，可以承受大量的伤害输出，但是需要小心敌方拉扯、绕后直接攻击队友</intro>
 				<cdTime>0</cdTime>
@@ -3879,7 +4048,7 @@
 			</skill>
 			<skill>
 				<name>一夫当关</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/509/50910.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/50910.png</avator>
 				<detail>盾山降低50%移速横盾于身前进入防御状态，触碰石盾的敌人会被击退并对其造成250/300/350/400/450/500(+50%物理加成）点物理伤害</detail>
 				<intro>降低移速使得盾山并不擅长追击战，需要协同队友保持冷静步步逼近</intro>
 				<cdTime>0</cdTime>
@@ -3887,7 +4056,7 @@
 			</skill>
 			<skill>
 				<name>万夫莫开</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/509/50920.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/50920.png</avator>
 				<detail>盾山向前冲锋击退身前的野怪小兵并造成550/620/690/760/830/900(+100%物理加成）点物理伤害，并且会扔回第一下撞到的敌方英雄，敌方英雄落地会对周围造成1秒晕眩和550（+100%物理加成）点物理伤害。可在技能不动如山持续期间使用，使用将立即收回张开的巨盾</detail>
 				<intro>前期可凭借其位移控制效果进行突袭，后期可以配合大招强势分割敌方阵型</intro>
 				<cdTime>50</cdTime>
@@ -3895,7 +4064,7 @@
 			</skill>
 			<skill>
 				<name>不动如山</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/509/50930.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/50930.png</avator>
 				<detail>盾山掀开身边的敌方单位造成300/400/500（+60%物理加成）点物理伤害，然后张开巨盾砸向地面造成300（+60%物理加成）点物理伤害和击退，被砸晕击退单位减缓移动速度50%持续1秒，后续的能量流动持续推开面前的敌人，造成的伤害将衰减50%</detail>
 				<intro>大招释放后，稍等等待一段时间，即可以主动取消巨盾或直接使用2技能突袭敌人</intro>
 				<cdTime>100</cdTime>
@@ -3903,7 +4072,7 @@
 			</skill>
 			<skill>
 				<name>固守成规</name>
-				<avator>###</avator>
+				<avator>#</avator>
 				<detail>盾山和塔合二为一，期间并为防御塔提供600点物理及法术防御并每秒修复防御塔130点生命持续7秒</detail>
 				<intro>靠近机关即可即可使用，对局中支援修复劣势路机关，可以为边路英雄赢得更多发育时间</intro>
 				<cdTime>50</cdTime>
@@ -3913,7 +4082,9 @@
 	</hero>
 	<hero>
 	<name>"伽罗"</name>
-		<title>破魔之箭</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/508/508-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/508/508.jpg</avator>
+	<title>破魔之箭</title>
 		<position>射手</position>
 		<surviveAbility>2</surviveAbility>
 		<attackAbility>9</attackAbility>
@@ -3925,7 +4096,7 @@
 		<skills>
 			<skill>
 				<name>破魔之箭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/508/50800.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/508/50800.png</avator>
 				<detail>被动：伽罗的普攻与技能伤害将会优先对目标的护盾效果造成一次等额的伤害</detail>
 				<intro>伽罗能够迅速的将敌人的护盾值打掉</intro>
 				<cdTime>0</cdTime>
@@ -3933,7 +4104,7 @@
 			</skill>
 			<skill>
 				<name>渡灵之箭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/508/50810.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/508/50810.png</avator>
 				<detail>伽罗展开长弓，攻击间隔增长25%并提升200点射程；在此形态下，伽罗的每一次射击都会消耗50点法力值，并使目标获得持续2秒的损伤，每0.5秒额外造成45/47/49/51/53/55（+5%物理加成）点法术伤害</detail>
 				<intro>展开和关闭长弓并不会消耗蓝量，但是展开长弓后的消耗会比较大，需要控制蓝量</intro>
 				<cdTime>0</cdTime>
@@ -3941,7 +4112,7 @@
 			</skill>
 			<skill>
 				<name>静默之箭</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/508/50820.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/508/50820.png</avator>
 				<detail>伽罗以长弓为施法媒介，张开法阵，并在一定的延迟后向指定方向射出破魔之箭，对路径上的敌人造成250/280/310/340/370/400（+40%物理加成）点法术伤害与0.5秒沉默及50%减速持续1秒，箭矢穿过区域在1秒后会爆炸对范围内敌人造成500/560/620/680/740/800（+80%物理加成）点法术伤害</detail>
 				<intro>远距离沉默，开团可直接释放帮助我方建立先手优势</intro>
 				<cdTime>75</cdTime>
@@ -3949,7 +4120,7 @@
 			</skill>
 			<skill>
 				<name>纯净之域</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/508/50830.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/508/50830.png</avator>
 				<detail>伽罗在身边张开法阵持续8秒并可手动关闭，提升范围内友军20%暴击率；法阵在张开和关闭的瞬间会对范围内敌军造成250/350/450(+75%物理加成)点法术伤害，关闭时会对尚在法阵中的友军产生一个持续3秒的20%暴击率与20%移速增加的效果；被动：伽罗的暴击会对目标造成90%减速持续0.5秒；</detail>
 				<intro>手动关闭法阵可以帮助自己和友军追击和撤退</intro>
 				<cdTime>100</cdTime>
@@ -3959,7 +4130,9 @@
 	</hero>
 	<hero>
 	<name>"沈梦溪"</name>
-		<title>爆弹怪猫</title>
+	<background>game.gtimg.cn/images/yxzj/img201606/skin/hero-info/312/312-bigskin-1.jpg</background>
+	<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/312/312.jpg</avator>
+	<title>爆弹怪猫</title>
 		<position>法师</position>
 		<surviveAbility>3</surviveAbility>
 		<attackAbility>1</attackAbility>
@@ -3971,7 +4144,7 @@
 		<skills>
 			<skill>
 				<name>暴躁节奏</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/312/31200.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/312/31200.png</avator>
 				<detail>被动：沈梦溪的技能命中目标后会将敌人点燃，点燃效果将持续3秒，使用普通攻击命中被点燃的敌人会触发爆炸对附近的敌人造成100（+16%法术加成）点法术伤害。同时被点燃的敌人会暴露视野且移动速度降低20%</detail>
 				<intro>利用被动清理兵线，可以节约部分炸弹，以免团战时炸弹数量不足</intro>
 				<cdTime>0</cdTime>
@@ -3979,7 +4152,7 @@
 			</skill>
 			<skill>
 				<name>喵咪炸弹</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/312/31210.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/312/31210.png</avator>
 				<detail>沈梦溪蓄力后朝目标位置投掷一枚喵咪炸弹，爆炸后对范围内的敌人造成450/510/570/630/690/750(+50%法术加成）点法术伤害。炸弹投掷的最远距离和蓄力时间成正比，蓄力达1秒后射程达到上限；如果沈梦溪自身处于点燃状态，猫咪炸弹将锁定敌人，命中后会将敌人击退造成450/510/570/630/690/750(+50%法术加成）点法术伤害同时炸弹会继续朝前弹一段距离落地爆炸再次造成同等伤害。炸弹每10秒获得一枚，最多可以存储5枚，获取速度受冷却缩减影响；</detail>
 				<intro>在自身处于点燃状态下，可以释放自动锁定并且带有击退效果的喵咪炸弹</intro>
 				<cdTime>40</cdTime>
@@ -3987,7 +4160,7 @@
 			</skill>
 			<skill>
 				<name>正常操作</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/312/31220.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/312/31220.png</avator>
 				<detail>沈梦溪失误点燃了自己，期间移动速度增加100%并持续衰减，5秒后身上的炸弹会被引爆将沈梦溪朝前炸出一段距离，同时会将路径上的敌人炸晕并造成500/560/620/680/740/800（+65%法术加成）点法术伤害；点燃期间可以手动熄灭身上的火焰，冷却时间根据已燃烧的时间增加；在沈梦溪被点燃期间猫咪炸弹的投掷方式会发生变化。</detail>
 				<intro>提前熄灭火焰可以避免向前弹射</intro>
 				<cdTime>70</cdTime>
@@ -3995,7 +4168,7 @@
 			</skill>
 			<skill>
 				<name>综合爆款</name>
-				<avator>//game.gtimg.cn/images/yxzj/img201606/heroimg/312/31230.png</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/312/31230.png</avator>
 				<detail>沈梦溪蓄力后朝目标位置投掷一枚EX型混合炸弹，爆炸后对范围内的敌人造成500/750/1000（+70%法术加成）点法术伤害，并在之后的2秒时间内累计造成250/375/500（+35%法术加成）点法术伤害，同时分裂出3枚猫咪炸弹朝四周散落，落地后爆炸对附近的敌人造成250/375/500（+35%法术加成）点法术伤害。炸弹投掷的最远距离和蓄力时间成正比；蓄力达2秒后射程达到上限。EX型混合炸弹每50秒会获得一枚，最多可以储存2枚，获取速度受冷却缩减影响。</detail>
 				<intro>蓄力使得大招可攻击距离变长，沈梦溪需要小心保持自身处于安全的位置</intro>
 				<cdTime>100</cdTime>

@@ -88,11 +88,11 @@ class Spider(object):
             # background
             background = soup.find_all(
                 'div', class_='zk-con1')[0].attrs["style"].split("'")[1]
-            self.hero_info[hero_name]['background'] = background
+            self.hero_info[hero_name]['background'] = background[2:]
 
             # avator
             heroId = self.hero_id[hero_name]
-            self.hero_info[hero_name]['avator'] = "//game.gtimg.cn/images/yxzj/img201606/heroimg/" +\
+            self.hero_info[hero_name]['avator'] = "game.gtimg.cn/images/yxzj/img201606/heroimg/" +\
                 heroId + "/" + heroId + ".jpg"
 
             # title
@@ -133,7 +133,7 @@ class Spider(object):
                     skillInfo['intro'] = intro
                     avator = soup.find_all(
                         'ul', class_='skill-u1')[0].find_all('img')[index].attrs['src']
-                    skillInfo['avator'] = avator
+                    skillInfo['avator'] = avator[2:]
                     self.hero_info[hero_name]['skills'].append(skillInfo)
 
         except Exception as e:
@@ -144,10 +144,11 @@ class Spider(object):
         try:
             print("Generate XML")
             with open("Heros.xml", 'w', encoding='utf-8') as f:
-                f.writelines("<heros>\n")
+                f.writelines("<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<heros>\n")
                 for hero_name in self.hero_info:
-                    now_line = '\t<hero>\n\t<name>%s</name>\n\t\t<title>%s</title>\n\t\t<position>%s</position>\n\t\t<surviveAbility>%d</surviveAbility>\n\t\t<attackAbility>%d</attackAbility>\n\t\t<skillAbility>%d</skillAbility>\n\t\t<difficulty>%d</difficulty>\n\t\t<story>\n\t\t\t%s\n\t\t</story>\n\t\t<skills>\n' \
-                        % (hero_name, self.hero_info[hero_name]['title'], self.hero_info[hero_name]['type'],
+                    now_line = '\t<hero>\n\t<name>%s</name>\n\t<background>%s</background>\n\t<avator>%s</avator>\n\t<title>%s</title>\n\t\t<position>%s</position>\n\t\t<surviveAbility>%d</surviveAbility>\n\t\t<attackAbility>%d</attackAbility>\n\t\t<skillAbility>%d</skillAbility>\n\t\t<difficulty>%d</difficulty>\n\t\t<story>\n\t\t\t%s\n\t\t</story>\n\t\t<skills>\n' \
+                        % (hero_name, self.hero_info[hero_name]['background'], self.hero_info[hero_name]['avator'],
+                            self.hero_info[hero_name]['title'], self.hero_info[hero_name]['type'],
                             self.hero_info[hero_name]['surviveAbility'], self.hero_info[hero_name]['attackAbility'],
                             self.hero_info[hero_name]['skillAbility'], self.hero_info[hero_name]['difficulty'],
                             self.hero_info[hero_name]['story'].replace('<', ''))
