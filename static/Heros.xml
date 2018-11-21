@@ -1968,7 +1968,7 @@
 			</skill>
 			<skill>
 				<name>秘技·隐匿</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/153/15340.png</avator>
 				<detail>兰陵王开始准备并于1.5秒后进入隐身状态，持续30秒，解除隐身状态后兰陵王会增加50%攻击速度，持续5秒；隐身时若处于敌人附近超过3秒，隐身状态将会自动解除</detail>
 				<intro>进入隐身状态靠近敌人，当然这个技能也能用来逃命使用</intro>
 				<cdTime>0</cdTime>
@@ -3080,7 +3080,7 @@
 			</skill>
 			<skill>
 				<name>漩涡之门</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/191/19140.png</avator>
 				<detail>大乔在指定位置召唤大型法阵，对范围内敌人造成660/830/1000（+72%法术加成）点法术伤害；法阵将持续8秒；法阵存在时，所有队友可以通过点击旋窝之门传送至法阵位置；当己方英雄处于法阵范围内时，会增加40%攻击速度</detail>
 				<intro>这个技能是大乔有很高战术意义的技能，可以快速集结队友对敌方进行意想不到的狙击行动</intro>
 				<cdTime>120</cdTime>
@@ -3184,7 +3184,7 @@
 			</skill>
 			<skill>
 				<name>剑来</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/182/18240.png</avator>
 				<detail>干将立刻刷新飞剑技能，并唤出更多的剑来强化下一次飞剑技能。被动：莫邪时刻观察着战场，将增加15%视野距离，每一股飞剑命中敌人减少剑来一秒CD。</detail>
 				<intro>使用2、3技能后立即刷新技能冷却，可连续对一定距离上的敌人攻击2次，打出爆发性伤害</intro>
 				<cdTime>120</cdTime>
@@ -3528,7 +3528,7 @@
 			</skill>
 			<skill>
 				<name>指令</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/179/17940.png</avator>
 				<detail>女娲在短暂的延迟后，向指定方向释放纯净的能量，对路径上的敌人造成700/1050/1400（+88%法术加成）点法术伤害</detail>
 				<intro>中前期，手握技能就可以对其他位置的敌人进行威慑，后期更是可以直接对敌方后排进行打击</intro>
 				<cdTime>50/40/30消耗</cdTime>
@@ -3920,7 +3920,7 @@
 			</skill>
 			<skill>
 				<name>秘术·散</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/125/12540.png</avator>
 				<detail>元歌立即消失清除控制效果，并在短暂延迟后出现在范围内的另一位置</detail>
 				<intro>元歌短暂消失时无法被攻击，利用该技能位移时，还能躲避关键技能</intro>
 				<cdTime>100</cdTime>
@@ -4072,7 +4072,7 @@
 			</skill>
 			<skill>
 				<name>固守成规</name>
-				<avator>#</avator>
+				<avator>game.gtimg.cn/images/yxzj/img201606/heroimg/509/50940.png</avator>
 				<detail>盾山和塔合二为一，期间并为防御塔提供600点物理及法术防御并每秒修复防御塔130点生命持续7秒</detail>
 				<intro>靠近机关即可即可使用，对局中支援修复劣势路机关，可以为边路英雄赢得更多发育时间</intro>
 				<cdTime>50</cdTime>
