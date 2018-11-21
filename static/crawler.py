@@ -131,8 +131,11 @@ class Spider(object):
                     intro = skill.find_all(
                         'div', class_='skill-tips')[0].get_text()
                     skillInfo['intro'] = intro
-                    avator = soup.find_all(
-                        'ul', class_='skill-u1')[0].find_all('img')[index].attrs['src']
+                    if index == 4:
+                        avator = soup.find_all('ul', class_='skill-u1')[0].find_all('li')[index].attrs['data-img']
+                    else:
+                        avator = soup.find_all(
+                            'ul', class_='skill-u1')[0].find_all('img')[index].attrs['src']
                     skillInfo['avator'] = avator[2:]
                     self.hero_info[hero_name]['skills'].append(skillInfo)
 
